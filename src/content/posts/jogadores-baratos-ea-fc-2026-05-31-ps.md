@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:56.000Z
+pubDatetime: 2026-05-31T21:29:00.000Z
 title: "Jogadores baratos de Americanos no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Alyssa Naeher (88, NWSL) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alyssa Naeher (88) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Riley Tiernan (88) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alyssa Naeher | 88 | GK | NWSL | 14k coins | 0% |
-| Riley Tiernan | 88 | ST | NWSL | 14k coins | -3.5% |
-| Ashley Sanchez | 88 | LM | NWSL | 14k coins | -9.8% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -12.5% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | +3.6% |
-| Rose Lavelle | 88 | CM | NWSL | 15k coins | -6.4% |
-| Hinata Miyazawa | 87 | CM | Barclays Women’s Super League | 12k coins | -58.6% |
-| Jack McGlynn | 87 | CM | MLS | 13k coins | +2% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 15k coins | -9.1% |
-| Croix Bethune | 87 | CAM | NWSL | 15k coins | +3.4% |
+| Riley Tiernan | 88 | ST | NWSL | 13k coins | -8.8% |
+| Alyssa Naeher | 88 | GK | NWSL | 13k coins | -3.7% |
+| Ashley Sanchez | 88 | LM | NWSL | 14k coins | -1.8% |
+| Rose Lavelle | 88 | CM | NWSL | 14k coins | -12.7% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -10.9% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | +11.5% |
+| Jack McGlynn | 87 | CM | MLS | 13k coins | +6.2% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | +5.9% |
+| Croix Bethune | 87 | CAM | NWSL | 15k coins | +7.3% |
+| Phallon Tullis-Joyce | 86 | GK | Barclays WSL | 11k coins | -62.5% |
 | Landon Donovan | 86 | CAM | MLS | 12k coins | 0% |
-| Phallon Tullis-Joyce | 86 | GK | Barclays WSL | 12k coins | -59.1% |
-| Olivia Moultrie | 86 | CM | NWSL | 13k coins | -1.9% |
-| Christian Pulisic | 86 | ST | Serie A TIM | 14k coins | -77.4% |
+| Olivia Moultrie | 86 | CM | NWSL | 14k coins | +3.7% |
+| Christian Pulisic | 86 | ST | Serie A TIM | 14k coins | -75.9% |
+| Folarin Balogun | 85 | ST | Ligue 1 McDonald's | 11k coins | -63.1% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.3% |
 
 
 ## 📈 Destaques
 
-- **Alyssa Naeher (88, GK)** da NWSL, a apenas **14k coins**
+- **Riley Tiernan (88, ST)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Riley Tiernan (88, ST)** da NWSL, a apenas **14k coins**
+- **Alyssa Naeher (88, GK)** da NWSL, a apenas **13k coins**
 
-- **Ashley Sanchez (88, LM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ashley Sanchez (88, LM)** da NWSL, a apenas **14k coins**
+
+- **Rose Lavelle (88, CM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Julie Foudy (88, CM)** da Icons, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Alyssa Naeher (88, NWSL) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

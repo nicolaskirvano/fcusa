@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:55.000Z
+pubDatetime: 2026-05-31T21:29:00.000Z
 title: "Americanos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,70 +13,70 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Carson Pickett (86, NWSL), com +22.2% em 24h, a 22k coins no Console (PS)."
+    a: "Weston McKennie (91, Serie A TIM), com +23.5% em 24h, a 32k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Clint Dempsey (89), -35.8% em 24h, a 28k coins."
+    a: "Trinity Rodman (87), -29.4% em 24h, a 240k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Malik Tillman (85) — 95% de probabilidade de alta, a 17k coins."
+    a: "Pelo modelo FutQuant, Jaelin Howell (89) — 95% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 44 em queda (média -2.49%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 42 em queda (média -5.81%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **23 subiram** e **44 caíram**, com variação média de **-2.49%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **42 caíram**, com variação média de **-5.81%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Carson Pickett (86) **+22.2%** · 🔴 **Maior baixa:** Clint Dempsey (89) **-35.8%**
+> 🟢 **Maior alta:** Weston McKennie (91) **+23.5%** · 🔴 **Maior baixa:** Trinity Rodman (87) **-29.4%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carson Pickett | 86 | NWSL | 22k coins | +22.2% | +3.5% |
-| Trinity Rodman | 87 | NWSL | 279k coins | +16.2% | +16.7% |
-| Lindsey Heaps | 91 | D1 Arkema | 112k coins | +13.7% | +9.8% |
-| DaMarcus Beasley | 88 | MLS | 37k coins | +13% | 0% |
-| Taylor Flint | 88 | NWSL | 390k coins | +11.1% | +52.9% |
-| Alex Morgan | 91 | Icons | 739k coins | +10.6% | +1.9% |
-| Diego Luna | 89 | MLS | 23k coins | +7% | +15% |
-| Alex Pfeiffer | 90 | NWSL | 829k coins | +6.2% | +18.3% |
-| Julie Foudy | 92 | Icons | 31k coins | +3.3% | -19% |
+| Weston McKennie | 91 | Serie A TIM | 32k coins | +23.5% | +21.2% |
+| Jaelin Howell | 89 | NWSL | 22k coins | +18.7% | +32.8% |
+| Sydney Leroux | 88 | NWSL | 40k coins | +12% | -20.5% |
+| DaMarcus Beasley | 88 | MLS | 37k coins | +10.4% | +38.3% |
+| Lindsey Heaps | 91 | D1 Arkema | 103k coins | +9% | +1% |
+| Sergiño Dest | 86 | Eredivisie | 38k coins | +8.4% | +2% |
+| Alex Pfeiffer | 90 | NWSL | 860k coins | +7.8% | +2.3% |
+| Julie Foudy | 92 | Icons | 32k coins | +6.7% | -18.6% |
+| Alex Morgan | 91 | Icons | 712k coins | +6.6% | -1.8% |
 
 
 ### Análise das altas
 
-- **Carson Pickett (86)** subiu **+22.2%** em 24h, a **22k coins** (faixa do dia: 20k–22k). Está em linha com a média de 7 dias (+4%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Weston McKennie (91)** subiu **+23.5%** em 24h, a **32k coins** (faixa do dia: 24k–32k). Está +17% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Trinity Rodman (87)** subiu **+16.2%** em 24h, a **279k coins** (faixa do dia: 224k–340k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Jaelin Howell (89)** subiu **+18.7%** em 24h, a **22k coins** (faixa do dia: 14k–22k). Está +27% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
 
-- **Lindsey Heaps (91)** subiu **+13.7%** em 24h, a **112k coins** (faixa do dia: 94k–112k). Está +11% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Sydney Leroux (88)** subiu **+12%** em 24h, a **40k coins** (faixa do dia: 36k–43k). Está -17% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **continuidade da alta** (80% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Clint Dempsey | 89 | Premier League | 28k coins | -35.8% | -9% |
-| Malik Tillman | 88 | Bundesliga | 214k coins | -26% | +7.5% |
-| Weston McKennie | 91 | Serie A TIM | 24k coins | -22% | +14.3% |
-| Sydney Leroux | 88 | NWSL | 43k coins | -14.1% | -10% |
+| Trinity Rodman | 87 | NWSL | 240k coins | -29.4% | +2.6% |
+| Clint Dempsey | 89 | Premier League | 30k coins | -20.8% | +2.5% |
+| Trinity Rodman | 88 | NWSL | 150k coins | -18.9% | 0% |
+| Gisele Thompson | 90 | NWSL | 26k coins | -18.8% | +23.8% |
+| DeAndre Yedlin | 86 | MLS | 32k coins | -16.3% | -15.2% |
 | Alex Morgan | 91 | Icons | 235k coins | -13.6% | -11.6% |
-| Alyssa Thompson | 91 | Barclays WSL | 104k coins | -13.3% | -9.6% |
-| Gisele Thompson | 90 | NWSL | 23k coins | -9% | -14.2% |
-| Mia Hamm | 93 | Icons | 309k coins | -8.8% | -0.6% |
-| Mark McKenzie | 89 | Ligue 1 McDonald's | 22k coins | -8.5% | -14% |
-| Alex Morgan | 93 | Icons | 390k coins | -7.1% | -18.8% |
+| Malik Tillman | 88 | Bundesliga | 210k coins | -12.5% | -1.9% |
+| Jaedyn Shaw | 89 | NWSL | 22k coins | -11.8% | +5.9% |
+| Lindsey Heaps | 90 | D1 Arkema | 34k coins | -11.5% | +19% |
+| Taylor Flint | 88 | NWSL | 381k coins | -9.1% | +17.2% |
 
 
 ### Análise das baixas
 
-- **Clint Dempsey (89)** caiu **-35.8%** em 24h, a **28k coins** (faixa do dia: 28k–47k). Está -26% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Trinity Rodman (87)** caiu **-29.4%** em 24h, a **240k coins** (faixa do dia: 217k–340k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
 
-- **Malik Tillman (88)** caiu **-26%** em 24h, a **214k coins** (faixa do dia: 214k–284k). Está em linha com a média de 7 dias (-6%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+- **Clint Dempsey (89)** caiu **-20.8%** em 24h, a **30k coins** (faixa do dia: 25k–36k). Está -18% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Weston McKennie (91)** caiu **-22%** em 24h, a **24k coins** (faixa do dia: 24k–31k). Está -9% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Trinity Rodman (88)** caiu **-18.9%** em 24h, a **150k coins** (faixa do dia: 150k–204k). Está -18% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -85,14 +85,12 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Malik Tillman | 85 | 17k coins | 21k coins | 95% |
-| Jaelin Howell | 89 | 16k coins | 19k coins | 95% |
-| Christian Pulisic | 87 | 20k coins | 23k coins | 95% |
+| Jaelin Howell | 89 | 22k coins | 26k coins | 95% |
 | DaMarcus Beasley | 88 | 37k coins | 44k coins | 95% |
 | Naomi Girma | 87 | 70k coins | 80k coins | 95% |
-| Alyssa Thompson | 91 | 104k coins | 128k coins | 95% |
-| Malik Tillman | 88 | 214k coins | 275k coins | 95% |
-| Sydney Leroux | 88 | 43k coins | 47k coins | 80% |
+| Alyssa Thompson | 91 | 113k coins | 139k coins | 95% |
+| Malik Tillman | 88 | 210k coins | 270k coins | 95% |
+| Sydney Leroux | 88 | 40k coins | 43k coins | 80% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,13 +100,13 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
 | Mia Hamm | 93 | 309k coins | -17.3% |
-| Trinity Rodman | 88 | 173k coins | -24% |
-| Tim Ream | 85 | 55k coins | -34.1% |
-| Jaedyn Shaw | 89 | 30k coins | -15.6% |
-| Clint Dempsey | 89 | 28k coins | -17.3% |
-| Timothy Weah | 85 | 26k coins | -29.1% |
-| Carson Pickett | 86 | 22k coins | -24% |
-| Weston McKennie | 91 | 24k coins | -16.7% |
+| Trinity Rodman | 88 | 167k coins | -24% |
+| Tim Ream | 85 | 56k coins | -34.1% |
+| Weston McKennie | 91 | 32k coins | -16.7% |
+| Gisele Thompson | 90 | 26k coins | -15.7% |
+| Carson Pickett | 86 | 16k coins | -24% |
+| Clint Dempsey | 89 | 30k coins | -17.3% |
+| Mark McKenzie | 89 | 23k coins | -16.7% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -119,20 +117,22 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Carson Pickett (86, NWSL), com +22.2% em 24h, a 22k coins no Console (PS).
+Weston McKennie (91, Serie A TIM), com +23.5% em 24h, a 32k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Clint Dempsey (89), -35.8% em 24h, a 28k coins.
+Trinity Rodman (87), -29.4% em 24h, a 240k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Malik Tillman (85) — 95% de probabilidade de alta, a 17k coins.
+Pelo modelo FutQuant, Jaelin Howell (89) — 95% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 44 em queda (média -2.49%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 42 em queda (média -5.81%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

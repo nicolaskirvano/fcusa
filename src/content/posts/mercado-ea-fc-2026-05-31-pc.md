@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:56.000Z
+pubDatetime: 2026-05-31T21:29:01.000Z
 title: "Americanos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lindsey Heaps (88), -26.8% em 24h, a 35k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 21 cartas em alta contra 28 em queda (média 3.05%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 19 cartas em alta contra 28 em queda (média 3.03%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **28 caíram**, com variação média de **3.05%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **19 subiram** e **28 caíram**, com variação média de **3.03%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Alyssa Thompson (91) **+59.3%** · 🔴 **Maior baixa:** Lindsey Heaps (88) **-26.8%**
 
@@ -91,11 +91,13 @@ Alyssa Thompson (91, Barclays WSL), com +59.3% em 24h, a 172k coins no PC.
 Lindsey Heaps (88), -26.8% em 24h, a 35k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 21 cartas em alta contra 28 em queda (média 3.05%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 19 cartas em alta contra 28 em queda (média 3.03%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 

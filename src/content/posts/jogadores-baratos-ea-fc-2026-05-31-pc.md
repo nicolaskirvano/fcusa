@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:43:57.000Z
+pubDatetime: 2026-05-31T21:29:01.000Z
 title: "Jogadores baratos de Americanos no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 6k coins | +5.2% |
+| Sophia Wilson | 88 | ST | NWSL | 6k coins | +1.8% |
 | Julie Foudy | 88 | CM | Icons | 14k coins | +5.7% |
-| Lindsey Heaps | 87 | CAM | D1 Arkema | 3k coins | +44.4% |
-| Rose Lavelle | 87 | CM | NWSL | 3k coins | +12.5% |
+| Lindsey Heaps | 87 | CAM | D1 Arkema | 2k coins | +47.1% |
+| Mallory Swanson | 87 | LM | NWSL | 3k coins | +17.4% |
 | Landon Donovan | 86 | CAM | MLS | 11k coins | 0% |
 | Olivia Moultrie | 86 | CM | NWSL | 15k coins | -9.1% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | 0% |
 | Clint Dempsey | 85 | CAM | MLS | 11k coins | 0% |
 | Folarin Balogun | 85 | ST | Ligue 1 McDonald's | 11k coins | -68.4% |
 | Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -23% |
-| Tim Howard | 85 | GK | Premier League | 12k coins | +8.9% |
 | Madison Haley | 85 | RW | Barclays WSL | 13k coins | -11.9% |
-| Korbin Shrader | 84 | CDM | D1 Arkema | 11k coins | -56% |
 | Kaishū Sano | 84 | CM | Bundesliga | 11k coins | -74.1% |
+| Korbin Shrader | 84 | CDM | D1 Arkema | 11k coins | -56% |
 | Croix Bethune | 84 | CDM | NWSL | 11k coins | -68.1% |
+| Lily Yohannes | 84 | CM | D1 Arkema | 11k coins | -66.4% |
 
 
 ## 📈 Destaques
@@ -52,9 +52,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Julie Foudy (88, CM)** da Icons, a apenas **14k coins**
 
-- **Lindsey Heaps (87, CAM)** da D1 Arkema, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Lindsey Heaps (87, CAM)** da D1 Arkema, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Rose Lavelle (87, CM)** da NWSL, a apenas **3k coins**
+- **Mallory Swanson (87, LM)** da NWSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
 
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
