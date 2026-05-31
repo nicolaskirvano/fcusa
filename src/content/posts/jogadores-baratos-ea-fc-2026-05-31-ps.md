@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:29:00.000Z
+pubDatetime: 2026-05-31T22:33:01.000Z
 title: "Jogadores baratos de Americanos no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -38,12 +38,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jack McGlynn | 87 | CM | MLS | 13k coins | +6.2% |
 | Michelle Cooper | 87 | RW | NWSL | 14k coins | +5.9% |
 | Croix Bethune | 87 | CAM | NWSL | 15k coins | +7.3% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -6.5% |
 | Phallon Tullis-Joyce | 86 | GK | Barclays WSL | 11k coins | -62.5% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | 0% |
 | Olivia Moultrie | 86 | CM | NWSL | 14k coins | +3.7% |
 | Christian Pulisic | 86 | ST | Serie A TIM | 14k coins | -75.9% |
-| Folarin Balogun | 85 | ST | Ligue 1 McDonald's | 11k coins | -63.1% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.3% |
+| Clint Dempsey | 85 | CAM | MLS | 11k coins | +2.3% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.4% |
 
 
 ## 📈 Destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:29:00.000Z
+pubDatetime: 2026-05-31T22:33:01.000Z
 title: "Americanos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Jaelin Howell (89) — 95% de probabilidade de alta, a 22k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 42 em queda (média -5.81%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 41 em queda (média -5.91%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **42 caíram**, com variação média de **-5.81%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **41 caíram**, com variação média de **-5.91%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Weston McKennie (91) **+23.5%** · 🔴 **Maior baixa:** Trinity Rodman (87) **-29.4%**
 
@@ -63,11 +63,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Trinity Rodman | 88 | NWSL | 150k coins | -18.9% | 0% |
 | Gisele Thompson | 90 | NWSL | 26k coins | -18.8% | +23.8% |
 | DeAndre Yedlin | 86 | MLS | 32k coins | -16.3% | -15.2% |
-| Alex Morgan | 91 | Icons | 235k coins | -13.6% | -11.6% |
 | Malik Tillman | 88 | Bundesliga | 210k coins | -12.5% | -1.9% |
 | Jaedyn Shaw | 89 | NWSL | 22k coins | -11.8% | +5.9% |
 | Lindsey Heaps | 90 | D1 Arkema | 34k coins | -11.5% | +19% |
 | Taylor Flint | 88 | NWSL | 381k coins | -9.1% | +17.2% |
+| Mia Hamm | 93 | Icons | 309k coins | -8.8% | -0.6% |
 
 
 ### Análise das baixas
@@ -126,7 +126,7 @@ Trinity Rodman (87), -29.4% em 24h, a 240k coins.
 Pelo modelo FutQuant, Jaelin Howell (89) — 95% de probabilidade de alta, a 22k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 42 em queda (média -5.81%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 41 em queda (média -5.91%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
