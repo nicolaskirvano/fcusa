@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:33:01.000Z
+pubDatetime: 2026-06-01T13:33:01.000Z
 title: "Americanos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Malik Tillman (85) — 95% de probabilidade de alta, a 25k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 29 cartas em alta contra 34 em queda (média 1.92%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 30 cartas em alta contra 32 em queda (média 2.17%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **29 subiram** e **34 caíram**, com variação média de **1.92%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **30 subiram** e **32 caíram**, com variação média de **2.17%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Mark McKenzie (89) **+57.9%** · 🔴 **Maior baixa:** Clint Dempsey (89) **-22.1%**
 
@@ -127,7 +127,7 @@ Clint Dempsey (89), -22.1% em 24h, a 30k coins.
 Pelo modelo FutQuant, Malik Tillman (85) — 95% de probabilidade de alta, a 25k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 29 cartas em alta contra 34 em queda (média 1.92%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 30 cartas em alta contra 32 em queda (média 2.17%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

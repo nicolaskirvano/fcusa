@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:33:02.000Z
+pubDatetime: 2026-06-01T13:33:02.000Z
 title: "Jogadores baratos de Americanos no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -43,7 +43,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Croix Bethune | 87 | CAM | NWSL | 14k coins | 0% |
 | Michelle Cooper | 87 | RW | NWSL | 14k coins | -9.4% |
 | Phallon Tullis-Joyce | 86 | GK | Barclays WSL | 11k coins | -63.6% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | +2.3% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -2.2% |
 
 
 ## 📈 Destaques
