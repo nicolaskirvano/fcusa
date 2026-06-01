@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T19:33:02.000Z
+pubDatetime: 2026-06-01T22:33:02.000Z
 title: "Melhores investimentos em Americanos no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
