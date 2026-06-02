@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T22:33:03.000Z
+pubDatetime: 2026-06-02T01:33:03.000Z
 title: "Jogadores baratos de Americanos no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
