@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:33:18.000Z
+pubDatetime: 2026-06-18T19:36:07.000Z
 title: "Americanos no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
