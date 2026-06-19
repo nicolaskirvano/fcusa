@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:35:36.000Z
+pubDatetime: 2026-06-19T19:33:56.000Z
 title: "Americanos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,57 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Weston McKennie (84, Serie A TIM), com +52.8% em 24h, a 55k coins no Console (PS)."
+    a: "Lilly Reale (89, NWSL), com +26.9% em 24h, a 25k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alyssa Thompson (91), -11.5% em 24h, a 115k coins."
+    a: "Tim Ream (85), -21.4% em 24h, a 59k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Malik Tillman (88) — 95% de probabilidade de alta, a 255k coins."
+    a: "Pelo modelo FutQuant, DaMarcus Beasley (88) — 95% de probabilidade de alta, a 18k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 30 cartas em alta contra 16 em queda (média 3.92%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 17 cartas em alta contra 21 em queda (média -0.16%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas americanas para consoles PlayStation apresenta um viés claramente bullish nesta segunda-feira, 19 de junho de 2026, com um cenário dominado por valorizações que reflete uma liquidez concentrada em ativos específicos e uma demanda seletiva por talentos de ligas menores e seleções nacionais. Os dados indicam uma assimetria acentuada, com 30 jogadores registrando altas significativas contra apenas 16 quedas, resultando em uma média de valorização de 3.92% em apenas 24 horas, o que sugere que traders experientes estão aproveitando janelas de oportunidade rápidas antes da estabilização dos preços. Este ambiente de alta generalizada, porém, não é homogêneo, pois a volatilidade é concentrada em cartas de rating médio e baixo, enquanto os ícones e cartas de elite mostram uma resistência maior a quedas bruscas, indicando uma base de suporte sólida para os ativos mais caros. A probabilidade de alta para diversos jogadores chave está acima de 90%, sinalizando que o algoritmo de precificação do EA está ajustando os valores de mercado para refletir a escassez percebida ou a utilidade iminente em eventos de SBC ou pacotes especiais. Para o trader brasileiro, o momento exige atenção redobrada aos movimentos de curto prazo, pois a velocidade com que as altas estão ocorrendo, especialmente em cartas como a de Weston McKennie, indica que a janela de compra pode se fechar rapidamente se a demanda não for atendida imediatamente.
+O mercado de jogadores americanos no console PlayStation apresenta um cenário de lateralidade acentuada nesta segunda-feira, 19 de junho de 2026, caracterizado pela ausência de uma direção clara e predominante para a maioria dos ativos, o que exige uma leitura minuciosa dos fundamentos por trás de cada movimento isolado. Com uma média geral de variação de -0,16% nas últimas 24 horas, distribuída entre 17 altas e 21 quedas, o ambiente reflete uma indecisão típica de traders que aguardam anúncios de SBCs ou eventos de jogo, mantendo a liquidez em um nível moderado mas volátil para ativos específicos. A volatilidade observada não é uniforme, pois enquanto a maioria dos cartões permanece estável ou em leve queda, pockets específicos como o NWSL e a MLS estão experimentando fluxos de capital distintos, sugerindo que algoritmos de arbitragem ou compras de última hora estão ditando o ritmo em vez de uma tendência macroeconômica do mercado. Traders experientes devem estar cientes de que essa lateralidade muitas vezes precede movimentos bruscos, especialmente quando probabilidades de alta do modelo indicam discrepâncias significativas entre o preço atual e o valor percebido de utilidade em squads de alto nível. O tom do dia é de cautela otimista, onde a oportunidade reside na identificação de ativos subvalorizados que estão prestes a ser corrigidos para cima, em vez de perseguição cega aos cartões que já subiram, pois o risco de correção em um mercado sem direção clara é substancialmente elevado para quem opera com alavancagem ou grandes volumes de moedas.
 
-> 🟢 **Maior alta:** Weston McKennie (84) **+52.8%** · 🔴 **Maior baixa:** Alyssa Thompson (91) **-11.5%**
+> 🟢 **Maior alta:** Lilly Reale (89) **+26.9%** · 🔴 **Maior baixa:** Tim Ream (85) **-21.4%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Weston McKennie | 84 | Serie A TIM | 55k coins | +52.8% | -9.1% |
-| Caitlin Cosme | 88 | D1 Arkema | 22k coins | +24.6% | +8.9% |
-| Korbin Shrader | 84 | D1 Arkema | 44k coins | +13% | +2.4% |
-| Ricardo Pepi | 87 | Eredivisie | 34k coins | +11.7% | +6.3% |
-| Riley Tiernan | 88 | NWSL | 27k coins | +11.2% | +41.7% |
-| Lily Yohannes | 84 | D1 Arkema | 40k coins | +11% | +12.5% |
+| Lilly Reale | 89 | NWSL | 25k coins | +26.9% | -31.7% |
+| Trinity Rodman | 87 | NWSL | 90k coins | +23.8% | -16.7% |
+| Naomi Girma | 87 | Barclays WSL | 48k coins | +23.7% | +13.5% |
+| Brad Guzan | 84 | MLS | 84k coins | +20.7% | +8.3% |
+| Ricardo Pepi | 87 | Eredivisie | 34k coins | +14.2% | +1.5% |
+| Kaishū Sano | 84 | Bundesliga | 38k coins | +13.8% | +13.8% |
+| Michelle Cooper | 87 | NWSL | 20k coins | +12.5% | +2.3% |
+| Lindsey Heaps | 90 | D1 Arkema | 49k coins | +11.6% | +17.1% |
+| Sergiño Dest | 86 | Eredivisie | 101k coins | +11.4% | +17% |
 | Alyssa Naeher | 88 | NWSL | 38k coins | +10.3% | +8.7% |
-| Trinity Rodman | 87 | NWSL | 134k coins | +10.1% | -12.7% |
-| Gisele Thompson | 90 | NWSL | 50k coins | +9.8% | +12% |
-| Trinity Rodman | 85 | NWSL | 32k coins | +7.7% | +4.1% |
 
 
-A estrela absoluta do dia é Weston McKennie, cuja carta de rating 84 da Serie A TIM disparou impressionantes 52.8% em 24 horas, atingindo a marca de 55 mil coins, um movimento impulsionado por uma probabilidade de alta calculada em 93% que atraiu compradores agressivos buscando lucros rápidos antes de uma possível saturação. Em segundo plano, mas com relevância para portfólios diversificados, Caitlin Cosme (88, D1 Arkema) subiu 24.6% para 22 mil coins, embora sua probabilidade de alta futura seja baixa (5%), sugerindo que este movimento pode ser um pico isolado de demanda especulativa. Korbin Shrader também se destaca com alta de 13% para 44 mil coins, enquanto Ricardo Pepi (87, Eredivisie) registrou 11.7% de crescimento, valendo agora 34 mil coins, ambos com probabilidades de alta futuras de apenas 5%, o que indica que os traders devem considerar a venda imediata para garantir o lucro. No setor feminino, Riley Tiernan (88, NWSL) e Lily Yohannes (84, D1 Arkema) apresentaram resiliência, com altas de 11.2% e 11% respectivamente, valendo 27 mil e 40 mil coins, e com probabilidades de alta de 50% e 52%, oferecendo um equilíbrio melhor entre risco e retorno para quem busca segurar posições. Finalmente, Trinity Rodman (87, NWSL) manteve a tendência de alta com 10.1% de crescimento, atingindo 134 mil coins, com uma probabilidade de alta de 55%, consolidando-se como um ativo de médio prazo com potencial de continuidade na valorização devido à sua utilidade em times de ataque de alto nível.
+Entre os destaques positivos, Lilly Reale, o lateral-direito de 89 rating da NWSL, liderou as altas com um impressionante salto de 26,9% em 24 horas, atingindo a marca de 25 mil moedas, embora a probabilidade de alta futura seja de apenas 35%, indicando que este movimento pode ser uma correção de curto prazo ou resultado de uma demanda pontual para SBCs baratos. Trinity Rodman, atacante de 87 rating da NWSL, seguiu com alta de 23,8%, posicionando-se em 90 mil moedas, e conta com uma probabilidade de alta de 55%, o que sugere sustentação devido à sua utilidade em time-ups ofensivos onde a velocidade e o físico são cruciais, atraindo investidores de médio prazo. Naomi Girma, zagueira de 87 rating da Barclays WSL, também subiu 23,7% para 48 mil moedas, destacando-se por ter uma probabilidade de alta altíssima de 95%, o que a torna um dos ativos mais robustos para acumulação, pois sua defesa sólida e atributos equilibrados a tornam indispensável em times competitivos que buscam estabilidade defensiva sem gastar fortunas. Brad Guzan, goleiro de 84 rating da MLS, registrou alta de 20,7% para 84 mil moedas com 52% de probabilidade de alta, beneficiando-se possivelmente de uma escassez temporária de goleiros americanos de bom custo-benefício que atendam aos requisitos de metas de goleiro limpo ou defesa sólida. Ricardo Pepi, atacante de 87 rating da Eredivisie, subiu 14,2% para 34 mil moedas, mas com apenas 5% de probabilidade de alta, sinalizando que este movimento é frágil e pode ser uma armadilha para compradores que esperam continuidade, já que a baixa probabilidade indica que o preço atual pode já ter precificado todas as expectativas imediatas de demanda.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alyssa Thompson | 91 | Barclays WSL | 115k coins | -11.5% | -4.2% |
-| Haji Wright | 84 | EFL Championship | 33k coins | -11.3% | -10.8% |
-| Rose Lavelle | 89 | NWSL | 40k coins | -11.1% | -10.1% |
-| Jaedyn Shaw | 89 | NWSL | 25k coins | -7.4% | -28.6% |
-| Carson Pickett | 86 | NWSL | 30k coins | -4.8% | +18.8% |
-| Mia Hamm | 94 | Icons | 719k coins | -3.8% | -9.1% |
-| Alex Pfeiffer | 90 | NWSL | 140k coins | -3.4% | -9.6% |
-| Alex Morgan | 91 | Icons | 274k coins | -3.2% | +21.8% |
+| Tim Ream | 85 | MLS | 59k coins | -21.4% | +84.9% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 36k coins | -20% | 0% |
+| Haji Wright | 84 | EFL Championship | 32k coins | -17.4% | -13.4% |
+| Alex Morgan | 91 | Icons | 748k coins | -13.5% | -16.8% |
+| DeAndre Yedlin | 86 | MLS | 33k coins | -12.8% | -6.2% |
+| Tim Howard | 85 | Premier League | 28k coins | -9.1% | -2.4% |
+| Julie Foudy | 92 | Icons | 36k coins | -8.9% | -14.9% |
+| Alex Morgan | 91 | Icons | 216k coins | -8% | +15.5% |
+| Carson Pickett | 86 | NWSL | 30k coins | -6.2% | +18.8% |
+| Daniel Munie | 84 | MLS | 42k coins | -5.9% | -3.6% |
 
 
-Do lado das quedas, Alyssa Thompson (91, Barclays WSL) lidera as perdas com uma queda de 11.5% para 115 mil coins, um movimento paradoxal dado que sua probabilidade de alta futura é de 95%, sugerindo que esta queda é uma oportunidade de compra de ouro para traders de longo prazo que acreditam na correção de preço. Haji Wright (84, EFL Championship) caiu 11.3% para 33 mil coins, com probabilidade de alta de 47%, indicando uma instabilidade moderada que pode ser explorada para compras em média baixa se o suporte for testado. Rose Lavelle (89, NWSL) também recuou 11.1% para 40 mil coins, mas com uma probabilidade de alta de 55%, o que torna sua queda uma oportunidade de entrada para quem busca ativos de defesa sólida com potencial de recuperação rápida. Jaedyn Shaw (89, NWSL) e Carson Pickett (86, NWSL) apresentaram quedas menores de 7.4% e 4.8% respectivamente, valendo 25 mil e 30 mil coins, com probabilidades de alta baixas de 5%, o que alerta para a possibilidade de continuidade das quedas ou estagnação, tornando-as arriscadas para compra imediata. Entre os ícones, Mia Hamm (94, Icons) caiu 3.8% para 719 mil coins e Alex Morgan (91, Icons) 3.2% para 274 mil coins, mas ambas mantêm probabilidades de alta elevadas (57% e 63%), indicando que as quedas são apenas ajustes técnicos em mercados de alto volume e não sinais de desinteresse estrutural.
+No outro extremo do espectro, Tim Ream, zagueiro de 85 rating da MLS, sofreu a maior queda com -21,4% em 24 horas, caindo para 59 mil moedas, e com apenas 5% de probabilidade de alta, o ativo parece ter perdido relevância em metagames defensivos, possivelmente devido a atualizações de jogo que favorecem defesas mais rápidas ou à entrada de alternativas mais baratas com atributos similares. Timothy Weah, lateral-esquerdo de 85 rating da Ligue 1 McDonald's, despencou 20% para 36 mil moedas, também com probabilidade de alta de apenas 5%, o que reflete uma falta de interesse de compradores institucionais ou uma saturação do mercado para esta posição específica, tornando-o um ativo de alto risco para retenção a curto prazo. Haji Wright, atacante de 84 rating da EFL Championship, caiu 17,4% para 32 mil moedas, apesar de ter 47% de probabilidade de alta, sugerindo que a queda pode ser uma oportunidade de compra se o trader acredita na recuperação gradual, mas a volatilidade recente indica que o preço de equilíbrio ainda não foi estabelecido. Alex Morgan, ícone de 91 rating, apresentou duas quedas distintas, com uma de -13,5% para 748 mil moedas e outra de -8% para 216 mil moedas, demonstrando a fragmentação de preços e a baixa liquidez em ativos de alto valor, onde a probabilidade de alta de 74% e 63% respectivamente indica que a queda pode ser temporária, mas o risco de permanência em patamares baixos é real devido à alta barreira de entrada. DeAndre Yedlin, lateral de 86 rating da MLS, caiu 12,8% para 33 mil moedas com 52% de probabilidade de alta, o que sugere que o ativo está em uma zona de indecisão, onde traders podem estar vendendo para realizar ganhos pequenos ou ajustando portfólios em antecipação a eventos futuros que possam impactar a demanda por laterais experientes.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -72,17 +74,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Malik Tillman | 88 | 255k coins | 327k coins | 95% |
-| DaMarcus Beasley | 88 | 20k coins | 24k coins | 95% |
-| Malik Tillman | 85 | 50k coins | 62k coins | 95% |
-| Alyssa Thompson | 91 | 115k coins | 142k coins | 95% |
-| Weston McKennie | 84 | 55k coins | 62k coins | 93% |
+| DaMarcus Beasley | 88 | 18k coins | 22k coins | 95% |
+| Malik Tillman | 85 | 49k coins | 60k coins | 95% |
+| Naomi Girma | 87 | 48k coins | 55k coins | 95% |
+| Malik Tillman | 88 | 258k coins | 331k coins | 95% |
+| Michelle Cooper | 87 | 20k coins | 23k coins | 93% |
 | Jaedyn Shaw | 83 | 30k coins | 33k coins | 84% |
-| Rose Lavelle | 88 | 35k coins | 38k coins | 81% |
-| Christian Pulisic | 86 | 48k coins | 52k coins | 80% |
+| Rose Lavelle | 88 | 34k coins | 38k coins | 81% |
+| Christian Pulisic | 86 | 46k coins | 50k coins | 80% |
 
 
-O modelo preditivo projeta altas significativas para Malik Tillman (88, Bundesliga) com probabilidade de 95% a 255 mil coins e para DaMarcus Beasley (88, MLS) também com 95% de probabilidade a 20 mil coins, sugerindo uma divergência interessante entre ativos de alto e baixo custo com o mesmo potencial de valorização. Alyssa Thompson (91, Barclays WSL) e Weston McKennie (84, Serie A TIM) aparecem novamente nas previsões com probabilidades de 95% e 93% respectivamente, reforçando a tese de que suas quedas recentes ou altas iniciais são apenas o início de movimentos maiores. Jaedyn Shaw (83, NWSL) e Rose Lavelle (88, NWSL) têm probabilidades de 84% e 81% de alta, respectivamente, indicando que o mercado feminino está se reorganizando em torno de defesas e meias de alto rating. Christian Pulisic (86, Serie A TIM) fecha o top 8 com 80% de probabilidade de alta a 48 mil coins, completando um cenário onde a maioria dos ativos americanos de médio e alto valor tende a subir nos próximos dias.
+O modelo preditivo projeta altas significativas para DaMarcus Beasley, lateral de 88 rating da MLS, com 95% de probabilidade de alta a 18 mil moedas, tornando-o um dos ativos mais promissores para acumulação imediata devido ao seu baixo preço e alta probabilidade de revalorização. Malik Tillman, meia de 85 rating da Bundesliga, também possui 95% de probabilidade de alta a 49 mil moedas, enquanto sua versão de 88 rating está projetada para subir com a mesma probabilidade a 258 mil moedas, indicando uma forte demanda esperada para ambas as versões em diferentes escalas de orçamento. Naomi Girma, já mencionada nas altas, mantém sua projeção de 95% de alta a 48 mil moedas, reforçando a tese de compra forte neste ativo defensivo. Michelle Cooper, atacante de 87 rating da NWSL, tem 93% de probabilidade de alta a 20 mil moedas, oferecendo uma excelente relação risco-retorno para traders que buscam ativos de baixo custo com alto potencial de retorno. Jaedyn Shaw, atacante de 83 rating da NWSL, é projetado para subir com 84% de probabilidade a 30 mil moedas, enquanto Rose Lavelle, meia de 88 rating da NWSL, tem 81% de probabilidade de alta a 34 mil moedas, e Christian Pulisic, atacante de 86 rating da Serie A TIM, apresenta 80% de probabilidade de alta a 46 mil moedas, completando um portfólio de ativos com fundamentos sólidos para valorização.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -91,18 +93,18 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Mia Hamm | 93 | 270k coins | -17.3% |
-| Clint Dempsey | 89 | 165k coins | -17.3% |
-| Weston McKennie | 92 | 80k coins | -16.7% |
-| Gisele Thompson | 90 | 50k coins | -15.7% |
-| Mark McKenzie | 90 | 40k coins | -16.7% |
-| Alex Freeman | 88 | 40k coins | -29.2% |
-| Olivia Moultrie | 86 | 18k coins | -15.6% |
+| Ricardo Pepi | 87 | 34k coins | -17.5% |
+| Weston McKennie | 92 | 76k coins | -16.7% |
+| Tim Ream | 85 | 59k coins | -34.1% |
+| Mark McKenzie | 90 | 34k coins | -16.7% |
+| Jaedyn Shaw | 89 | 27k coins | -15.6% |
 | Ashley Sanchez | 88 | 32k coins | -16.7% |
+| Carson Pickett | 86 | 30k coins | -24% |
+| Diego Luna | 89 | 22k coins | -15.6% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia recomendada para hoje é focar na compra agressiva de Alyssa Thompson e Weston McKennie, aproveitando as quedas recentes ou as altas iniciais com a certeza estatística de continuidade de valorização dada pelas probabilidades de 95% e 93%. Traders de baixo capital devem mirar em DaMarcus Beasley e Caitlin Cosme, vendendo rapidamente após pequenas valorizações, já que a probabilidade de alta de Cosme é baixa, enquanto a de Beasley é extremamente alta. Evite comprar Jaedyn Shaw e Carson Pickett no momento, pois suas probabilidades de alta de 5% indicam que o preço ainda pode cair ou estagnar, gerando prejuízo ou travamento de capital. Segure posições em Trinity Rodman e Riley Tiernan, pois suas probabilidades de alta acima de 50% sugerem que o movimento de valorização ainda não atingiu o pico, permitindo lucros maiores em dias subsequentes. Para os ícones, a queda de Mia Hamm e Alex Morgan é um sinal de compra para colecionadores de longo prazo, mas traders de curto prazo devem esperar uma confirmação de suporte nos próximos 12 horas antes de entrar, utilizando a alta probabilidade de alta como garantia de recuperação de preço.
+A estratégia para o dia deve focar na acumulação agressiva de ativos com alta probabilidade de modelo e preços ainda acessíveis, como DaMarcus Beasley e Michelle Cooper, que oferecem margens de lucro consideráveis antes da correção de preço, enquanto se evita a perseguição a ativos como Lilly Reale e Ricardo Pepi, cujas altas recentes parecem sustentadas por fatores efêmeros e com baixa probabilidade de continuidade. Recomenda-se segurar posições em Naomi Girma e Malik Tillman, pois a convergência entre a alta recente e a alta probabilidade de futuro sugere um movimento estrutural de valorização que pode se estender por mais 24 a 48 horas, especialmente se não houver anúncios de SBCs que saturarem o mercado com ofertas gratuitas. É crucial evitar a venda prematura de Alex Morgan, apesar da queda, pois a alta probabilidade de alta indica que o preço atual é um fundo relativo, e recomprar em patamares ainda mais baixos pode ser arriscado dada a baixa liquidez e a volatilidade extrema deste ícone. Traders devem monitorar de perto Tim Ream e Timothy Weah, pois suas quedas acentuadas e baixas probabilidades de alta sugerem que eles podem continuar depreciando, sendo ideais para venda imediata se ainda estiverem em carteira, ou para compra apenas como ativos de muito curto prazo para arbitragem de SBCs específicos. O timing é essencial neste mercado lateral, pois a entrada tardia em altas já consolidadas pode resultar em perdas rápidas, enquanto a paciência para acumular ativos com fundamentos de alta probabilidade, como os projetados pelo modelo, deve gerar retornos consistentes e superiores à média do mercado ao longo das próximas sessões de negociação.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -112,16 +114,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Weston McKennie (84, Serie A TIM), com +52.8% em 24h, a 55k coins no Console (PS).
+Lilly Reale (89, NWSL), com +26.9% em 24h, a 25k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Alyssa Thompson (91), -11.5% em 24h, a 115k coins.
+Tim Ream (85), -21.4% em 24h, a 59k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Malik Tillman (88) — 95% de probabilidade de alta, a 255k coins.
+Pelo modelo FutQuant, DaMarcus Beasley (88) — 95% de probabilidade de alta, a 18k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 30 cartas em alta contra 16 em queda (média 3.92%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 17 cartas em alta contra 21 em queda (média -0.16%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
