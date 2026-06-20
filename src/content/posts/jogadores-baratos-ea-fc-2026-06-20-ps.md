@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T13:33:44.000Z
+pubDatetime: 2026-06-20T16:34:01.000Z
 title: "Jogadores baratos de Americanos no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Sophia Wilson (89, NWSL) aparece como melhor custo-benefício, a 7k coins no Console (PS)."
+    a: "Sophia Wilson (89, NWSL) aparece como melhor custo-benefício, a 5k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sophia Wilson (89) por apenas 7k coins.
+> 💰 **Melhor pechincha:** Sophia Wilson (89) por apenas 5k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 89 | ST | NWSL | 7k coins | +36.2% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -31.8% |
-| DaMarcus Beasley | 85 | LM | MLS | 14k coins | +3.8% |
-| Crystal Dunn | 84 | CM | NWSL | 6k coins | +31.7% |
+| Sophia Wilson | 89 | ST | NWSL | 5k coins | +21.3% |
+| Tara McKeown | 89 | CB | NWSL | 15k coins | -17% |
+| Jack McGlynn | 87 | CM | MLS | 14k coins | +6.8% |
+| DaMarcus Beasley | 85 | LM | MLS | 13k coins | -3.8% |
 
 
 ## 📈 Destaques
 
-- **Sophia Wilson (89, ST)** da NWSL, a apenas **7k coins** — já **valorizando**, sinal de procura crescente.
+- **Sophia Wilson (89, ST)** da NWSL, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Tara McKeown (89, CB)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **14k coins**
+- **Jack McGlynn (87, CM)** da MLS, a apenas **14k coins**
 
-- **Crystal Dunn (84, CM)** da NWSL, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -60,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Sophia Wilson (89, NWSL) aparece como melhor custo-benefício, a 7k coins no Console (PS).
+Sophia Wilson (89, NWSL) aparece como melhor custo-benefício, a 5k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
