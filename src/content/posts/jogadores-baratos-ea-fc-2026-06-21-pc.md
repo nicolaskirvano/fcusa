@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-21T13:33:10.000Z
+pubDatetime: 2026-06-21T19:33:10.000Z
 title: "Jogadores baratos de Americanos no EA FC (21/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | -30.3% |
-| DaMarcus Beasley | 88 | LM | MLS | 15k coins | -40.6% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -34.3% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -6.4% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | -36.4% |
+| Landon Donovan | 86 | CAM | MLS | 14k coins | -30.6% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -10.4% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 3k coins | -13% |
 
 
 ## 📈 Destaques
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **DaMarcus Beasley (88, LM)** da MLS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
