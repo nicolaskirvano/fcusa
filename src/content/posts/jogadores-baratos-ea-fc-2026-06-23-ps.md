@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T10:33:05.000Z
+pubDatetime: 2026-06-23T13:33:06.000Z
 title: "Jogadores baratos de Americanos no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 23/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/06/2026)?"
-    a: "Julie Foudy (88, Icons) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Julie Foudy (88) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Riley Tiernan (88) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,20 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julie Foudy | 88 | CM | Icons | 13k coins | -26.4% |
 | Riley Tiernan | 88 | ST | NWSL | 14k coins | -37.8% |
-| Croix Bethune | 87 | CAM | NWSL | 15k coins | -23% |
-| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -26.5% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | -10% |
+| Croix Bethune | 87 | CAM | NWSL | 15k coins | -20.3% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -25.4% |
+| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -27.5% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | -8% |
 
 
 ## 📈 Destaques
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Riley Tiernan (88, ST)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Croix Bethune (87, CAM)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Olivia Moultrie (86, CM)** da NWSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -63,7 +63,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/06/2026)?**  
-Julie Foudy (88, Icons) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
