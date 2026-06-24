@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T10:33:05.000Z
+pubDatetime: 2026-06-24T13:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 91 | CM | Icons | 14k coins | -37.8% |
-| Jaedyn Shaw | 89 | CAM | NWSL | 15k coins | -40.7% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | +2.1% |
-| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -24.2% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -27.5% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | -24.1% |
+| Landon Donovan | 86 | CAM | MLS | 12k coins | 0% |
+| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -25.8% |
 | DaMarcus Beasley | 85 | LM | MLS | 12k coins | 0% |
 
 
@@ -40,13 +41,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Julie Foudy (91, CM)** da Icons, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jaedyn Shaw (89, CAM)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
 
 - **Olivia Moultrie (86, CM)** da NWSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
