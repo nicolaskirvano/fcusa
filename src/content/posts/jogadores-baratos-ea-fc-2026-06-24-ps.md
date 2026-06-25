@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T22:33:05.000Z
+pubDatetime: 2026-06-25T01:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (24/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,25 +30,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Tara McKeown | 89 | CB | NWSL | 15k coins | -28.6% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 12k coins | -36.4% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | -38.5% |
+| Julie Foudy | 88 | CM | Icons | 12k coins | -35% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -27.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -30% |
 | Michelle Cooper | 87 | RW | NWSL | 15k coins | -24.1% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | -7.8% |
-| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -30.6% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -6.4% |
+| Landon Donovan | 86 | CAM | MLS | 12k coins | -13.2% |
+| Olivia Moultrie | 86 | CM | NWSL | 13k coins | -29.2% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | -4.3% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -25.9% |
 
 
 ## 📈 Destaques
 
 - **Tara McKeown (89, CB)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (88, CM)** da Icons, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Michelle Cooper (87, RW)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
