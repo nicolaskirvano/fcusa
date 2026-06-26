@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T13:33:10.000Z
+pubDatetime: 2026-06-26T16:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,21 +30,18 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Diego Luna | 89 | LM | MLS | 14k coins | -45% |
-| Lilly Reale | 89 | LB | NWSL | 14k coins | -41.8% |
-| Sophia Wilson | 88 | ST | NWSL | 3k coins | +7.4% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -4.3% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -6.4% |
+| Sophia Wilson | 88 | ST | NWSL | 3k coins | +29.2% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -10% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -2.3% |
 
 
 ## 📈 Destaques
 
 - **Diego Luna (89, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lilly Reale (89, LB)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **3k coins**
-
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 

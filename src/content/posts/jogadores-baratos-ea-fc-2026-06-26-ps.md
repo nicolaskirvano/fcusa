@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T13:33:05.000Z
+pubDatetime: 2026-06-26T16:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 3k coins | -48.1% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 15k coins | -15.5% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 13k coins | -38.6% |
-| Michelle Cooper | 87 | RW | NWSL | 13k coins | -35.6% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | -22% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -13.5% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -24.2% |
+| Sophia Wilson | 88 | ST | NWSL | 3k coins | -46.3% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -14.3% |
+| Julie Foudy | 88 | CM | Icons | 15k coins | -6.7% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -36.4% |
+| Landon Donovan | 86 | CAM | MLS | 12k coins | +9.3% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | -9.6% |
+| Mary Alice Vignola | 85 | LB | NWSL | 13k coins | -5% |
 
 
 ## 📈 Destaques
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (88, CM)** da Icons, a apenas **15k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
