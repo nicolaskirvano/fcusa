@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T16:33:09.000Z
+pubDatetime: 2026-06-26T01:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 25/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/06/2026)?"
-    a: "Lilly Reale (89, NWSL) aparece como melhor custo-benefício, a 12k coins no PC."
+    a: "Diego Luna (89, MLS) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Lilly Reale (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Diego Luna (89) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,22 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lilly Reale | 89 | LB | NWSL | 12k coins | -27.3% |
-| Sophia Wilson | 88 | ST | NWSL | 3k coins | +16.1% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -6.2% |
-| Trinity Rodman | 85 | RM | NWSL | 7k coins | +1.1% |
+| Diego Luna | 89 | LM | MLS | 14k coins | -37.2% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -31% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -16.7% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.3% |
 
 
 ## 📈 Destaques
 
-- **Lilly Reale (89, LB)** da NWSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Luna (89, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
-
-- **Trinity Rodman (85, RM)** da NWSL, a apenas **7k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
@@ -63,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/06/2026)?**  
-Lilly Reale (89, NWSL) aparece como melhor custo-benefício, a 12k coins no PC.
+Diego Luna (89, MLS) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
