@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T16:33:09.000Z
+pubDatetime: 2026-06-26T19:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,10 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | LM | MLS | 14k coins | -45% |
-| Sophia Wilson | 88 | ST | NWSL | 3k coins | +29.2% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -10% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -2.3% |
+| Diego Luna | 89 | LM | MLS | 14k coins | -41.2% |
+| Sophia Wilson | 88 | ST | NWSL | 3k coins | +34.8% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | +2.1% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | +4.7% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 3k coins | +20.8% |
 
 
 ## 📈 Destaques
@@ -41,9 +42,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
+
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
