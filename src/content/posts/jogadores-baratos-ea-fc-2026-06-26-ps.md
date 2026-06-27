@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:33:05.000Z
+pubDatetime: 2026-06-27T01:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 3k coins | -55.6% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 13k coins | -17.7% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -11.3% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | +2.3% |
-| Olivia Moultrie | 86 | CM | NWSL | 14k coins | 0% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.3% |
-| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | +13.2% |
+| Sophia Wilson | 88 | ST | NWSL | 3k coins | -53.7% |
+| DaMarcus Beasley | 88 | LM | MLS | 15k coins | -11.9% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 15k coins | -3.1% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 14k coins | -6.5% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -4.7% |
+| Croix Bethune | 87 | CAM | NWSL | 15k coins | -21.3% |
+| Landon Donovan | 86 | CAM | MLS | 12k coins | +11.6% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | 0% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -1.8% |
 
 
 ## 📈 Destaques
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (88, LM)** da MLS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **15k coins**
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
+- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14k coins**
 
-- **Olivia Moultrie (86, CM)** da NWSL, a apenas **14k coins**
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
 
 ## Por que estas cartas?

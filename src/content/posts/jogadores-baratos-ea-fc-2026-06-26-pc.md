@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:33:09.000Z
+pubDatetime: 2026-06-27T01:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 26/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/06/2026)?"
-    a: "Diego Luna (89, MLS) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Christian Pulisic (87, Serie A TIM) aparece como melhor custo-benefício, a 15k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Diego Luna (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Christian Pulisic (87) por apenas 15k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,17 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | LM | MLS | 13k coins | -46.1% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -2.1% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | +2.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | -36.2% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | +10.6% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.3% |
 | Catarina Macario | 83 | CAM | Barclays WSL | 3k coins | +16% |
 
 
 ## 📈 Destaques
 
-- **Diego Luna (89, LM)** da MLS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins**
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
@@ -60,7 +60,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/06/2026)?**  
-Diego Luna (89, MLS) aparece como melhor custo-benefício, a 13k coins no PC.
+Christian Pulisic (87, Serie A TIM) aparece como melhor custo-benefício, a 15k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
