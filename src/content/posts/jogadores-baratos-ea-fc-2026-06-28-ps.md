@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-28T13:33:05.000Z
+pubDatetime: 2026-06-28T19:33:06.000Z
 title: "Jogadores baratos de Americanos no EA FC (28/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -4.8% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +10.3% |
-| Landon Donovan | 86 | CAM | MLS | 14k coins | +14.6% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -8.5% |
+| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -15.2% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | +21.1% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | +12.5% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +4.4% |
 
 
 ## 📈 Destaques
 
-- **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins**
+- **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Julie Foudy (88, CM)** da Icons, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **14k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins**
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
