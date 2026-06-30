@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T19:33:06.000Z
+pubDatetime: 2026-06-30T22:33:06.000Z
 title: "Jogadores baratos de Americanos no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -15.6% |
-| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -34.7% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -6.4% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -29.9% |
 | DaMarcus Beasley | 85 | LM | MLS | 12k coins | +11.1% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +21.4% |
+| Tim Howard | 85 | GK | Premier League | 13k coins | -53.2% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +13.3% |
 
 
 ## 📈 Destaques
 
 - **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
+
 - **Mary Alice Vignola (85, LB)** da NWSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **12k coins**
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Tim Howard (85, GK)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

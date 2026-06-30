@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T19:33:10.000Z
+pubDatetime: 2026-06-30T22:33:10.000Z
 title: "Jogadores baratos de Americanos no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,9 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | LM | MLS | 13k coins | -18.8% |
+| Diego Luna | 89 | LM | MLS | 13k coins | -13.3% |
 | Julie Foudy | 88 | CM | Icons | 13k coins | -34.6% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -31.8% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -34.1% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | 0% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.4% |
 
 
@@ -42,6 +43,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Julie Foudy (88, CM)** da Icons, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
