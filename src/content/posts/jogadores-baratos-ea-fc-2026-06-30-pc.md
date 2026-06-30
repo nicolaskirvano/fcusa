@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T13:33:09.000Z
+pubDatetime: 2026-06-30T19:33:10.000Z
 title: "Jogadores baratos de Americanos no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Diego Luna | 89 | LM | MLS | 13k coins | -18.8% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -27.5% |
+| Julie Foudy | 88 | CM | Icons | 13k coins | -34.6% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -31.8% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.4% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 10k coins | +270.4% |
 
 
 ## 📈 Destaques
 
 - **Diego Luna (89, LM)** da MLS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Julie Foudy (88, CM)** da Icons, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
-
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **10k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
