@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:33:09.000Z
+pubDatetime: 2026-06-30T13:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 30/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/06/2026)?"
-    a: "Michelle Cooper (87, NWSL) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Diego Luna (89, MLS) aparece como melhor custo-benefício, a 13k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Michelle Cooper (87) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Diego Luna (89) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,17 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -30.1% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | 0% |
+| Diego Luna | 89 | LM | MLS | 13k coins | -18.8% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -27.5% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.4% |
 | Catarina Macario | 83 | CAM | Barclays WSL | 10k coins | +270.4% |
 
 
 ## 📈 Destaques
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Luna (89, LM)** da MLS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
@@ -60,7 +60,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/06/2026)?**  
-Michelle Cooper (87, NWSL) aparece como melhor custo-benefício, a 14k coins no PC.
+Diego Luna (89, MLS) aparece como melhor custo-benefício, a 13k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

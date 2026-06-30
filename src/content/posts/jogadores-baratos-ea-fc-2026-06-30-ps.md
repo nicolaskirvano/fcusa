@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:33:05.000Z
+pubDatetime: 2026-06-30T13:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -31,7 +31,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Tara McKeown | 89 | CB | NWSL | 14k coins | -31.2% |
 | Landon Donovan | 86 | CAM | MLS | 11k coins | -10.2% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +11.1% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +13.6% |
 | Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +21.4% |
 
 
