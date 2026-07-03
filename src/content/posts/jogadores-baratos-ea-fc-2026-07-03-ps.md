@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T10:33:05.000Z
+pubDatetime: 2026-07-03T16:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -11.7% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -6.7% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -5% |
+| Landon Donovan | 86 | CAM | MLS | 14k coins | +17.4% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -2.2% |
-| Madison Haley | 85 | RW | Barclays WSL | 12k coins | -35.4% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -14.3% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +25% |
 
 
 ## 📈 Destaques
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
