@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T19:33:05.000Z
+pubDatetime: 2026-07-03T22:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (03/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 03/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (03/07/2026)?"
-    a: "Caitlin Cosme (88, D1 Arkema) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **03/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Caitlin Cosme (88) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Riley Tiernan (88) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -1.7% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 14k coins | +14.3% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | +7.1% |
+| Riley Tiernan | 88 | ST | NWSL | 13k coins | -19.1% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -6.7% |
 | Landon Donovan | 86 | CAM | MLS | 12k coins | +8.7% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -2.2% |
-| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -3.6% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +33.3% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.4% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | -12.7% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -25% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +25% |
 
 
 ## 📈 Destaques
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins**
+- **Riley Tiernan (88, ST)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14k coins**
-
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **15k coins**
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins**
 
 - **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
+
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -65,7 +65,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (03/07/2026)?**  
-Caitlin Cosme (88, D1 Arkema) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
