@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T22:33:10.000Z
+pubDatetime: 2026-07-04T01:33:10.000Z
 title: "Jogadores baratos de Americanos no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,11 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | -26.1% |
-| Jack McGlynn | 87 | CM | MLS | 14k coins | -67.1% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -4.3% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | -23.8% |
+| Jack McGlynn | 87 | CM | MLS | 14k coins | -51.2% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -6.5% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | -4.4% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 3k coins | 0% |
+| Tim Howard | 85 | GK | Premier League | 12k coins | -41.9% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 3k coins | +3.4% |
 
 
 ## 📈 Destaques
@@ -46,7 +47,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **3k coins**
+- **Tim Howard (85, GK)** da Premier League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
