@@ -1,27 +1,27 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T16:33:05.000Z
-title: "Jogadores baratos de Americanos no EA FC (05/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-05T16:33:10.000Z
+title: "Jogadores baratos de Americanos no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 05/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 05/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (05/07/2026)?"
-    a: "Jaelin Howell (89, NWSL) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Catarina Macario (87, Barclays WSL) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **05/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **05/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jaelin Howell (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Catarina Macario (87) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,29 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaelin Howell | 89 | CDM | NWSL | 14k coins | -13.2% |
-| Jaedyn Shaw | 89 | CAM | NWSL | 15k coins | -32.6% |
-| Tara McKeown | 89 | CB | NWSL | 15k coins | -11.1% |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | +88.9% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | -17.6% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -15.6% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -12.5% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | -4% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | 0% |
-| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | -17.9% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 14k coins | -6.7% |
+| Landon Donovan | 86 | CAM | MLS | 14k coins | +20.8% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | 0% |
+| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | -4.5% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +60% |
 
 
 ## 📈 Destaques
 
-- **Jaelin Howell (89, CDM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14k coins**
 
-- **Jaedyn Shaw (89, CAM)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Tara McKeown (89, CB)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **15k coins**
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -68,7 +63,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (05/07/2026)?**  
-Jaelin Howell (89, NWSL) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Catarina Macario (87, Barclays WSL) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -81,4 +76,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 05/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 05/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
