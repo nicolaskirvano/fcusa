@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T16:33:05.000Z
+pubDatetime: 2026-07-07T19:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | +40% |
-| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -68.1% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 13k coins | -40.9% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -45.1% |
-| Landon Donovan | 86 | CAM | MLS | 13k coins | +18.2% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +8% |
-| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | +36.2% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | +60% |
+| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -41% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +1.8% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 15k coins | -15.2% |
+| Landon Donovan | 86 | CAM | MLS | 12k coins | -10.7% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | +11.1% |
 
 
 ## 📈 Destaques
@@ -44,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
