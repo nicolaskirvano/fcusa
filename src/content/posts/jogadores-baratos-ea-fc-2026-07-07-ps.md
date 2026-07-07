@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T10:33:05.000Z
+pubDatetime: 2026-07-07T13:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,28 +30,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | DaMarcus Beasley | 88 | LM | MLS | 15k coins | +3.5% |
-| Julie Foudy | 88 | CM | Icons | 15k coins | -5.9% |
 | Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +5.8% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -17.6% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 14k coins | -34.1% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | +9.1% |
-| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -26% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | -12% |
-| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | +27.7% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | -5.9% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | +13.6% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | +46.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -40.2% |
 
 
 ## 📈 Destaques
 
 - **DaMarcus Beasley (88, LM)** da MLS, a apenas **15k coins**
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **15k coins**
-
 - **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins**
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Madison Haley (85, RW)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
