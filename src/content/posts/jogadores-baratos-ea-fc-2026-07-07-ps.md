@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T13:33:05.000Z
+pubDatetime: 2026-07-07T16:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 07/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (07/07/2026)?"
-    a: "DaMarcus Beasley (88, MLS) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **07/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** DaMarcus Beasley (88) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Sophia Wilson (88) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| DaMarcus Beasley | 88 | LM | MLS | 15k coins | +3.5% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +5.8% |
-| Landon Donovan | 86 | CAM | MLS | 13k coins | +13.6% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | +46.8% |
-| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -40.2% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | +40% |
+| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -68.1% |
+| Ricardo Pepi | 87 | ST | Eredivisie | 13k coins | -40.9% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -45.1% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | +18.2% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +8% |
+| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | +36.2% |
 
 
 ## 📈 Destaques
 
-- **DaMarcus Beasley (88, LM)** da MLS, a apenas **15k coins**
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
+- **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins**
+- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -63,7 +65,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (07/07/2026)?**  
-DaMarcus Beasley (88, MLS) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
