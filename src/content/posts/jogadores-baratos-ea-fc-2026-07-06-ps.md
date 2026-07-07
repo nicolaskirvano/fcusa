@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T22:33:05.000Z
+pubDatetime: 2026-07-07T01:33:07.000Z
 title: "Jogadores baratos de Americanos no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,14 +29,16 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | +80% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | -4.4% |
-| DaMarcus Beasley | 88 | LM | MLS | 15k coins | +3.5% |
-| Michelle Cooper | 87 | RW | NWSL | 14k coins | -20.6% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 15k coins | -31.8% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | +15.4% |
-| Landon Donovan | 86 | CAM | MLS | 13k coins | +18.2% |
-| DaMarcus Beasley | 85 | LM | MLS | 13k coins | +6% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | +70% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | -7.4% |
+| DaMarcus Beasley | 88 | LM | MLS | 15k coins | +5.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +11.5% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -17.6% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | +27.3% |
+| DaMarcus Beasley | 85 | LM | MLS | 13k coins | +4% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -36.1% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | +23.4% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | 0% |
 
 
 ## 📈 Destaques
@@ -47,9 +49,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **DaMarcus Beasley (88, LM)** da MLS, a apenas **15k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
