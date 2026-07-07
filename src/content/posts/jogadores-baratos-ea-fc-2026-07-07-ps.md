@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:33:05.000Z
+pubDatetime: 2026-07-07T22:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | +60% |
-| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -41% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +1.8% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 15k coins | -15.2% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | -10.7% |
-| Mary Alice Vignola | 85 | LB | NWSL | 12k coins | +11.1% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | +90% |
+| DaMarcus Beasley | 88 | LM | MLS | 15k coins | -35.9% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 13k coins | -7.1% |
+| Michelle Cooper | 87 | RW | NWSL | 14k coins | -13% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 15k coins | -11.8% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | -5.6% |
+| DaMarcus Beasley | 85 | LM | MLS | 13k coins | +14.9% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | -38.5% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | +13.2% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | 0% |
 
 
 ## 📈 Destaques
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (88, LM)** da MLS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **13k coins**
+
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
