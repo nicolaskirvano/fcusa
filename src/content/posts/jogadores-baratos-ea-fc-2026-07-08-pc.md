@@ -1,25 +1,25 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T13:33:05.000Z
-title: "Jogadores baratos de Americanos no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
+pubDatetime: 2026-07-08T13:33:09.000Z
+title: "Jogadores baratos de Americanos no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
+  - pc
+description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Sophia Wilson (88) por apenas 2k coins.
 
@@ -29,25 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | +58.3% |
-| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -38.6% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 12k coins | -25.4% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 15k coins | -24.1% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | -7.7% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | 0% |
+| Sophia Wilson | 88 | ST | NWSL | 2k coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -6.5% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | 0% |
+| Trinity Rodman | 85 | RM | NWSL | 15k coins | -14.3% |
 
 
 ## 📈 Destaques
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins**
 
-- **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins**
 
-- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
+- **Trinity Rodman (85, RM)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -64,7 +60,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -77,4 +73,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 08/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 08/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
