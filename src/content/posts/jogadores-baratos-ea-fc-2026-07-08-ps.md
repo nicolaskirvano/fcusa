@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T19:33:05.000Z
+pubDatetime: 2026-07-08T22:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 08/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (08/07/2026)?"
-    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no Console (PS)."
+    a: "DaMarcus Beasley (88, MLS) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **08/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sophia Wilson (88) por apenas 2k coins.
+> 💰 **Melhor pechincha:** DaMarcus Beasley (88) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 2k coins | +58.3% |
-| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -34.5% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -9.5% |
-| Jack McGlynn | 87 | CM | MLS | 14k coins | -10.8% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 14k coins | -13.4% |
-| DaMarcus Beasley | 85 | LM | MLS | 13k coins | +22.2% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -6.2% |
+| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -27.2% |
+| Michelle Cooper | 87 | RW | NWSL | 13k coins | -19.7% |
+| Croix Bethune | 87 | CAM | NWSL | 14k coins | -18.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 15k coins | -6.3% |
+| Landon Donovan | 86 | CAM | MLS | 14k coins | +10% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +6.7% |
+| Mary Alice Vignola | 85 | LB | NWSL | 15k coins | -9.2% |
 
 
 ## 📈 Destaques
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
 - **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jack McGlynn (87, CM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Croix Bethune (87, CAM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **15k coins**
+
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +65,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (08/07/2026)?**  
-Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 2k coins no Console (PS).
+DaMarcus Beasley (88, MLS) aparece como melhor custo-benefício, a 14k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
