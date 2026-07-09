@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T13:33:06.000Z
+pubDatetime: 2026-07-09T16:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (09/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,12 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -28.6% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -14.3% |
-| Croix Bethune | 87 | CAM | NWSL | 14k coins | -19.7% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | -2% |
+| DaMarcus Beasley | 88 | LM | MLS | 14k coins | -36% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | +1.8% |
+| Croix Bethune | 87 | CAM | NWSL | 13k coins | -25.4% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 14k coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | 0% |
+| Olivia Moultrie | 86 | CM | NWSL | 15k coins | -6.2% |
 | DaMarcus Beasley | 85 | LM | MLS | 12k coins | +2.2% |
 
 
@@ -40,13 +42,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **DaMarcus Beasley (88, LM)** da MLS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins**
 
-- **Croix Bethune (87, CAM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Croix Bethune (87, CAM)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
+- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14k coins**
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
