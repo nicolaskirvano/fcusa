@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T16:33:05.000Z
+pubDatetime: 2026-07-11T19:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Tara McKeown (89, NWSL) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Tara McKeown (89) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Riley Tiernan (88) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,24 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tara McKeown | 89 | CB | NWSL | 15k coins | +6.2% |
-| Michelle Cooper | 87 | RW | NWSL | 12k coins | -5.5% |
-| Croix Bethune | 87 | CAM | NWSL | 14k coins | -17.1% |
-| Landon Donovan | 86 | CAM | MLS | 15k coins | +4.3% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | -7.8% |
+| Riley Tiernan | 88 | ST | NWSL | 13k coins | -34.8% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | -15.9% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -9.1% |
+| Jack McGlynn | 87 | CM | MLS | 14k coins | -3.6% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +3.6% |
+| Croix Bethune | 87 | CAM | NWSL | 14k coins | -15.9% |
+| Landon Donovan | 86 | CAM | MLS | 13k coins | +8.3% |
+| Olivia Moultrie | 86 | CM | NWSL | 14k coins | -9.7% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | -2% |
+| Madison Haley | 85 | RW | Barclays WSL | 12k coins | -1.9% |
 
 
 ## 📈 Destaques
 
-- **Tara McKeown (89, CB)** da NWSL, a apenas **15k coins**
+- **Riley Tiernan (88, ST)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **12k coins**
+- **Julie Foudy (88, CM)** da Icons, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Croix Bethune (87, CAM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **15k coins**
+- **Jack McGlynn (87, CM)** da MLS, a apenas **14k coins**
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12k coins**
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
 
 ## Por que estas cartas?
@@ -63,7 +68,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Tara McKeown (89, NWSL) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Riley Tiernan (88, NWSL) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
