@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T13:33:09.000Z
+pubDatetime: 2026-07-11T16:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +7.4% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | +2.1% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +1.8% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -10.4% |
 | DaMarcus Beasley | 85 | LM | MLS | 11k coins | 0% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | -43.3% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +13.3% |
 
 
 ## 📈 Destaques
 
 - **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins**
 
 
 ## Por que estas cartas?
