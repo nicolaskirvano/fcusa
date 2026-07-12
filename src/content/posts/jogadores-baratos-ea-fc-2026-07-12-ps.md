@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T16:33:05.000Z
+pubDatetime: 2026-07-12T19:33:06.000Z
 title: "Jogadores baratos de Americanos no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 12/07/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (12/07/2026)?"
-    a: "Diego Luna (89, MLS) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Caitlin Cosme (88, D1 Arkema) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **12/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Diego Luna (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Caitlin Cosme (88) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,28 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | LM | MLS | 13k coins | -28.8% |
-| Julie Foudy | 88 | CM | Icons | 14k coins | -9.1% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 12k coins | -17.5% |
+| Julie Foudy | 88 | CM | Icons | 14k coins | -23.5% |
 | Christian Pulisic | 87 | CAM | Serie A TIM | 12k coins | -7.4% |
-| Michelle Cooper | 87 | RW | NWSL | 13k coins | -7% |
-| Croix Bethune | 87 | CAM | NWSL | 15k coins | -9.1% |
-| Landon Donovan | 86 | CAM | MLS | 12k coins | 0% |
-| Olivia Moultrie | 86 | CM | NWSL | 12k coins | -26.5% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +2.2% |
-| Tim Howard | 85 | GK | Premier League | 13k coins | -36.1% |
+| Croix Bethune | 87 | CAM | NWSL | 14k coins | -6.2% |
+| DaMarcus Beasley | 85 | LM | MLS | 13k coins | +4.3% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14k coins | -10% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | +13.5% |
 
 
 ## 📈 Destaques
 
-- **Diego Luna (89, LM)** da MLS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Julie Foudy (88, CM)** da Icons, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **13k coins**
+- **Croix Bethune (87, CAM)** da NWSL, a apenas **14k coins**
 
-- **Croix Bethune (87, CAM)** da NWSL, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
@@ -67,7 +65,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (12/07/2026)?**  
-Diego Luna (89, MLS) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Caitlin Cosme (88, D1 Arkema) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
