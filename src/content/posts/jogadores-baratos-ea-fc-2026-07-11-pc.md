@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T16:33:09.000Z
+pubDatetime: 2026-07-12T01:33:09.000Z
 title: "Jogadores baratos de Americanos no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 11/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (11/07/2026)?"
-    a: "Christian Pulisic (87, Serie A TIM) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Caitlin Cosme (88, D1 Arkema) aparece como melhor custo-benefício, a 14k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **11/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Christian Pulisic (87) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Caitlin Cosme (88) por apenas 14k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | +1.8% |
-| Landon Donovan | 86 | CAM | MLS | 11k coins | -10.4% |
-| DaMarcus Beasley | 85 | LM | MLS | 11k coins | 0% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +13.3% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14k coins | -46.6% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -8.2% |
+| Landon Donovan | 86 | CAM | MLS | 11k coins | -15.7% |
+| DaMarcus Beasley | 85 | LM | MLS | 11k coins | +7% |
 
 
 ## 📈 Destaques
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Landon Donovan (86, CAM)** da MLS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
-
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins**
 
 
 ## Por que estas cartas?
@@ -60,7 +60,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (11/07/2026)?**  
-Christian Pulisic (87, Serie A TIM) aparece como melhor custo-benefício, a 14k coins no PC.
+Caitlin Cosme (88, D1 Arkema) aparece como melhor custo-benefício, a 14k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
