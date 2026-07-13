@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T22:33:05.000Z
+pubDatetime: 2026-07-13T01:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,13 +29,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 12k coins | -3.8% |
-| Croix Bethune | 87 | CAM | NWSL | 14k coins | -12.5% |
-| Jack McGlynn | 87 | CM | MLS | 15k coins | -7.8% |
-| Landon Donovan | 86 | CAM | MLS | 14k coins | +6.4% |
-| Madison Haley | 85 | RW | Barclays WSL | 11k coins | -9.6% |
-| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +2.2% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | +38.5% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 12k coins | -7.7% |
+| Croix Bethune | 87 | CAM | NWSL | 14k coins | -18.2% |
+| Jack McGlynn | 87 | CM | MLS | 15k coins | -15.6% |
+| Landon Donovan | 86 | CAM | MLS | 12k coins | +4.3% |
+| Madison Haley | 85 | RW | Barclays WSL | 14k coins | +13.5% |
 
 
 ## 📈 Destaques
@@ -44,11 +42,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Croix Bethune (87, CAM)** da NWSL, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jack McGlynn (87, CM)** da MLS, a apenas **15k coins**
+- **Jack McGlynn (87, CM)** da MLS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **14k coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **12k coins**
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Madison Haley (85, RW)** da Barclays WSL, a apenas **14k coins**
 
 
 ## Por que estas cartas?
