@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T19:33:05.000Z
+pubDatetime: 2026-07-15T22:33:05.000Z
 title: "Jogadores baratos de Americanos no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,24 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sophia Wilson | 88 | ST | NWSL | 2k coins | -11.1% |
-| Michelle Cooper | 87 | RW | NWSL | 13k coins | -18.8% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14k coins | -3.4% |
-| DaMarcus Beasley | 85 | LM | MLS | 13k coins | +6.4% |
-| Mary Alice Vignola | 85 | LB | NWSL | 13k coins | -11.7% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2k coins | 0% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 15k coins | +38.7% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 12k coins | -6.9% |
+| DaMarcus Beasley | 85 | LM | MLS | 12k coins | +2.1% |
 
 
 ## 📈 Destaques
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12k coins**
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13k coins**
-
-- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12k coins**
 
 
 ## Por que estas cartas?
