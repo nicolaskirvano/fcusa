@@ -84,7 +84,7 @@ export const GET: APIRoute = async ({ props, url }) => {
                     fontSize: 22,
                   },
                   children: [
-                    "EAFC · FUT TRADING · BANCA BAIXA",
+                    "EA FC · ULTIMATE TEAM · MERCADO",
                     {
                       type: "span",
                       props: {
@@ -121,7 +121,7 @@ export const GET: APIRoute = async ({ props, url }) => {
                     fontSize: 24,
                   },
                   children: [
-                    `por ${props.data.author}`,
+                    `por ${config.site.author}`,
                     {
                       type: "span",
                       props: {

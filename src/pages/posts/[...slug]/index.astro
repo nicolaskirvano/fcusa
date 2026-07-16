@@ -63,7 +63,6 @@ const {
   description,
   ogImage: initOgImage,
   canonicalURL,
-  author,
   pubDatetime,
   modDatetime,
   timezone,
@@ -100,7 +99,7 @@ const ogImage = ogImageUrl
   description={description}
   ogImage={ogImage}
   canonicalURL={canonicalURL}
-  author={author}
+  author={config.site.author}
   pubDatetime={pubDatetime}
   modDatetime={modDatetime}
   tags={tags}
@@ -124,6 +123,14 @@ const ogImage = ogImageUrl
 
     <div class="my-2 flex items-center gap-2">
       <Datetime {pubDatetime} {modDatetime} {timezone} size="lg" />
+      <span aria-hidden="true" class="text-muted-foreground">•</span>
+      <a
+        href="/about/"
+        rel="author"
+        class="text-muted-foreground hover:text-accent"
+      >
+        Por {config.site.author}
+      </a>
       <span
         aria-hidden="true"
         class:list={[

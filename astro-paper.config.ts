@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcusa.pages.dev/",
     title: "USA FUT Market",
     description:
-      "Precos e mercado dos jogadores americanos no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores americanos no EA FC Ultimate Team, todos os dias.",
     author: "USA FUT Market",
-    profile: "https://fcusa.pages.dev/",
+    profile: "https://fcusa.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "USA FUT Market",

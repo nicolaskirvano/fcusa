@@ -1,28 +1,26 @@
 ---
 title: "Sobre"
-description: "O que e a FutQuant e por que ela existe."
+description: "Conheça a equipe editorial do USA FUT Market, a origem dos dados e os critérios aplicados às análises de EA FC."
 ---
 
-![FutQuant](/logo-bb-wordmark-vertical.svg)
+O **USA FUT Market** é uma publicação editorial especializada em EA FC Ultimate Team. Nosso foco é claro: preços e mercado dos jogadores americanos no EA FC Ultimate Team, todos os dias.
 
-FutQuant e o clube editorial de quem ainda esta montando banca no EAFC.
+## Quem assina
 
-Existe muito conteudo de FUT trading mostrando milhoes de coins, sniping insano e metodo secreto. O nosso publico nao esta la. Esta começando com pouca banca, pouca margem para errar e vontade real de entender liquidez, spread e momento de entrada.
+As publicações são assinadas por **USA FUT Market**. O sistema organiza dados de mercado, produz tabelas e aplica regras editoriais reproduzíveis antes de liberar cada análise. Dúvidas, correções e sugestões podem ser enviadas para [contato@futquant.com](mailto:contato@futquant.com).
 
-O nome e a promessa: voce entra como banca baixa, sai como trader. A baixa e o ponto de partida, nao o teto.
+## Como uma publicação é produzida
 
-## Metodo editorial
+- As cotações são coletadas em diferentes momentos do dia.
+- Registros anômalos e preços incompatíveis com a faixa observada são bloqueados.
+- Preço atual, mínima, máxima e variações são comparados no mesmo recorte.
+- Uma previsão só é citada quando é recente, válida e tem confiança suficiente.
+- Cada novo artigo recebe gráfico próprio e links para conteúdos relacionados deste site.
 
-Usamos o F.O.M. como mapa simples para analisar mercado:
+## Como interpretar os dados
 
-- **F · Fluxo**: pra onde a moeda esta indo.
-- **O · Oferta**: quantas cartas estao na lista.
-- **M · Momento**: quando entrar, quando sair e quando ficar quieto.
+Rankings de momentum mostram o comportamento recente das cartas; eles não garantem uma nova alta. Uma carta classificada como **esticada** exige cautela porque o preço já avançou de forma relevante. Nos guias abaixo de 15 mil coins, o limite é estrito e não inclui cartas de exatamente 15 mil.
 
-Sem hype, sem curso caro, sem trader de gabinete.
+## Limites e responsabilidade editorial
 
-## Pra quem e
-
-Para trader iniciante de FUT com bolso curto e ambicao alta. Quem quer construir banca com paciencia, registro e gestao de risco antes de mirar carta grande.
-
-@futquant
+O mercado pode mudar depois da publicação por causa de promoções, SBCs, recompensas e novas cartas. Confirme a cotação dentro do jogo antes de decidir. O conteúdo é informativo, os modelos são probabilísticos e nenhuma variação passada representa promessa de lucro.
