@@ -1,66 +1,76 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:33:09.000Z
-title: "Melhores investimentos em Americanos no EA FC (16/07/2026): análise e previsões — Console (PS)"
+pubDatetime: 2026-07-17T00:01:06.000Z
+title: "Investimentos EA FC: Americanos em 16/07 — Console (PS)"
 draft: false
 featured: true
 tags:
   - investimentos
   - trading
-  - previsoes
+  - momentum
+  - risco
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 16/07/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
+description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Lindsey Heaps (91, D1 Arkema) lidera, com +60.3% em 7 dias a 55k coins no Console (PS), e o modelo dá 22% de chance de seguir subindo."
+    a: "Croix Bethune (87, NWSL) lidera, com +61.4% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
     a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
 ---
 
-## Por que estas cartas
+## Critério deste radar
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **16/07/2026** no **Console (PS)**:
+Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lindsey Heaps (91) acumula **+60.3% em 7 dias** a 55k coins.
+> 🔝 **Destaque:** Croix Bethune (87) acumula **+61.4% em 7 dias** a 23k coins; leitura atual: **esticada**.
+
+![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## O que os números desta lista mostram
+
+- A mediana é de **+13.0% em 24h** e **+28.2% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de perseguir o movimento:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 91 | D1 Arkema | 55k coins | +6.4% | +60.3% | 22% |
-| Trinity Rodman | 88 | NWSL | 111k coins | +21.8% | +50% | 0% |
-| Julie Foudy | 91 | Icons | 40k coins | +14.3% | +49.5% | 54% |
-| Julie Foudy | 88 | Icons | 28k coins | +30% | +40.5% | 27% |
-| Korbin Shrader | 84 | D1 Arkema | 50k coins | +15.8% | +24.5% | 37% |
-| DaMarcus Beasley | 88 | MLS | 20k coins | +7.3% | +18.9% | 23% |
-| Clint Dempsey | 89 | Premier League | 155k coins | +6.7% | +10.3% | 26% |
-| Naomi Girma | 87 | Barclays WSL | 50k coins | +33.8% | +7.5% | 21% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 40k coins | +4.6% | +7.4% | 36% |
+| Croix Bethune | 87 | NWSL | 23k coins | +35.3% | +61.4% | Esticada |
+| Julie Foudy | 91 | Icons | 35k coins | +14.3% | +55.3% | Momentum moderado |
+| Lily Yohannes | 84 | D1 Arkema | 46k coins | +20.6% | +30.8% | Esticada |
+| Trinity Rodman | 88 | NWSL | 105k coins | +7.9% | +28.2% | Momentum moderado |
+| Julie Foudy | 90 | Icons | 73k coins | +10.3% | +10.3% | Momentum moderado |
+| Julie Foudy | 92 | Icons | 30k coins | +13% | +8.9% | Momentum moderado |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 39k coins | +3.9% | +6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Lindsey Heaps (91)** — 55k coins, **+60.3% em 7 dias** (+6.4% em 24h). Preço +53% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Croix Bethune (87)** — 23k coins, **+61.4% em 7 dias** (+35.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 111k coins, **+50% em 7 dias** (+21.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Julie Foudy (91)** — 35k coins, **+55.3% em 7 dias** (+14.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (91)** — 40k coins, **+49.5% em 7 dias** (+14.3% em 24h). Preço +69% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **54% de chance de seguir subindo**.
+- **Lily Yohannes (84)** — 46k coins, **+30.8% em 7 dias** (+20.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (88)** — 28k coins, **+40.5% em 7 dias** (+30% em 24h). Preço +68% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Trinity Rodman (88)** — 105k coins, **+28.2% em 7 dias** (+7.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Korbin Shrader (84)** — 50k coins, **+24.5% em 7 dias** (+15.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Julie Foudy (90)** — 73k coins, **+10.3% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
 
 - **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
 - Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
-- **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- **Liquidez importa**: cartas de ligas e ratings populares tendem a vender mais rápido.
+- Em cartas *esticadas*, espere uma nova cotação ou correção; não trate alta passada como promessa futura.
 
 
 ## ⚙️ A engine por tras deste post
@@ -70,7 +80,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Lindsey Heaps (91, D1 Arkema) lidera, com +60.3% em 7 dias a 55k coins no Console (PS), e o modelo dá 22% de chance de seguir subindo.
+Croix Bethune (87, NWSL) lidera, com +61.4% em 7 dias a 23k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -84,3 +94,11 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Americanos em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
+- [Mercado EA FC em 16/07: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)

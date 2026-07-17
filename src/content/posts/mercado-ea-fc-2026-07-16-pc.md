@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:33:17.000Z
-title: "Americanos no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — PC"
+pubDatetime: 2026-07-17T00:01:14.000Z
+title: "Mercado EA FC em 16/07: Americanos — PC"
 draft: false
 featured: true
 tags:
@@ -10,82 +10,91 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Alex Freeman (88, LALIGA EA SPORTS), com +58.3% em 24h, a 27k coins no PC."
+    a: "Rose Lavelle (88, NWSL), com +46.9% em 24h, a 65k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jaelin Howell (89), -48.8% em 24h, a 21k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Haji Wright (84) — 57% de probabilidade de alta, a 54k coins."
+    a: "Jaelin Howell (89), -49.4% em 24h, a 21k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 27 cartas em alta contra 15 em queda (média 3.27%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 29 cartas em alta contra 15 em queda (média 2.46%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **em alta** — predominam as valorizações — **27 subiram**, **15 caíram** (80+ e 5k+ coins), média de **3.27%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**16/07/2026**, PC) o Ultimate Team está em mercado **em alta** — predominam as valorizações — **29 subiram**, **15 caíram** (80+ e 5k+ coins), média de **2.46%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Alex Freeman (88) **+58.3%** · 🔴 **Maior baixa:** Jaelin Howell (89) **-48.8%**
+> 🟢 **Maior alta:** Rose Lavelle (88) **+46.9%** · 🔴 **Maior baixa:** Jaelin Howell (89) **-49.4%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 96.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 65.9% entre as cartas que se moveram; o universo observado reúne 57 cartas.
+- **Concentração:** NWSL aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 27k coins | +58.3% | +6.5% |
-| Lilly Reale | 89 | NWSL | 34k coins | +40.8% | +72.5% |
-| Gisele Thompson | 90 | NWSL | 51k coins | +36.3% | +40.8% |
-| Lindsey Heaps | 90 | D1 Arkema | 48k coins | +27.1% | +24.7% |
-| Weston McKennie | 92 | Serie A TIM | 72k coins | +17.6% | +78% |
-| Carson Pickett | 86 | NWSL | 38k coins | +14.9% | -8.9% |
-| Rose Lavelle | 89 | NWSL | 47k coins | +11.5% | +3.2% |
-| Lindsey Heaps | 91 | D1 Arkema | 94k coins | +11.5% | +61.7% |
-| Taylor Flint | 88 | NWSL | 210k coins | +10.5% | +23.5% |
-| Weston McKennie | 84 | Serie A TIM | 40k coins | +10.1% | +49.6% |
+| Rose Lavelle | 88 | NWSL | 65k coins | +46.9% | +126.1% |
+| Tara McKeown | 89 | NWSL | 30k coins | +46.2% | +54.1% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 26k coins | +44.4% | -3.7% |
+| Lilly Reale | 89 | NWSL | 34k coins | +39.8% | +71.2% |
+| Lindsey Heaps | 90 | D1 Arkema | 48k coins | +23.9% | +21.5% |
+| Lily Yohannes | 84 | D1 Arkema | 48k coins | +18.8% | +19.5% |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +16.5% | +26.9% |
+| Taylor Flint | 88 | NWSL | 220k coins | +15.8% | +23.6% |
+| Ashley Sanchez | 88 | NWSL | 74k coins | +15.7% | +34.9% |
+| Gisele Thompson | 90 | NWSL | 51k coins | +10.9% | +34.2% |
 
 
 ### Análise das altas
 
-- **Alex Freeman (88)** subiu **+58.3%** em 24h, a **27k coins** (faixa do dia: 15k–40k). Está em linha com a média de 7 dias (+1%). O modelo vê **estabilização** no curto prazo.
+- **Rose Lavelle (88)** subiu **+46.9%** em 24h, a **65k coins** (faixa do dia: 42k–65k). Está +43% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lilly Reale (89)** subiu **+40.8%** em 24h, a **34k coins** (faixa do dia: 15k–35k). Está +29% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Tara McKeown (89)** subiu **+46.2%** em 24h, a **30k coins** (faixa do dia: 15k–30k). Está +42% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Gisele Thompson (90)** subiu **+36.3%** em 24h, a **51k coins** (faixa do dia: 37k–60k). Está +34% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Alex Freeman (88)** subiu **+44.4%** em 24h, a **26k coins** (faixa do dia: 15k–40k). Está em linha com a média de 7 dias (-4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaelin Howell | 89 | NWSL | 21k coins | -48.8% | -11.5% |
-| Lindsey Heaps | 88 | D1 Arkema | 82k coins | -29% | +23.4% |
-| Alyssa Naeher | 88 | NWSL | 20k coins | -23.6% | -17.3% |
-| Christian Pulisic | 86 | Serie A TIM | 38k coins | -14.2% | +12.9% |
+| Jaelin Howell | 89 | NWSL | 21k coins | -49.4% | -19.2% |
+| Brad Guzan | 84 | MLS | 32k coins | -44.4% | -1.5% |
+| Lindsey Heaps | 88 | D1 Arkema | 82k coins | -31.1% | +28.1% |
+| Alyssa Naeher | 88 | NWSL | 20k coins | -22.9% | -17.3% |
+| Christian Pulisic | 86 | Serie A TIM | 38k coins | -16.4% | +10.1% |
+| Carson Pickett | 86 | NWSL | 38k coins | -14% | -8.9% |
 | Alex Morgan | 91 | Icons | 489k coins | -11.1% | +32.2% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 44k coins | -10.1% | +3.2% |
-| Sergiño Dest | 86 | Eredivisie | 122k coins | -7.3% | -18.4% |
-| Julie Foudy | 92 | Icons | 36k coins | -5.6% | -26.7% |
-| Malik Tillman | 85 | Bundesliga | 36k coins | -5.3% | -5.3% |
+| Malik Tillman | 85 | Bundesliga | 35k coins | -6% | -6% |
+| Alex Pfeiffer | 90 | NWSL | 235k coins | -4.1% | +4% |
 
 
 ### Análise das baixas
 
-- **Jaelin Howell (89)** caiu **-48.8%** em 24h, a **21k coins** (faixa do dia: 21k–42k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Jaelin Howell (89)** caiu **-49.4%** em 24h, a **21k coins** (faixa do dia: 21k–42k). Está -27% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Lindsey Heaps (88)** caiu **-29%** em 24h, a **82k coins** (faixa do dia: 80k–124k). Está em linha com a média de 7 dias (-5%). O modelo vê **estabilização** no curto prazo.
+- **Brad Guzan (84)** caiu **-44.4%** em 24h, a **32k coins** (faixa do dia: 32k–58k). Está -35% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Alyssa Naeher (88)** caiu **-23.6%** em 24h, a **20k coins** (faixa do dia: 19k–42k). Está -39% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Lindsey Heaps (88)** caiu **-31.1%** em 24h, a **82k coins** (faixa do dia: 80k–119k). Está em linha com a média de 7 dias (-5%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## Decisão prática para hoje
 
-Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
+- **Evite perseguir topo:** Rose Lavelle já avançou 46.9% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Haji Wright | 84 | 54k coins | 56k coins | 57% |
+- **Queda não é compra automática:** Jaelin Howell recuou -49.4%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## ⚙️ A engine por tras deste post
@@ -95,16 +104,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Alex Freeman (88, LALIGA EA SPORTS), com +58.3% em 24h, a 27k coins no PC.
+Rose Lavelle (88, NWSL), com +46.9% em 24h, a 65k coins no PC.
 
 **E a maior queda do dia?**  
-Jaelin Howell (89), -48.8% em 24h, a 21k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Haji Wright (84) — 57% de probabilidade de alta, a 54k coins.
+Jaelin Howell (89), -49.4% em 24h, a 21k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 27 cartas em alta contra 15 em queda (média 3.27%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 29 cartas em alta contra 15 em queda (média 2.46%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
@@ -115,3 +121,10 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Investimentos EA FC: Americanos em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
