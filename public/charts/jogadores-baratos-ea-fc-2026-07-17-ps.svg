@@ -1,22 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="405" viewBox="0 0 900 405" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="347" viewBox="0 0 900 347" role="img" aria-labelledby="title desc">
 <title id="title">Preço em coins: Jogadores baratos EA FC: Americanos em 17/07 — Console (PS)</title>
 <desc id="desc">Gráfico gerado a partir da tabela publicada neste artigo.</desc>
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
-<rect x="285" y="95" width="446" height="28" rx="7" fill="#38bdf8"/>
-<text x="741" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.250</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Catarina Macario</text>
-<rect x="285" y="153" width="463" height="28" rx="7" fill="#38bdf8"/>
-<text x="758" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
+<rect x="285" y="95" width="456" height="28" rx="7" fill="#38bdf8"/>
+<text x="751" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Michelle Cooper</text>
+<rect x="285" y="153" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.750</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Landon Donovan</text>
-<rect x="285" y="211" width="429" height="28" rx="7" fill="#38bdf8"/>
-<text x="724" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
+<rect x="285" y="211" width="415" height="28" rx="7" fill="#38bdf8"/>
+<text x="710" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.750</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">DaMarcus Beasley</text>
-<rect x="285" y="269" width="396" height="28" rx="7" fill="#38bdf8"/>
-<text x="691" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.750</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mary Alice Vignola</text>
-<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
+<rect x="285" y="269" width="407" height="28" rx="7" fill="#38bdf8"/>
+<text x="702" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.500</text>
 </svg>

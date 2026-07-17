@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:23:55.000Z
+pubDatetime: 2026-07-17T19:33:09.000Z
 title: "Investimentos EA FC: Americanos em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Ashley Sanchez (87, NWSL) lidera, com +70.9% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Riley Tiernan (88, NWSL) lidera, com +65.7% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ashley Sanchez (87) acumula **+70.9% em 7 dias** a 65k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Riley Tiernan (88) acumula **+65.7% em 7 dias** a 25k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.3% em 24h** e **+25.0% em 7 dias**.
-- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.7% em 24h** e **+18.1% em 7 dias**.
+- **1 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,30 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ashley Sanchez | 87 | NWSL | 65k coins | +6.3% | +70.9% | Esticada |
-| Julie Foudy | 88 | Icons | 24k coins | +12.5% | +61.2% | Esticada |
-| Jaelin Howell | 89 | NWSL | 20k coins | +3.3% | +51.6% | Momentum moderado |
-| Jack McGlynn | 87 | MLS | 21k coins | +35.9% | +33.8% | Esticada |
-| Lindsey Heaps | 88 | D1 Arkema | 112k coins | +6.7% | +30.2% | Momentum moderado |
-| Julie Foudy | 92 | Icons | 25k coins | +20% | +29.7% | Esticada |
-| Clint Dempsey | 89 | Premier League | 168k coins | +4.4% | +20.4% | Entrada a observar |
-| Tara McKeown | 89 | NWSL | 20k coins | +1.2% | +15.7% | Entrada a observar |
-| DaMarcus Beasley | 88 | MLS | 21k coins | +2.5% | +13.9% | Entrada a observar |
-| Jaedyn Shaw | 89 | NWSL | 25k coins | +19% | +11.1% | Momentum moderado |
-| Weston McKennie | 92 | Serie A TIM | 36k coins | +1.4% | +5.8% | Entrada a observar |
-| Tim Ream | 85 | MLS | 67k coins | +2.3% | +5.4% | Entrada a observar |
+| Riley Tiernan | 88 | NWSL | 25k coins | +33.7% | +65.7% | Esticada |
+| Ashley Sanchez | 87 | NWSL | 58k coins | +3.6% | +46.8% | Momentum moderado |
+| Trinity Rodman | 87 | NWSL | 130k coins | +2.3% | +26.7% | Momentum moderado |
+| Jack McGlynn | 87 | MLS | 19.500 coins | +11% | +24.6% | Momentum moderado |
+| Clint Dempsey | 89 | Premier League | 152k coins | +5.1% | +19.7% | Momentum moderado |
+| DaMarcus Beasley | 88 | MLS | 21k coins | +4.9% | +18.1% | Entrada a observar |
+| Olivia Moultrie | 86 | NWSL | 16.500 coins | +11.9% | +17.9% | Momentum moderado |
+| Julie Foudy | 92 | Icons | 32k coins | +5% | +14.5% | Entrada a observar |
+| Tara McKeown | 89 | NWSL | 24k coins | +6.9% | +11.6% | Momentum moderado |
+| Weston McKennie | 92 | Serie A TIM | 36k coins | +5.7% | +7.2% | Momentum moderado |
+| Ricardo Pepi | 87 | Eredivisie | 21k coins | +9.2% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ashley Sanchez (87)** — 65k coins, **+70.9% em 7 dias** (+6.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riley Tiernan (88)** — 25k coins, **+65.7% em 7 dias** (+33.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (88)** — 24k coins, **+61.2% em 7 dias** (+12.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (87)** — 58k coins, **+46.8% em 7 dias** (+3.6% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaelin Howell (89)** — 20k coins, **+51.6% em 7 dias** (+3.3% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 130k coins, **+26.7% em 7 dias** (+2.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jack McGlynn (87)** — 21k coins, **+33.8% em 7 dias** (+35.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jack McGlynn (87)** — 19.500 coins, **+24.6% em 7 dias** (+11% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (88)** — 112k coins, **+30.2% em 7 dias** (+6.7% em 24h). Preço +76% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Clint Dempsey (89)** — 152k coins, **+19.7% em 7 dias** (+5.1% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +84,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Ashley Sanchez (87, NWSL) lidera, com +70.9% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Riley Tiernan (88, NWSL) lidera, com +65.7% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
