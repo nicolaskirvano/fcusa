@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "USA FUT Market"
 pubDatetime: 2026-06-21T01:33:47.000Z
-title: "Americanos no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Americanos no EA FC em 20/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,22 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Tara McKeown (89, NWSL), com +47.3% em 24h, a 25k coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Timothy Weah (85), -28.7% em 24h, a 28k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Alyssa Thompson (91) — 95% de probabilidade de alta, a 91k coins."
-  - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 33 em queda (média 3.26%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
+description: "Snapshot histórico de 20/06/2026 no PS: Tara McKeown liderou as altas e Timothy Weah as baixas em Americanos. Compare preços, variações, gráfico e riscos."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 20/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Tara McKeown** registrou o maior movimento de 24h (+47,3%), enquanto **Timothy Weah** marcou o menor (-28,7%). A distância entre os extremos foi de **76,0 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-0,1%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Americanos no EA FC em 20/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-20-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## 📈 O mercado hoje, em resumo
 
@@ -84,7 +87,7 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 | Rose Lavelle | 88 | 35k coins | 38k coins | 81% |
 
 
-O modelo projeta altas significativas para Alyssa Thompson (91, Barclays WSL) com probabilidade de 95% a 91k coins, Malik Tillman (88, Bundesliga) com probabilidade de 95% a 240k coins, Naomi Girma (87, Barclays WSL) com probabilidade de 95% a 46k coins, Malik Tillman (85, Bundesliga) com probabilidade de 95% a 50k coins, Jaelin Howell (89, NWSL) com probabilidade de 95% a 22k coins, Christian Pulisic (87, Serie A TIM) com probabilidade de 95% a 17k coins, Jaedyn Shaw (83, NWSL) com probabilidade de 84% a 30k coins e Rose Lavelle (88, NWSL) com probabilidade de 81% a 35k coins.
+Naquele snapshot, o modelo projetava altas significativas para Alyssa Thompson (91, Barclays WSL) com probabilidade de 95% a 91k coins, Malik Tillman (88, Bundesliga) com probabilidade de 95% a 240k coins, Naomi Girma (87, Barclays WSL) com probabilidade de 95% a 46k coins, Malik Tillman (85, Bundesliga) com probabilidade de 95% a 50k coins, Jaelin Howell (89, NWSL) com probabilidade de 95% a 22k coins, Christian Pulisic (87, Serie A TIM) com probabilidade de 95% a 17k coins, Jaedyn Shaw (83, NWSL) com probabilidade de 84% a 30k coins e Rose Lavelle (88, NWSL) com probabilidade de 81% a 35k coins.
 
 
 ## ⚠️ Cartas em risco nas próximas 24h
@@ -113,19 +116,19 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (20/06/2026)?**
 Tara McKeown (89, NWSL), com +47.3% em 24h, a 25k coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Timothy Weah (85), -28.7% em 24h, a 28k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Alyssa Thompson (91) — 95% de probabilidade de alta, a 91k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Alyssa Thompson (91) — 95% de probabilidade de alta, a 91k coins.
 
-**O mercado do Ultimate Team subiu ou caiu hoje?**  
+**O mercado do Ultimate Team subiu ou caiu hoje?**
 Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 33 em queda (média 3.26%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
 
 
@@ -134,3 +137,12 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de Console (PS), referência de 20/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Americanos baratos no EA FC em 20/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-20-ps/)
+- [Momentum de Americanos no EA FC em 20/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-20-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

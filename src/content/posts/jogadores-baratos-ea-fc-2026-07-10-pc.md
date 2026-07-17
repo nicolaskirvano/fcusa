@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "USA FUT Market"
 pubDatetime: 2026-07-10T22:33:10.000Z
-title: "Jogadores baratos de Americanos no EA FC (10/07/2026) — joias por menos de 15k — PC"
+title: "Americanos baratos no EA FC em 10/07 — PC"
 draft: false
 featured: false
 tags:
@@ -9,21 +9,28 @@ tags:
   - custo-beneficio
   - budget
   - pc
-description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 10/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
-faq:
-  - q: "Qual o melhor jogador barato do EA FC hoje (10/07/2026)?"
-    a: "Julie Foudy (88, Icons) aparece como melhor custo-benefício, a 15k coins no PC."
-  - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
-    a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
-  - q: "Esses preços são reais?"
-    a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
+description: "Em 10/07/2026 no PC, Julie Foudy liderou a seleção de Americanos por 15.000 coins. Compare 4 cartas, OVR, preço, 7d e gráfico."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **10/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 10/07/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Entre 4 opções, **Catarina Macario** tinha o menor preço (2.000 coins). O maior OVR era de **Julie Foudy** (88), por 15.000 coins.
+
+O preço mediano do recorte foi **12.500 coins** e 3 cartas vinham de queda em 7d. 1 opção estava exatamente no teto de 15.000 coins. OVR é só um filtro inicial; função, atributos, PlayStyles e química precisam ser conferidos antes de montar o time.
+
+![Gráfico de preço em coins para os destaques de Americanos baratos no EA FC em 10/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-10-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam até 15 mil coins** em **10/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Julie Foudy (88) por apenas 15k coins.
 
-## 💎 Joias baratas (83+, abaixo de 15k)
+## 💎 Joias baratas (83+, até 15k)
 
 Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no fundo' a carta está):
 
@@ -37,19 +44,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 ## 📈 Destaques
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (88, CM)** da Icons, a apenas **15k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
 - **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14k coins**
 
 - **DaMarcus Beasley (85, LM)** da MLS, a apenas **11k coins**
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2k coins** — vem **caindo na semana**, era uma opção relativamente barata naquele recorte.
 
 
 ## Por que estas cartas?
 
-- **Rating 83+** garante atributos competitivos para a maioria dos modos.
-- **Abaixo de 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
+- **OVR 83+** ajuda a filtrar, mas não garante desempenho: compare atributos, PlayStyles, função tática e química.
+- **Até 15k** cabe em qualquer banca, ideal para início de temporada ou times secundários.
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
@@ -59,13 +66,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 
 ## ❓ Perguntas frequentes
 
-**Qual o melhor jogador barato do EA FC hoje (10/07/2026)?**  
+**Qual era o destaque barato do EA FC em 10/07/2026?**
 Julie Foudy (88, Icons) aparece como melhor custo-benefício, a 15k coins no PC.
 
-**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
-Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
+**Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**
+Cartas com rating 83+ que custam até 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. Este arquivo preserva o recorte daquela data; consulte as análises recentes para preços atuais.
 
-**Esses preços são reais?**  
+**Esses preços são reais?**
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
@@ -74,3 +81,12 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 10/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Americanos baratos no EA FC em 13/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-13-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Americanos no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

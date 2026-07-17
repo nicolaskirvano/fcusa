@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "USA FUT Market"
 pubDatetime: 2026-06-02T01:33:02.000Z
-title: "Americanos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Americanos no EA FC em 01/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Timothy Weah (85, Ligue 1 McDonald's), com +52.3% em 24h, a 42k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Trinity Rodman (88), -27.1% em 24h, a 159k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 13 cartas em alta contra 30 em queda (média 6.5%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 01/06/2026 no PC: Timothy Weah liderou as altas e Trinity Rodman as baixas em Americanos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 01/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **30 caíram**, com variação média de **6.5%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 19 cartas destacadas nas tabelas, **Timothy Weah** registrou o maior movimento de 24h (+52,3%), enquanto **Trinity Rodman** marcou o menor (-27,1%). A distância entre os extremos foi de **79,4 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-6,4%**: 9 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Americanos no EA FC em 01/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-01-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** teve um recorte **misto** — as quedas foram mais numerosas, embora as altas tenham sido mais intensas: das cartas relevantes (80+ acima de 5k coins), **13 subiram** e **30 caíram**, com variação média de **6.5%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Timothy Weah (85) **+52.3%** · 🔴 **Maior baixa:** Trinity Rodman (88) **-27.1%**
 
@@ -45,11 +50,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Timothy Weah (85)** subiu **+52.3%** em 24h, a **42k coins** (faixa do dia: 27k–46k). Está +49% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Timothy Weah (85)** subiu **+52.3%** em 24h, a **42k coins** (faixa do dia: 27k–46k). Está +49% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **DaMarcus Beasley (88)** subiu **+45.4%** em 24h, a **32k coins** (faixa do dia: 13k–32k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **DaMarcus Beasley (88)** subiu **+45.4%** em 24h, a **32k coins** (faixa do dia: 13k–32k). Está +13% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Lindsey Heaps (88)** subiu **+42.8%** em 24h, a **47k coins** (faixa do dia: 33k–47k). Está +65% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Lindsey Heaps (88)** subiu **+42.8%** em 24h, a **47k coins** (faixa do dia: 33k–47k). Está +65% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -70,11 +75,11 @@ Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Trinity Rodman (88)** caiu **-27.1%** em 24h, a **159k coins** (faixa do dia: 159k–219k). Está -16% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Trinity Rodman (88)** caiu **-27.1%** em 24h, a **159k coins** (faixa do dia: 159k–219k). Está -16% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Alyssa Thompson (91)** caiu **-26.7%** em 24h, a **99k coins** (faixa do dia: 99k–132k). Está -22% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alyssa Thompson (91)** caiu **-26.7%** em 24h, a **99k coins** (faixa do dia: 99k–132k). Está -22% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Ashley Sanchez (87)** caiu **-17.8%** em 24h, a **21k coins** (faixa do dia: 21k–26k). Está -22% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Ashley Sanchez (87)** caiu **-17.8%** em 24h, a **21k coins** (faixa do dia: 21k–26k). Está -22% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -84,16 +89,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (01/06/2026)?**
 Timothy Weah (85, Ligue 1 McDonald's), com +52.3% em 24h, a 42k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Trinity Rodman (88), -27.1% em 24h, a 159k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 13 cartas em alta contra 30 em queda (média 6.5%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em alta — predominam as valorizações, com 13 cartas em alta contra 30 em queda (média 6.5%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -102,3 +107,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 01/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Americanos baratos no EA FC em 01/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-01-pc/)
+- [Momentum de Americanos no EA FC em 01/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-01-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
