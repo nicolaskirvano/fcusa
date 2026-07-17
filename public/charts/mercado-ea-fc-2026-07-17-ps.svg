@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Morgan</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Howard</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.3%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Howard</text>
-<rect x="285" y="153" width="413" height="28" rx="7" fill="#22c55e"/>
-<text x="708" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.7%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Taylor Flint</text>
-<rect x="285" y="211" width="392" height="28" rx="7" fill="#22c55e"/>
-<text x="687" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark McKenzie</text>
-<rect x="285" y="269" width="387" height="28" rx="7" fill="#22c55e"/>
-<text x="682" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Naeher</text>
-<rect x="285" y="327" width="268" height="28" rx="7" fill="#22c55e"/>
-<text x="563" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Brad Guzan</text>
-<rect x="285" y="385" width="178" height="28" rx="7" fill="#22c55e"/>
-<text x="473" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+45.8%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Taylor Flint</text>
+<rect x="285" y="153" width="444" height="28" rx="7" fill="#22c55e"/>
+<text x="739" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.4%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
+<rect x="285" y="211" width="306" height="28" rx="7" fill="#22c55e"/>
+<text x="601" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaedyn Shaw</text>
+<rect x="285" y="269" width="217" height="28" rx="7" fill="#22c55e"/>
+<text x="512" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
+<rect x="285" y="327" width="210" height="28" rx="7" fill="#22c55e"/>
+<text x="505" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Morgan</text>
+<rect x="285" y="385" width="175" height="28" rx="7" fill="#22c55e"/>
+<text x="470" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.7%</text>
 </svg>
