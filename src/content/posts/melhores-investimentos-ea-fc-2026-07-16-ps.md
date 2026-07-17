@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:01:06.000Z
+pubDatetime: 2026-07-17T01:33:09.000Z
 title: "Investimentos EA FC: Americanos em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.0% em 24h** e **+28.2% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.8% em 24h** e **+25.5% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,25 +44,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Croix Bethune | 87 | NWSL | 23k coins | +35.3% | +61.4% | Esticada |
-| Julie Foudy | 91 | Icons | 35k coins | +14.3% | +55.3% | Momentum moderado |
-| Lily Yohannes | 84 | D1 Arkema | 46k coins | +20.6% | +30.8% | Esticada |
-| Trinity Rodman | 88 | NWSL | 105k coins | +7.9% | +28.2% | Momentum moderado |
-| Julie Foudy | 90 | Icons | 73k coins | +10.3% | +10.3% | Momentum moderado |
-| Julie Foudy | 92 | Icons | 30k coins | +13% | +8.9% | Momentum moderado |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 39k coins | +3.9% | +6% | Entrada a observar |
+| Alyssa Thompson | 91 | Barclays WSL | 197k coins | +21.9% | +31.8% | Esticada |
+| Trinity Rodman | 88 | NWSL | 95k coins | +4% | +28% | Momentum moderado |
+| Trinity Rodman | 87 | NWSL | 130k coins | +13% | +26.2% | Momentum moderado |
+| Lily Yohannes | 84 | D1 Arkema | 46k coins | +20% | +24.8% | Esticada |
+| DaMarcus Beasley | 88 | MLS | 21k coins | +2.4% | +16% | Entrada a observar |
+| Michelle Cooper | 87 | NWSL | 15.750 coins | +12.5% | +8.6% | Momentum moderado |
+| Julie Foudy | 92 | Icons | 30k coins | +12% | +8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Croix Bethune (87)** — 23k coins, **+61.4% em 7 dias** (+35.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (91)** — 35k coins, **+55.3% em 7 dias** (+14.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alyssa Thompson (91)** — 197k coins, **+31.8% em 7 dias** (+21.9% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (84)** — 46k coins, **+30.8% em 7 dias** (+20.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (88)** — 95k coins, **+28% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 105k coins, **+28.2% em 7 dias** (+7.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 130k coins, **+26.2% em 7 dias** (+13% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (90)** — 73k coins, **+10.3% em 7 dias** (+10.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lily Yohannes (84)** — 46k coins, **+24.8% em 7 dias** (+20% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +99,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Americanos em 16/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-16-ps/)
 - [Mercado EA FC em 16/07: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-07-16-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

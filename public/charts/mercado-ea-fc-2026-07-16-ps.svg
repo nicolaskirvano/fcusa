@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Thompson</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.2%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.8%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Croix Bethune</text>
-<rect x="285" y="153" width="392" height="28" rx="7" fill="#22c55e"/>
-<text x="687" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Naomi Girma</text>
-<rect x="285" y="211" width="274" height="28" rx="7" fill="#22c55e"/>
-<text x="569" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.7%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
-<rect x="285" y="269" width="229" height="28" rx="7" fill="#22c55e"/>
-<text x="524" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.6%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Brad Guzan</text>
-<rect x="285" y="327" width="226" height="28" rx="7" fill="#22c55e"/>
-<text x="521" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
-<rect x="285" y="385" width="159" height="28" rx="7" fill="#22c55e"/>
-<text x="454" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.3%</text>
+<rect x="285" y="153" width="298" height="28" rx="7" fill="#22c55e"/>
+<text x="593" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.3%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
+<rect x="285" y="211" width="238" height="28" rx="7" fill="#22c55e"/>
+<text x="533" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Thompson</text>
+<rect x="285" y="269" width="185" height="28" rx="7" fill="#22c55e"/>
+<text x="480" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
+<rect x="285" y="327" width="169" height="28" rx="7" fill="#22c55e"/>
+<text x="464" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Naomi Girma</text>
+<rect x="285" y="385" width="143" height="28" rx="7" fill="#22c55e"/>
+<text x="438" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.9%</text>
 </svg>

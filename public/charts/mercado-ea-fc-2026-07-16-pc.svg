@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rose Lavelle</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.9%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tara McKeown</text>
-<rect x="285" y="153" width="473" height="28" rx="7" fill="#22c55e"/>
-<text x="768" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.2%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Freeman</text>
-<rect x="285" y="211" width="454" height="28" rx="7" fill="#22c55e"/>
-<text x="749" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
-<rect x="285" y="269" width="407" height="28" rx="7" fill="#22c55e"/>
-<text x="702" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
-<rect x="285" y="327" width="245" height="28" rx="7" fill="#22c55e"/>
-<text x="540" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
-<rect x="285" y="385" width="192" height="28" rx="7" fill="#22c55e"/>
-<text x="487" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rose Lavelle</text>
+<rect x="285" y="153" width="468" height="28" rx="7" fill="#22c55e"/>
+<text x="763" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
+<rect x="285" y="211" width="461" height="28" rx="7" fill="#22c55e"/>
+<text x="756" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.2%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mary Alice Vignola</text>
+<rect x="285" y="269" width="448" height="28" rx="7" fill="#22c55e"/>
+<text x="743" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Luna</text>
+<rect x="285" y="327" width="399" height="28" rx="7" fill="#22c55e"/>
+<text x="694" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caitlin Cosme</text>
+<rect x="285" y="385" width="352" height="28" rx="7" fill="#22c55e"/>
+<text x="647" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.3%</text>
 </svg>
