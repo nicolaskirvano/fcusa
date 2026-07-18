@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sydney Leroux</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.8%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carson Pickett</text>
-<rect x="285" y="153" width="286" height="28" rx="7" fill="#22c55e"/>
-<text x="581" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
-<rect x="285" y="211" width="237" height="28" rx="7" fill="#22c55e"/>
-<text x="532" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
-<rect x="285" y="269" width="225" height="28" rx="7" fill="#22c55e"/>
-<text x="520" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Timothy Weah</text>
-<rect x="285" y="327" width="179" height="28" rx="7" fill="#22c55e"/>
-<text x="474" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
-<rect x="285" y="385" width="99" height="28" rx="7" fill="#22c55e"/>
-<text x="394" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
+<rect x="285" y="153" width="384" height="28" rx="7" fill="#22c55e"/>
+<text x="679" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.8%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riley Tiernan</text>
+<rect x="285" y="211" width="330" height="28" rx="7" fill="#22c55e"/>
+<text x="625" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carson Pickett</text>
+<rect x="285" y="269" width="330" height="28" rx="7" fill="#22c55e"/>
+<text x="625" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Luna</text>
+<rect x="285" y="327" width="214" height="28" rx="7" fill="#22c55e"/>
+<text x="509" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
+<rect x="285" y="385" width="204" height="28" rx="7" fill="#22c55e"/>
+<text x="499" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.6%</text>
 </svg>
