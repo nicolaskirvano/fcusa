@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:33:18.000Z
+pubDatetime: 2026-07-18T13:33:19.000Z
 title: "Investimentos EA FC: Americanos em 18/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Diego Luna (89, MLS) lidera, com +72.8% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mary Alice Vignola (85, NWSL) lidera, com +84.4% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Diego Luna (89) acumula **+72.8% em 7 dias** a 35k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mary Alice Vignola (85) acumula **+84.4% em 7 dias** a 28k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 18/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-18-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.2% em 24h** e **+31.6% em 7 dias**.
-- **5 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.1% em 24h** e **+26.3% em 7 dias**.
+- **4 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 8 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | MLS | 35k coins | +37.3% | +72.8% | Esticada |
+| Mary Alice Vignola | 85 | NWSL | 28k coins | +6.3% | +84.4% | Esticada |
 | Crystal Dunn | 85 | D1 Arkema | 85k coins | +11.8% | +70% | Esticada |
 | Trinity Rodman | 88 | NWSL | 180k coins | +12.5% | +52.5% | Momentum moderado |
-| Rose Lavelle | 89 | NWSL | 64k coins | +3.9% | +42.6% | Momentum moderado |
-| Gisele Thompson | 90 | NWSL | 48k coins | +4.7% | +41.1% | Momentum moderado |
-| Jaelin Howell | 89 | NWSL | 38k coins | +35.4% | +34.2% | Esticada |
-| Lindsey Heaps | 91 | D1 Arkema | 89k coins | +14.1% | +29% | Momentum moderado |
-| Michelle Cooper | 87 | NWSL | 28k coins | +8.9% | +19.6% | Momentum moderado |
-| Ashley Sanchez | 88 | NWSL | 64k coins | +29.9% | +16.4% | Esticada |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 45k coins | +1.6% | +12.5% | Entrada a observar |
-| Croix Bethune | 84 | NWSL | 45k coins | +9.4% | +9.4% | Momentum moderado |
-| Tim Ream | 85 | MLS | 90k coins | +20.1% | +7.8% | Esticada |
+| Trinity Rodman | 87 | NWSL | 148k coins | +13.8% | +48.7% | Momentum moderado |
+| Gisele Thompson | 90 | NWSL | 50k coins | +4.7% | +44.2% | Momentum moderado |
+| Caitlin Cosme | 88 | D1 Arkema | 16.750 coins | +28.6% | +33.3% | Esticada |
+| Rose Lavelle | 89 | NWSL | 57k coins | +9.2% | +26.6% | Momentum moderado |
+| Julie Foudy | 91 | Icons | 40k coins | +15.1% | +26% | Momentum moderado |
+| Clint Dempsey | 89 | Premier League | 209k coins | +10.3% | +25.9% | Momentum moderado |
+| Lilly Reale | 89 | NWSL | 34k coins | +7.7% | +23.9% | Momentum moderado |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 47k coins | +9.9% | +12.5% | Momentum moderado |
+| Michelle Cooper | 87 | NWSL | 19.250 coins | +3% | +10.6% | Entrada a observar |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 30k coins | +35.9% | +10.6% | Esticada |
+| Croix Bethune | 84 | NWSL | 45k coins | +8.8% | +9.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Diego Luna (89)** — 35k coins, **+72.8% em 7 dias** (+37.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mary Alice Vignola (85)** — 28k coins, **+84.4% em 7 dias** (+6.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Crystal Dunn (85)** — 85k coins, **+70% em 7 dias** (+11.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Crystal Dunn (85)** — 85k coins, **+70% em 7 dias** (+11.8% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 180k coins, **+52.5% em 7 dias** (+12.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (88)** — 180k coins, **+52.5% em 7 dias** (+12.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 64k coins, **+42.6% em 7 dias** (+3.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 148k coins, **+48.7% em 7 dias** (+13.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 48k coins, **+41.1% em 7 dias** (+4.7% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gisele Thompson (90)** — 50k coins, **+44.2% em 7 dias** (+4.7% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +87,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Diego Luna (89, MLS) lidera, com +72.8% em 7 dias a 35k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mary Alice Vignola (85, NWSL) lidera, com +84.4% em 7 dias a 28k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
