@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:33:17.000Z
+pubDatetime: 2026-07-18T22:33:17.000Z
 title: "Mercado EA FC em 18/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Carson Pickett (86, NWSL), com +37.9% em 24h, a 43k coins no PC."
+    a: "Julie Foudy (92, Icons), com +54.8% em 24h, a 43k coins no PC."
   - q: "E a maior queda do dia?"
     a: "Naomi Girma (87), -50% em 24h, a 42k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 25 cartas em alta contra 28 em queda (média 0.96%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 19 cartas em alta contra 30 em queda (média -4.0%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **18/07/2026** (PC): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **25 em alta** e **28 em queda**, média de **0.96%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **18/07/2026** (PC): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **19 em alta** e **30 em queda**, média de **-4.0%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Carson Pickett (86) **+37.9%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
+> 🟢 **Maior alta:** Julie Foudy (92) **+54.8%** · 🔴 **Maior baixa:** Naomi Girma (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-18-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **18/07/2026** (PC): dia **indefinido** — sem tendência dominante
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 65 cartas.
-- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 104.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.8% entre as cartas que se moveram; o universo observado reúne 64 cartas.
+- **Concentração:** NWSL aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Julie Foudy | 92 | Icons | 43k coins | +54.8% | +22.8% |
 | Carson Pickett | 86 | NWSL | 43k coins | +37.9% | +31.5% |
-| Alex Morgan | 91 | Icons | 1.90M coins | +35.7% | +35.7% |
-| Weston McKennie | 92 | Serie A TIM | 50k coins | +34.2% | +14.9% |
-| Lindsey Heaps | 90 | D1 Arkema | 75k coins | +28.2% | +138.1% |
-| Taylor Flint | 88 | NWSL | 220k coins | +23.6% | +24.3% |
-| Alyssa Naeher | 88 | NWSL | 50k coins | +17.8% | +103.1% |
-| Croix Bethune | 84 | NWSL | 45k coins | +11.2% | +11.9% |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +11.1% | +10.5% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 48k coins | +10.5% | +9.8% |
-| Lindsey Heaps | 91 | D1 Arkema | 89k coins | +9.4% | +45.9% |
+| Diego Luna | 89 | MLS | 25k coins | +22% | +1% |
+| Weston McKennie | 92 | Serie A TIM | 50k coins | +16.2% | +16.9% |
+| Alyssa Naeher | 88 | NWSL | 49k coins | +16% | +100% |
+| Lilly Reale | 89 | NWSL | 24k coins | +14.4% | -8.8% |
+| Jaelin Howell | 89 | NWSL | 25k coins | +12.9% | -29.5% |
+| Tara McKeown | 89 | NWSL | 25k coins | +11.2% | +67.6% |
+| Folarin Balogun | 85 | Ligue 1 McDonald's | 30k coins | +9.1% | 0% |
+| Gisele Thompson | 90 | NWSL | 59k coins | +6.2% | +96.7% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ Panorama de **18/07/2026** (PC): dia **indefinido** — sem tendência dominante
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Carson Pickett (86)** subiu **+37.9%** em 24h, a **43k coins** (faixa do dia: 31k–43k). Está +34% acima da média de 7 dias (aquecida).
+- **Julie Foudy (92)** subiu **+54.8%** em 24h, a **43k coins** (faixa do dia: 31k–57k). Está em linha com a média de 7 dias (+1%).
 
-- **Alex Morgan (91)** subiu **+35.7%** em 24h, a **1.90M coins** (faixa do dia: 1.80M–1.90M). Está +30% acima da média de 7 dias (aquecida).
+- **Carson Pickett (86)** subiu **+37.9%** em 24h, a **43k coins** (faixa do dia: 31k–43k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Weston McKennie (92)** subiu **+34.2%** em 24h, a **50k coins** (faixa do dia: 35k–54k). Está em linha com a média de 7 dias (-6%).
+- **Diego Luna (89)** subiu **+22%** em 24h, a **25k coins** (faixa do dia: 16.750–35k). Está -8% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Naomi Girma | 87 | Barclays WSL | 42k coins | -50% | -47.5% |
-| Sergiño Dest | 86 | Eredivisie | 78k coins | -41.7% | -8% |
-| Tim Howard | 85 | Premier League | 24k coins | -31.2% | +67.2% |
-| Julie Foudy | 88 | Icons | 22k coins | -28.3% | -14.9% |
-| Korbin Shrader | 84 | D1 Arkema | 35k coins | -27.7% | -31.7% |
-| Rose Lavelle | 88 | NWSL | 49k coins | -21.2% | -1.5% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 40k coins | -19% | -7.1% |
-| Daniel Munie | 84 | MLS | 34k coins | -17.9% | -14.8% |
-| Alyssa Thompson | 91 | Barclays WSL | 150k coins | -15.8% | -3.6% |
-| Ashley Sanchez | 87 | NWSL | 60k coins | -15.6% | -3.9% |
+| Naomi Girma | 87 | Barclays WSL | 42k coins | -50% | -24.8% |
+| Sergiño Dest | 86 | Eredivisie | 73k coins | -29.8% | -16.6% |
+| Ashley Sanchez | 87 | NWSL | 52k coins | -27.8% | -19.4% |
+| Korbin Shrader | 84 | D1 Arkema | 35k coins | -23.5% | -29.6% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 32k coins | -19.1% | -9.7% |
+| Malik Tillman | 85 | Bundesliga | 36k coins | -17.8% | -26% |
+| Haji Wright | 84 | EFL Championship | 35k coins | -12.5% | -7.9% |
+| Christian Pulisic | 86 | Serie A TIM | 42k coins | -12.4% | +7% |
+| Daniel Munie | 84 | MLS | 35k coins | -11.9% | -13.6% |
+| Lily Yohannes | 84 | D1 Arkema | 45k coins | -8.3% | -4.1% |
 
 
 ### Análise das baixas
 
 - **Naomi Girma (87)** caiu **-50%** em 24h, a **42k coins** (faixa do dia: 42k–85k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Sergiño Dest (86)** caiu **-41.7%** em 24h, a **78k coins** (faixa do dia: 78k–135k). Está -32% abaixo da média de 7 dias (descontada).
+- **Sergiño Dest (86)** caiu **-29.8%** em 24h, a **73k coins** (faixa do dia: 73k–104k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Tim Howard (85)** caiu **-31.2%** em 24h, a **24k coins** (faixa do dia: 10.750–35k). Está +16% acima da média de 7 dias (aquecida).
+- **Ashley Sanchez (87)** caiu **-27.8%** em 24h, a **52k coins** (faixa do dia: 48k–72k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Carson Pickett já avançou 37.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Julie Foudy já avançou 54.8% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Naomi Girma recuou -50%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Carson Pickett (86, NWSL), com +37.9% em 24h, a 43k coins no PC.
+Julie Foudy (92, Icons), com +54.8% em 24h, a 43k coins no PC.
 
 **E a maior queda do dia?**
 Naomi Girma (87), -50% em 24h, a 42k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 25 cartas em alta contra 28 em queda (média 0.96%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 19 cartas em alta contra 30 em queda (média -4.0%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

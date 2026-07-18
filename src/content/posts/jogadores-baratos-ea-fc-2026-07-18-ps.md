@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T19:33:10.000Z
+pubDatetime: 2026-07-18T22:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 18/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 18/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (18/07/2026)?"
-    a: "Landon Donovan (86, MLS) aparece como melhor custo-benefício, a 13.750 coins no Console (PS)."
+    a: "Olivia Moultrie (86, NWSL) aparece como melhor custo-benefício, a 12.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **18/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Landon Donovan (86) por apenas 13.750 coins.
+> 💰 **Melhor pechincha:** Olivia Moultrie (86) por apenas 12.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Americanos em 18/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-18-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 14.000 coins.
-- **Posição mais frequente:** CAM, com 1 cartas.
-- **Faixa real:** 13.750 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 10.425 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 1.700 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Landon Donovan | 86 | CAM | MLS | 13.750 coins | +7.8% |
-| DaMarcus Beasley | 85 | LM | MLS | 13.750 coins | +16.7% |
-| Madison Haley | 85 | RW | Barclays WSL | 14.000 coins | +31.2% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14.500 coins | +8.8% |
+| Olivia Moultrie | 86 | CM | NWSL | 12.750 coins | -13.1% |
+| Landon Donovan | 86 | CAM | MLS | 13.250 coins | +19.6% |
+| DaMarcus Beasley | 85 | LM | MLS | 14.000 coins | +14.6% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 1.700 coins | -6.2% |
 
 
 ## 📈 Destaques
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13.750 coins**
+- **Olivia Moultrie (86, CM)** da NWSL, a apenas **12.750 coins**
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13.750 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13.250 coins**
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **14.000 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **14.000 coins**
 
-- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **14.500 coins**
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **1.700 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Mary Alice Vignola (85, LB) por 14.500 coins é a referência de rating deste recorte.
-
-- **Meio:** Landon Donovan (86, CAM) por 13.750 coins é a referência de rating deste recorte.
-
-- **Ataque:** Madison Haley (85, RW) por 14.000 coins é a referência de rating deste recorte.
+- **Meio:** Olivia Moultrie (86, CM) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -82,7 +78,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (18/07/2026)?**  
-Landon Donovan (86, MLS) aparece como melhor custo-benefício, a 13.750 coins no Console (PS).
+Olivia Moultrie (86, NWSL) aparece como melhor custo-benefício, a 12.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
