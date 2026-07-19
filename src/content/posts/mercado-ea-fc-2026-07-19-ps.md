@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T19:33:07.000Z
+pubDatetime: 2026-07-19T22:33:08.000Z
 title: "Mercado EA FC em 19/07: Americanos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Malik Tillman (85, Bundesliga), com +47.7% em 24h, a 39k coins no Console (PS)."
+    a: "Alex Freeman (88, LALIGA EA SPORTS), com +30% em 24h, a 26k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Sergiño Dest (86), -50% em 24h, a 21k coins."
+    a: "Rose Lavelle (89), -41.3% em 24h, a 52k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 24 cartas em alta contra 28 em queda (média -0.05%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 29 cartas em alta contra 24 em queda (média 3.01%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **24 cartas subiram** e **28 caíram** (80+ acima de 5k coins), variação média de **-0.05%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **29 cartas subiram** e **24 caíram** (80+ acima de 5k coins), variação média de **3.01%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Malik Tillman (85) **+47.7%** · 🔴 **Maior baixa:** Sergiño Dest (86) **-50%**
+> 🟢 **Maior alta:** Alex Freeman (88) **+30%** · 🔴 **Maior baixa:** Rose Lavelle (89) **-41.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Americanos — Console (PS)](/charts/mercado-ea-fc-2026-07-19-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 46.2% entre as cartas que se moveram; o universo observado reúne 59 cartas.
-- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 71.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.7% entre as cartas que se moveram; o universo observado reúne 59 cartas.
+- **Concentração:** NWSL aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Malik Tillman | 85 | Bundesliga | 39k coins | +47.7% | +102.6% |
-| Clint Dempsey | 89 | Premier League | 149k coins | +32.6% | -13.1% |
-| Brad Guzan | 84 | MLS | 58k coins | +30.2% | +86.4% |
-| Jaedyn Shaw | 89 | NWSL | 30k coins | +30.1% | +78.7% |
-| Alex Morgan | 91 | Icons | 269k coins | +29.5% | +28.9% |
-| Lilly Reale | 89 | NWSL | 30k coins | +28.3% | +73.5% |
-| Tim Ream | 85 | MLS | 72k coins | +25.4% | +10% |
-| Malik Tillman | 88 | Bundesliga | 133k coins | +18.6% | -26.4% |
-| Alex Morgan | 91 | Icons | 1.35M coins | +14.5% | +55.4% |
-| Caitlin Cosme | 88 | D1 Arkema | 22k coins | +12.1% | +15.6% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 26k coins | +30% | +3.4% |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +29% | +25.8% |
+| Lindsey Heaps | 90 | D1 Arkema | 92k coins | +23% | +68.5% |
+| Trinity Rodman | 87 | NWSL | 131k coins | +20% | +127.6% |
+| Tim Ream | 85 | MLS | 72k coins | +17.9% | +12.4% |
+| Ashley Sanchez | 87 | NWSL | 52k coins | +15% | +48% |
+| Naomi Girma | 87 | Barclays WSL | 62k coins | +15% | +32.3% |
+| Alex Morgan | 91 | Icons | 240k coins | +14.7% | +8.2% |
+| Haji Wright | 84 | EFL Championship | 42k coins | +14.3% | +5% |
+| Daniel Munie | 84 | MLS | 38k coins | +12.9% | +4.6% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Malik Tillman (85)** subiu **+47.7%** em 24h, a **39k coins** (faixa do dia: 19.500–42k). Está +62% acima da média de 7 dias (aquecida).
+- **Alex Freeman (88)** subiu **+30%** em 24h, a **26k coins** (faixa do dia: 17.000–30k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Clint Dempsey (89)** subiu **+32.6%** em 24h, a **149k coins** (faixa do dia: 88k–155k). Está em linha com a média de 7 dias (+3%).
+- **Korbin Shrader (84)** subiu **+29%** em 24h, a **50k coins** (faixa do dia: 35k–50k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Brad Guzan (84)** subiu **+30.2%** em 24h, a **58k coins** (faixa do dia: 40k–84k). Está -23% abaixo da média de 7 dias (descontada).
+- **Lindsey Heaps (90)** subiu **+23%** em 24h, a **92k coins** (faixa do dia: 75k–120k). Está +24% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sergiño Dest | 86 | Eredivisie | 21k coins | -50% | -70.2% |
-| Sydney Leroux | 88 | NWSL | 40k coins | -37% | -17.9% |
-| Croix Bethune | 84 | NWSL | 42k coins | -18.8% | -14.5% |
-| Julie Foudy | 90 | Icons | 82k coins | -15.8% | +25% |
-| Rose Lavelle | 88 | NWSL | 44k coins | -13.4% | +13.6% |
-| Christian Pulisic | 86 | Serie A TIM | 38k coins | -13.1% | -26.4% |
-| Alyssa Thompson | 91 | Barclays WSL | 158k coins | -13% | +64.2% |
-| Tara McKeown | 89 | NWSL | 20k coins | -10.6% | +3.7% |
-| Lindsey Heaps | 91 | D1 Arkema | 64k coins | -9.2% | +110.7% |
-| Alex Morgan | 93 | Icons | 331k coins | -5.1% | +19.6% |
+| Rose Lavelle | 89 | NWSL | 52k coins | -41.3% | -3.7% |
+| Julie Foudy | 90 | Icons | 75k coins | -32.8% | +17.6% |
+| Sydney Leroux | 88 | NWSL | 35k coins | -26.5% | -23.1% |
+| Ashley Sanchez | 88 | NWSL | 46k coins | -24% | +21.4% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 54k coins | -23% | -16.3% |
+| Carson Pickett | 86 | NWSL | 28k coins | -17.7% | -27% |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 33k coins | -13.6% | -12.5% |
+| Rose Lavelle | 88 | NWSL | 44k coins | -9.5% | +11.7% |
+| Lindsey Heaps | 88 | D1 Arkema | 94k coins | -9.1% | +114.8% |
+| Jaedyn Shaw | 89 | NWSL | 30k coins | -7.1% | +56% |
 
 
 ### Análise das baixas
 
-- **Sergiño Dest (86)** caiu **-50%** em 24h, a **21k coins** (faixa do dia: 17.750–46k). Está -17% abaixo da média de 7 dias (descontada).
+- **Rose Lavelle (89)** caiu **-41.3%** em 24h, a **52k coins** (faixa do dia: 45k–90k). Está em linha com a média de 7 dias (-6%).
 
-- **Sydney Leroux (88)** caiu **-37%** em 24h, a **40k coins** (faixa do dia: 36k–56k). Está -13% abaixo da média de 7 dias (descontada).
+- **Julie Foudy (90)** caiu **-32.8%** em 24h, a **75k coins** (faixa do dia: 68k–135k). Está em linha com a média de 7 dias (-7%).
 
-- **Croix Bethune (84)** caiu **-18.8%** em 24h, a **42k coins** (faixa do dia: 32k–42k). Está em linha com a média de 7 dias (+7%).
+- **Sydney Leroux (88)** caiu **-26.5%** em 24h, a **35k coins** (faixa do dia: 35k–48k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Malik Tillman já avançou 47.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Alex Freeman já avançou 30% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sergiño Dest recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rose Lavelle recuou -41.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,6 +107,7 @@ O mercado do **EA FC** abre **19/07/2026** no Console (PS) com mercado **lateral
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Americanos em 19/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-19-ps/)
 - [Investimentos EA FC: Americanos em 19/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-19-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -118,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Malik Tillman (85, Bundesliga), com +47.7% em 24h, a 39k coins no Console (PS).
+Alex Freeman (88, LALIGA EA SPORTS), com +30% em 24h, a 26k coins no Console (PS).
 
 **E a maior queda do dia?**
-Sergiño Dest (86), -50% em 24h, a 21k coins.
+Rose Lavelle (89), -41.3% em 24h, a 52k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 24 cartas em alta contra 28 em queda (média -0.05%).
+Hoje o mercado está em alta — predominam as valorizações, com 29 cartas em alta contra 24 em queda (média 3.01%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
