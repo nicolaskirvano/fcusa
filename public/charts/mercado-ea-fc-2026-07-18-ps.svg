@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Catarina Macario</text>
-<rect x="285" y="153" width="436" height="28" rx="7" fill="#22c55e"/>
-<text x="731" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jaelin Howell</text>
-<rect x="285" y="211" width="352" height="28" rx="7" fill="#22c55e"/>
-<text x="647" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.6%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sydney Leroux</text>
-<rect x="285" y="269" width="350" height="28" rx="7" fill="#22c55e"/>
-<text x="645" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Pfeiffer</text>
-<rect x="285" y="327" width="264" height="28" rx="7" fill="#22c55e"/>
-<text x="559" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Morgan</text>
-<rect x="285" y="385" width="239" height="28" rx="7" fill="#22c55e"/>
-<text x="534" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.1%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rose Lavelle</text>
+<rect x="285" y="153" width="472" height="28" rx="7" fill="#22c55e"/>
+<text x="767" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Thompson</text>
+<rect x="285" y="211" width="451" height="28" rx="7" fill="#22c55e"/>
+<text x="746" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.0%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Catarina Macario</text>
+<rect x="285" y="269" width="374" height="28" rx="7" fill="#22c55e"/>
+<text x="669" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+39.0%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
+<rect x="285" y="327" width="327" height="28" rx="7" fill="#22c55e"/>
+<text x="622" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Taylor Flint</text>
+<rect x="285" y="385" width="323" height="28" rx="7" fill="#22c55e"/>
+<text x="618" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.6%</text>
 </svg>
