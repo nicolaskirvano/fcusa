@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:33:17.000Z
+pubDatetime: 2026-07-19T13:33:17.000Z
 title: "Mercado EA FC em 19/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Ricardo Pepi (87, Eredivisie), com +54.1% em 24h, a 28k coins no PC."
+    a: "Riley Tiernan (88, NWSL), com +53.9% em 24h, a 29k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Jaelin Howell (89), -41.2% em 24h, a 22k coins."
+    a: "Croix Bethune (87), -37.6% em 24h, a 28k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 26 cartas em alta contra 25 em queda (média 0.22%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 26 cartas em alta contra 27 em queda (média 0.04%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **19/07/2026** no PC com mercado **lateral** — sem direção clara: **26 cartas subiram** e **25 caíram** (80+ acima de 5k coins), variação média de **0.22%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **19/07/2026** no PC com mercado **lateral** — sem direção clara: **26 cartas subiram** e **27 caíram** (80+ acima de 5k coins), variação média de **0.04%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Ricardo Pepi (87) **+54.1%** · 🔴 **Maior baixa:** Jaelin Howell (89) **-41.2%**
+> 🟢 **Maior alta:** Riley Tiernan (88) **+53.9%** · 🔴 **Maior baixa:** Croix Bethune (87) **-37.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **lateral** — sem
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 95.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.0% entre as cartas que se moveram; o universo observado reúne 71 cartas.
-- **Concentração:** NWSL aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 91.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 49.1% entre as cartas que se moveram; o universo observado reúne 69 cartas.
+- **Concentração:** NWSL aparece em 9 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ricardo Pepi | 87 | Eredivisie | 28k coins | +54.1% | -11.6% |
-| Tara McKeown | 89 | NWSL | 27k coins | +54.1% | +60.6% |
-| Carson Pickett | 86 | NWSL | 43k coins | +37.9% | +31.5% |
-| Korbin Shrader | 84 | D1 Arkema | 50k coins | +29.4% | 0% |
-| Haji Wright | 84 | EFL Championship | 50k coins | +29% | +26.6% |
-| Croix Bethune | 87 | NWSL | 28k coins | +20.7% | -27% |
-| DeAndre Yedlin | 86 | MLS | 42k coins | +17.5% | +4.3% |
-| Catarina Macario | 87 | Barclays WSL | 27k coins | +13.7% | +11.3% |
-| Tim Ream | 85 | MLS | 100k coins | +11.7% | +25% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +10.6% | +48.6% |
+| Riley Tiernan | 88 | NWSL | 29k coins | +53.9% | +2.6% |
+| Ricardo Pepi | 87 | Eredivisie | 42k coins | +44.6% | -17.1% |
+| Alyssa Thompson | 91 | Barclays WSL | 180k coins | +38.5% | +8.4% |
+| Tara McKeown | 89 | NWSL | 24k coins | +35.1% | +40.8% |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +31.1% | 0% |
+| Haji Wright | 84 | EFL Championship | 50k coins | +29.9% | +26.6% |
+| Gisele Thompson | 90 | NWSL | 60k coins | +20.6% | +96.7% |
+| Malik Tillman | 85 | Bundesliga | 37k coins | +17.2% | 0% |
+| DeAndre Yedlin | 86 | MLS | 38k coins | +12.8% | -0.6% |
+| Tim Ream | 85 | MLS | 100k coins | +11.7% | +0.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **19/07/2026** no PC com mercado **lateral** — sem
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ricardo Pepi (87)** subiu **+54.1%** em 24h, a **28k coins** (faixa do dia: 18.500–70k). Está em linha com a média de 7 dias (-4%).
+- **Riley Tiernan (88)** subiu **+53.9%** em 24h, a **29k coins** (faixa do dia: 11.750–42k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Tara McKeown (89)** subiu **+54.1%** em 24h, a **27k coins** (faixa do dia: 16.500–30k). Está +21% acima da média de 7 dias (aquecida).
+- **Ricardo Pepi (87)** subiu **+44.6%** em 24h, a **42k coins** (faixa do dia: 18.500–70k). Está +44% acima da média de 7 dias (aquecida).
 
-- **Carson Pickett (86)** subiu **+37.9%** em 24h, a **43k coins** (faixa do dia: 31k–43k). Está +30% acima da média de 7 dias (aquecida).
+- **Alyssa Thompson (91)** subiu **+38.5%** em 24h, a **180k coins** (faixa do dia: 117k–190k). Está em linha com a média de 7 dias (-1%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jaelin Howell | 89 | NWSL | 22k coins | -41.2% | -37.5% |
+| Croix Bethune | 87 | NWSL | 28k coins | -37.6% | -17.2% |
 | Malik Tillman | 88 | Bundesliga | 107k coins | -35.9% | -50% |
-| Olivia Moultrie | 86 | NWSL | 22k coins | -31.5% | -20.8% |
-| Diego Luna | 89 | MLS | 25k coins | -28.6% | -16.7% |
-| Rose Lavelle | 89 | NWSL | 48k coins | -22.9% | +5.9% |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 22k coins | -21.8% | -20.4% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 36k coins | -21.2% | -14.9% |
-| Rose Lavelle | 88 | NWSL | 43k coins | -18.8% | -11.5% |
-| Lilly Reale | 89 | NWSL | 32k coins | -18.2% | +20.4% |
-| Sergiño Dest | 86 | Eredivisie | 76k coins | -15.2% | -36.6% |
+| Diego Luna | 89 | MLS | 24k coins | -28.6% | -16.7% |
+| Jaelin Howell | 89 | NWSL | 21k coins | -25.2% | -37.1% |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 22k coins | -22.3% | -16.1% |
+| Weston McKennie | 92 | Serie A TIM | 35k coins | -19.5% | -32% |
+| Rose Lavelle | 89 | NWSL | 46k coins | -17.5% | 0% |
+| Lilly Reale | 89 | NWSL | 28k coins | -16% | +12% |
+| Ashley Sanchez | 87 | NWSL | 42k coins | -14.7% | -34.9% |
+| Rose Lavelle | 88 | NWSL | 44k coins | -14.4% | -11% |
 
 
 ### Análise das baixas
 
-- **Jaelin Howell (89)** caiu **-41.2%** em 24h, a **22k coins** (faixa do dia: 17.500–28k). Está -16% abaixo da média de 7 dias (descontada).
+- **Croix Bethune (87)** caiu **-37.6%** em 24h, a **28k coins** (faixa do dia: 18.500–60k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Malik Tillman (88)** caiu **-35.9%** em 24h, a **107k coins** (faixa do dia: 107k–167k). Está -38% abaixo da média de 7 dias (descontada).
+- **Malik Tillman (88)** caiu **-35.9%** em 24h, a **107k coins** (faixa do dia: 107k–167k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Olivia Moultrie (86)** caiu **-31.5%** em 24h, a **22k coins** (faixa do dia: 15.250–22k). Está +12% acima da média de 7 dias (aquecida).
+- **Diego Luna (89)** caiu **-28.6%** em 24h, a **24k coins** (faixa do dia: 18.750–35k). Está -10% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ricardo Pepi já avançou 54.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Riley Tiernan já avançou 53.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Jaelin Howell recuou -41.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Croix Bethune recuou -37.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Ricardo Pepi (87, Eredivisie), com +54.1% em 24h, a 28k coins no PC.
+Riley Tiernan (88, NWSL), com +53.9% em 24h, a 29k coins no PC.
 
 **E a maior queda do dia?**
-Jaelin Howell (89), -41.2% em 24h, a 22k coins.
+Croix Bethune (87), -37.6% em 24h, a 28k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 26 cartas em alta contra 25 em queda (média 0.22%).
+Hoje o mercado está lateral — sem direção clara, com 26 cartas em alta contra 27 em queda (média 0.04%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

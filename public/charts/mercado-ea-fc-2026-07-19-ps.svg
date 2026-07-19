@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Morgan</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sergiño Dest</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hinata Miyazawa</text>
-<rect x="285" y="153" width="461" height="28" rx="7" fill="#22c55e"/>
-<text x="756" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Morgan</text>
-<rect x="285" y="211" width="433" height="28" rx="7" fill="#22c55e"/>
-<text x="728" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+33.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
-<rect x="285" y="269" width="402" height="28" rx="7" fill="#22c55e"/>
-<text x="697" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.5%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Olivia Moultrie</text>
-<rect x="285" y="327" width="400" height="28" rx="7" fill="#22c55e"/>
-<text x="695" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
-<rect x="285" y="385" width="306" height="28" rx="7" fill="#22c55e"/>
-<text x="601" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+55.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Malik Tillman</text>
+<rect x="285" y="153" width="350" height="28" rx="7" fill="#22c55e"/>
+<text x="645" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.5%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Naeher</text>
+<rect x="285" y="211" width="265" height="28" rx="7" fill="#22c55e"/>
+<text x="560" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Freeman</text>
+<rect x="285" y="269" width="245" height="28" rx="7" fill="#22c55e"/>
+<text x="540" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
+<rect x="285" y="327" width="201" height="28" rx="7" fill="#22c55e"/>
+<text x="496" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.3%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hinata Miyazawa</text>
+<rect x="285" y="385" width="167" height="28" rx="7" fill="#22c55e"/>
+<text x="462" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.4%</text>
 </svg>
