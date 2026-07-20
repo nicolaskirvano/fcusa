@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T22:33:10.000Z
+pubDatetime: 2026-07-20T01:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Croix Bethune (87, NWSL) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
+    a: "Michelle Cooper (87, NWSL) aparece como melhor custo-benefício, a 14.750 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Croix Bethune (87) por apenas 14.000 coins.
+> 💰 **Melhor pechincha:** Michelle Cooper (87) por apenas 14.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Americanos em 19/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-19-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.510 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 2.800 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 11.700 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 3.200 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Croix Bethune | 87 | CAM | NWSL | 14.000 coins | +9.4% |
-| Landon Donovan | 86 | CAM | MLS | 12.500 coins | +3.8% |
-| DaMarcus Beasley | 85 | LM | MLS | 13.750 coins | 0% |
-| Tim Howard | 85 | GK | Premier League | 14.500 coins | +13.2% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.800 coins | +40% |
+| Michelle Cooper | 87 | RW | NWSL | 14.750 coins | -9.2% |
+| Landon Donovan | 86 | CAM | MLS | 12.500 coins | 0% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.000 coins | -7.7% |
+| Tim Howard | 85 | GK | Premier League | 13.750 coins | +13.5% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14.000 coins | -12.5% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 3.200 coins | +23.1% |
 
 
 ## 📈 Destaques
 
-- **Croix Bethune (87, CAM)** da NWSL, a apenas **14.000 coins**
+- **Michelle Cooper (87, RW)** da NWSL, a apenas **14.750 coins**
 
 - **Landon Donovan (86, CAM)** da MLS, a apenas **12.500 coins**
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12.000 coins**
 
-- **Tim Howard (85, GK)** da Premier League, a apenas **14.500 coins**
+- **Tim Howard (85, GK)** da Premier League, a apenas **13.750 coins**
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Tim Howard (85, GK) por 14.500 coins é a referência de rating deste recorte.
+- **Defesa:** Tim Howard (85, GK) por 13.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Croix Bethune (87, CAM) por 14.000 coins é a referência de rating deste recorte.
+- **Meio:** Landon Donovan (86, CAM) por 12.500 coins é a referência de rating deste recorte.
+
+- **Ataque:** Michelle Cooper (87, RW) por 14.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -93,7 +96,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Croix Bethune (87, NWSL) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
+Michelle Cooper (87, NWSL) aparece como melhor custo-benefício, a 14.750 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
