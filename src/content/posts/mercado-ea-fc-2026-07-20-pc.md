@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T13:33:17.000Z
+pubDatetime: 2026-07-20T16:33:17.000Z
 title: "Mercado EA FC em 20/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Mark McKenzie (90, Ligue 1 McDonald's), com +57.1% em 24h, a 55k coins no PC."
+    a: "Sydney Leroux (88, NWSL), com +51.9% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Catarina Macario (87), -29.4% em 24h, a 21k coins."
+    a: "Ashley Sanchez (88), -30.6% em 24h, a 42k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 27 em queda (média 4.55%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 25 cartas em alta contra 33 em queda (média 1.17%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **28 valorizações** contra **27 quedas** entre as cartas relevantes, com média de **4.55%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: mercado **de lado** — altas e quedas se equilibram. **25 valorizações** contra **33 quedas** entre as cartas relevantes, com média de **1.17%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mark McKenzie (90) **+57.1%** · 🔴 **Maior baixa:** Catarina Macario (87) **-29.4%**
+> 🟢 **Maior alta:** Sydney Leroux (88) **+51.9%** · 🔴 **Maior baixa:** Ashley Sanchez (88) **-30.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 86.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.9% entre as cartas que se moveram; o universo observado reúne 64 cartas.
-- **Concentração:** NWSL aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 82.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.1% entre as cartas que se moveram; o universo observado reúne 65 cartas.
+- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +57.1% | +69.2% |
-| Rose Lavelle | 88 | NWSL | 60k coins | +40.4% | +25% |
-| Olivia Moultrie | 86 | NWSL | 22k coins | +33.7% | +91.9% |
-| Mia Hamm | 93 | Icons | 999k coins | +33.3% | +133.1% |
-| Weston McKennie | 92 | Serie A TIM | 45k coins | +33.1% | +40.2% |
-| Naomi Girma | 87 | Barclays WSL | 54k coins | +27.1% | -36.5% |
-| Jaelin Howell | 89 | NWSL | 26k coins | +25% | -5.4% |
-| Julie Foudy | 88 | Icons | 26k coins | +21.2% | +3% |
-| Rose Lavelle | 89 | NWSL | 54k coins | +19.8% | +21.8% |
-| Alex Pfeiffer | 90 | NWSL | 210k coins | +17% | +10.4% |
+| Sydney Leroux | 88 | NWSL | 48k coins | +51.9% | +18.8% |
+| Mia Hamm | 93 | Icons | 997k coins | +32.9% | +132.4% |
+| Naomi Girma | 87 | Barclays WSL | 54k coins | +27.1% | +27.1% |
+| Weston McKennie | 92 | Serie A TIM | 41k coins | +24.6% | +30.3% |
+| Trinity Rodman | 85 | NWSL | 23k coins | +19.7% | — |
+| Jaedyn Shaw | 83 | NWSL | 35k coins | +15.7% | 0% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +14% | +69.2% |
+| Taylor Flint | 88 | NWSL | 249k coins | +13.2% | +30.4% |
+| Daniel Munie | 84 | MLS | 43k coins | +10.5% | +22.6% |
+| Lily Yohannes | 84 | D1 Arkema | 39k coins | +5.6% | -1.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mark McKenzie (90)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 27k–55k). Está +28% acima da média de 7 dias (aquecida).
+- **Sydney Leroux (88)** subiu **+51.9%** em 24h, a **48k coins** (faixa do dia: 32k–80k). Está em linha com a média de 7 dias (+1%).
 
-- **Rose Lavelle (88)** subiu **+40.4%** em 24h, a **60k coins** (faixa do dia: 46k–62k). Está +19% acima da média de 7 dias (aquecida).
+- **Mia Hamm (93)** subiu **+32.9%** em 24h, a **997k coins** (faixa do dia: 750k–1M). Está +57% acima da média de 7 dias (aquecida).
 
-- **Olivia Moultrie (86)** subiu **+33.7%** em 24h, a **22k coins** (faixa do dia: 13.000–30k). Está +8% acima da média de 7 dias (aquecida).
+- **Naomi Girma (87)** subiu **+27.1%** em 24h, a **54k coins** (faixa do dia: 42k–54k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Catarina Macario | 87 | Barclays WSL | 21k coins | -29.4% | -25.8% |
-| Julie Foudy | 92 | Icons | 50k coins | -28.4% | +22.4% |
-| Weston McKennie | 84 | Serie A TIM | 37k coins | -25.5% | -17.2% |
-| Jaedyn Shaw | 89 | NWSL | 33k coins | -20.8% | -13.8% |
-| Alex Morgan | 91 | Icons | 1.51M coins | -20.2% | +8.3% |
-| Alyssa Naeher | 88 | NWSL | 36k coins | -16.5% | -35% |
+| Ashley Sanchez | 88 | NWSL | 42k coins | -30.6% | -23.6% |
+| Lindsey Heaps | 90 | D1 Arkema | 50k coins | -26.3% | +32.9% |
+| Julie Foudy | 92 | Icons | 43k coins | -24.8% | +6.1% |
+| Julie Foudy | 88 | Icons | 25k coins | -23.1% | 0% |
+| Christian Pulisic | 86 | Serie A TIM | 38k coins | -22.8% | -3.2% |
+| Alyssa Naeher | 88 | NWSL | 42k coins | -22.2% | -29.6% |
+| Alex Morgan | 91 | Icons | 1.51M coins | -20.6% | +7.8% |
+| Weston McKennie | 84 | Serie A TIM | 36k coins | -17.9% | -26.1% |
+| Lindsey Heaps | 88 | D1 Arkema | 85k coins | -17.8% | +5.6% |
 | Alyssa Thompson | 91 | Barclays WSL | 152k coins | -15.6% | -15.6% |
-| Ashley Sanchez | 87 | NWSL | 37k coins | -12.5% | -40.7% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 38k coins | -11.5% | -18.9% |
-| Clint Dempsey | 85 | MLS | 45k coins | -10% | -10% |
 
 
 ### Análise das baixas
 
-- **Catarina Macario (87)** caiu **-29.4%** em 24h, a **21k coins** (faixa do dia: 18.250–32k). Está -21% abaixo da média de 7 dias (descontada).
+- **Ashley Sanchez (88)** caiu **-30.6%** em 24h, a **42k coins** (faixa do dia: 42k–74k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Julie Foudy (92)** caiu **-28.4%** em 24h, a **50k coins** (faixa do dia: 50k–75k). Está +11% acima da média de 7 dias (aquecida).
+- **Lindsey Heaps (90)** caiu **-26.3%** em 24h, a **50k coins** (faixa do dia: 50k–66k). Está em linha com a média de 7 dias (-7%).
 
-- **Weston McKennie (84)** caiu **-25.5%** em 24h, a **37k coins** (faixa do dia: 37k–50k). Está -18% abaixo da média de 7 dias (descontada).
+- **Julie Foudy (92)** caiu **-24.8%** em 24h, a **43k coins** (faixa do dia: 42k–58k). Está em linha com a média de 7 dias (-4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mark McKenzie já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Sydney Leroux já avançou 51.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Catarina Macario recuou -29.4%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Ashley Sanchez recuou -30.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Mark McKenzie (90, Ligue 1 McDonald's), com +57.1% em 24h, a 55k coins no PC.
+Sydney Leroux (88, NWSL), com +51.9% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
-Catarina Macario (87), -29.4% em 24h, a 21k coins.
+Ashley Sanchez (88), -30.6% em 24h, a 42k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 27 em queda (média 4.55%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 25 cartas em alta contra 33 em queda (média 1.17%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
