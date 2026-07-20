@@ -4,19 +4,19 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Preço em coins</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Michelle Cooper</text>
-<rect x="285" y="95" width="413" height="28" rx="7" fill="#38bdf8"/>
-<text x="708" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.250</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
-<rect x="285" y="153" width="455" height="28" rx="7" fill="#38bdf8"/>
-<text x="750" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Pepi</text>
-<rect x="285" y="211" width="480" height="28" rx="7" fill="#38bdf8"/>
-<text x="775" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.250</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jack McGlynn</text>
+<rect x="285" y="95" width="455" height="28" rx="7" fill="#38bdf8"/>
+<text x="750" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Landon Donovan</text>
+<rect x="285" y="153" width="447" height="28" rx="7" fill="#38bdf8"/>
+<text x="742" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Olivia Moultrie</text>
+<rect x="285" y="211" width="447" height="28" rx="7" fill="#38bdf8"/>
+<text x="742" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.500</text>
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">DaMarcus Beasley</text>
-<rect x="285" y="269" width="404" height="28" rx="7" fill="#38bdf8"/>
-<text x="699" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">12.000</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Madison Haley</text>
-<rect x="285" y="327" width="463" height="28" rx="7" fill="#38bdf8"/>
-<text x="758" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">13.750</text>
+<rect x="285" y="269" width="463" height="28" rx="7" fill="#38bdf8"/>
+<text x="758" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.000</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Howard</text>
+<rect x="285" y="327" width="480" height="28" rx="7" fill="#38bdf8"/>
+<text x="775" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">14.500</text>
 </svg>

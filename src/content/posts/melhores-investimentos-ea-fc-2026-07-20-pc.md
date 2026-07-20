@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T16:33:18.000Z
+pubDatetime: 2026-07-20T19:33:18.000Z
 title: "Investimentos EA FC: Americanos em 20/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+30.1% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.8% em 24h** e **+32.5% em 7 dias**.
+- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +14% | +69.2% | Esticada |
-| Lindsey Heaps | 91 | D1 Arkema | 90k coins | +2.3% | +34.3% | Momentum moderado |
-| Taylor Flint | 88 | NWSL | 249k coins | +13.2% | +30.4% | Momentum moderado |
-| Weston McKennie | 92 | Serie A TIM | 41k coins | +24.6% | +30.3% | Esticada |
-| Mary Alice Vignola | 85 | NWSL | 25k coins | +3% | +30% | Momentum moderado |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 55k coins | +16.4% | +69.2% | Esticada |
+| Olivia Moultrie | 86 | NWSL | 22k coins | +12.4% | +66.7% | Esticada |
+| Michelle Cooper | 87 | NWSL | 19.250 coins | +35% | +32.8% | Esticada |
+| Christian Pulisic | 86 | Serie A TIM | 51k coins | +12.8% | +32.5% | Momentum moderado |
+| Lindsey Heaps | 91 | D1 Arkema | 82k coins | +4.8% | +30.6% | Momentum moderado |
 | Naomi Girma | 87 | Barclays WSL | 54k coins | +27.1% | +27.1% | Esticada |
-| Daniel Munie | 84 | MLS | 43k coins | +10.5% | +22.6% | Momentum moderado |
-| Michelle Cooper | 87 | NWSL | 19.250 coins | +18.6% | +6.1% | Momentum moderado |
+| Mary Alice Vignola | 85 | NWSL | 21k coins | +3.4% | +15% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Mark McKenzie (90)** — 55k coins, **+69.2% em 7 dias** (+14% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 55k coins, **+69.2% em 7 dias** (+16.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (91)** — 90k coins, **+34.3% em 7 dias** (+2.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Moultrie (86)** — 22k coins, **+66.7% em 7 dias** (+12.4% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Taylor Flint (88)** — 249k coins, **+30.4% em 7 dias** (+13.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 19.250 coins, **+32.8% em 7 dias** (+35% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Weston McKennie (92)** — 41k coins, **+30.3% em 7 dias** (+24.6% em 24h). Preço -22% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (86)** — 51k coins, **+32.5% em 7 dias** (+12.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mary Alice Vignola (85)** — 25k coins, **+30% em 7 dias** (+3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (91)** — 82k coins, **+30.6% em 7 dias** (+4.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
