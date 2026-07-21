@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:33:17.000Z
+pubDatetime: 2026-07-21T19:33:17.000Z
 title: "Mercado EA FC em 21/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Lilly Reale (89, NWSL), com +55.4% em 24h, a 25k coins no PC."
+    a: "Lindsey Heaps (88, D1 Arkema), com +51.2% em 24h, a 100k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sydney Leroux (88), -43.3% em 24h, a 28k coins."
+    a: "Sydney Leroux (88), -43.8% em 24h, a 27k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 29 cartas em alta contra 24 em queda (média 3.19%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 35 cartas em alta contra 18 em queda (média 5.49%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **29 subiram**, **24 caíram** (80+ e 5k+ coins), média de **3.19%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **35 subiram**, **18 caíram** (80+ e 5k+ coins), média de **5.49%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lilly Reale (89) **+55.4%** · 🔴 **Maior baixa:** Sydney Leroux (88) **-43.3%**
+> 🟢 **Maior alta:** Lindsey Heaps (88) **+51.2%** · 🔴 **Maior baixa:** Sydney Leroux (88) **-43.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.7% entre as cartas que se moveram; o universo observado reúne 65 cartas.
-- **Concentração:** NWSL aparece em 8 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 95.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 66.0% entre as cartas que se moveram; o universo observado reúne 68 cartas.
+- **Concentração:** NWSL aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lilly Reale | 89 | NWSL | 25k coins | +55.4% | -10.6% |
-| DeAndre Yedlin | 86 | MLS | 31k coins | +51.2% | -22% |
-| Jaelin Howell | 89 | NWSL | 34k coins | +38% | +56.8% |
-| Weston McKennie | 84 | Serie A TIM | 49k coins | +32.4% | +14% |
-| Trinity Rodman | 88 | NWSL | 220k coins | +29.4% | +25.7% |
-| Alex Morgan | 91 | Icons | 1.90M coins | +25.7% | +35.7% |
-| Ashley Sanchez | 88 | NWSL | 49k coins | +25% | -3.7% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 46k coins | +22.6% | +14.4% |
-| Alex Morgan | 93 | Icons | 750k coins | +22.3% | +36.4% |
-| Riley Tiernan | 88 | NWSL | 28k coins | +21.2% | +18.8% |
+| Lindsey Heaps | 88 | D1 Arkema | 100k coins | +51.2% | +39.3% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 21k coins | +44.6% | -34.3% |
+| Lilly Reale | 89 | NWSL | 25k coins | +38.4% | -10.6% |
+| Jaelin Howell | 89 | NWSL | 33k coins | +36.7% | +54% |
+| Alyssa Naeher | 88 | NWSL | 60k coins | +36.5% | +36.5% |
+| Catarina Macario | 87 | Barclays WSL | 24k coins | +36.4% | -28.6% |
+| Tara McKeown | 89 | NWSL | 23k coins | +34.7% | +26% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 74k coins | +34.5% | +109.9% |
+| Diego Luna | 89 | MLS | 24k coins | +28% | -19.3% |
+| Alex Morgan | 91 | Icons | 1.90M coins | +27% | +35.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,38 @@ Hoje (**21/07/2026**, PC) o Ultimate Team está **aquecido** — as altas domina
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lilly Reale (89)** subiu **+55.4%** em 24h, a **25k coins** (faixa do dia: 14.250–30k). Está em linha com a média de 7 dias (-6%).
+- **Lindsey Heaps (88)** subiu **+51.2%** em 24h, a **100k coins** (faixa do dia: 80k–163k). Está em linha com a média de 7 dias (-5%).
 
-- **DeAndre Yedlin (86)** subiu **+51.2%** em 24h, a **31k coins** (faixa do dia: 16.000–34k). Está -8% abaixo da média de 7 dias (descontada).
+- **Timothy Weah (85)** subiu **+44.6%** em 24h, a **21k coins** (faixa do dia: 13.875–24k). Está -18% abaixo da média de 7 dias (descontada).
 
-- **Jaelin Howell (89)** subiu **+38%** em 24h, a **34k coins** (faixa do dia: 22k–45k). Está +28% acima da média de 7 dias (aquecida).
+- **Lilly Reale (89)** subiu **+38.4%** em 24h, a **25k coins** (faixa do dia: 18.250–30k). Está em linha com a média de 7 dias (-6%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sydney Leroux | 88 | NWSL | 28k coins | -43.3% | -43.3% |
-| Julie Foudy | 92 | Icons | 28k coins | -34.1% | -34.9% |
-| Brad Guzan | 84 | MLS | 52k coins | -28.8% | +60% |
-| Lindsey Heaps | 91 | D1 Arkema | 67k coins | -23.3% | +7.8% |
-| Naomi Girma | 87 | Barclays WSL | 42k coins | -21.3% | 0% |
-| Daniel Munie | 84 | MLS | 33k coins | -17.3% | -16.4% |
+| Sydney Leroux | 88 | NWSL | 27k coins | -43.8% | -42.9% |
+| Daniel Munie | 84 | MLS | 32k coins | -26% | -26.9% |
+| Naomi Girma | 87 | Barclays WSL | 42k coins | -21.3% | -50% |
 | Kaishū Sano | 84 | Bundesliga | 30k coins | -17.2% | -28.6% |
-| Rose Lavelle | 89 | NWSL | 58k coins | -14.3% | +23.1% |
-| Mia Hamm | 93 | Icons | 850k coins | -11.7% | +104.7% |
-| Olivia Moultrie | 86 | NWSL | 20k coins | -9.1% | +5.3% |
+| Lily Yohannes | 84 | D1 Arkema | 46k coins | -16.3% | -5.4% |
 
 
 ### Análise das baixas
 
-- **Sydney Leroux (88)** caiu **-43.3%** em 24h, a **28k coins** (faixa do dia: 28k–48k). Está -41% abaixo da média de 7 dias (descontada).
+- **Sydney Leroux (88)** caiu **-43.8%** em 24h, a **27k coins** (faixa do dia: 27k–48k). Está -42% abaixo da média de 7 dias (descontada).
 
-- **Julie Foudy (92)** caiu **-34.1%** em 24h, a **28k coins** (faixa do dia: 28k–80k). Está -40% abaixo da média de 7 dias (descontada).
+- **Daniel Munie (84)** caiu **-26%** em 24h, a **32k coins** (faixa do dia: 32k–43k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Brad Guzan (84)** caiu **-28.8%** em 24h, a **52k coins** (faixa do dia: 52k–72k). Está em linha com a média de 7 dias (+5%).
+- **Naomi Girma (87)** caiu **-21.3%** em 24h, a **42k coins** (faixa do dia: 42k–54k). Está -34% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lilly Reale já avançou 55.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lindsey Heaps já avançou 51.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sydney Leroux recuou -43.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sydney Leroux recuou -43.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +104,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Lilly Reale (89, NWSL), com +55.4% em 24h, a 25k coins no PC.
+Lindsey Heaps (88, D1 Arkema), com +51.2% em 24h, a 100k coins no PC.
 
 **E a maior queda do dia?**
-Sydney Leroux (88), -43.3% em 24h, a 28k coins.
+Sydney Leroux (88), -43.8% em 24h, a 27k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 29 cartas em alta contra 24 em queda (média 3.19%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 35 cartas em alta contra 18 em queda (média 5.49%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
