@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:33:09.000Z
+pubDatetime: 2026-07-21T22:33:09.000Z
 title: "Investimentos EA FC: Americanos em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Madison Haley (85, Barclays WSL) lidera, com +39.6% em 7 dias a 18.250 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sergiño Dest (86, Eredivisie) lidera, com +71.8% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Madison Haley (85) acumula **+39.6% em 7 dias** a 18.250 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sergiño Dest (86) acumula **+71.8% em 7 dias** a 33k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+23.8% em 24h** e **+20.5% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+6.0% em 24h** e **+38.8% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Madison Haley | 85 | Barclays WSL | 18.250 coins | +34.5% | +39.6% | Esticada |
-| Malik Tillman | 85 | Bundesliga | 26k coins | +23.8% | +36.8% | Esticada |
-| Carson Pickett | 86 | NWSL | 30k coins | +23.8% | +30% | Esticada |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 42k coins | +31.1% | +24.4% | Esticada |
-| Tara McKeown | 89 | NWSL | 22k coins | +15.2% | +21.3% | Momentum moderado |
-| Lilly Reale | 89 | NWSL | 23k coins | +2% | +20.5% | Entrada a observar |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 17.000 coins | +26.5% | +14.7% | Esticada |
-| Julie Foudy | 88 | Icons | 16.250 coins | +4.8% | +12.1% | Entrada a observar |
-| Ashley Sanchez | 88 | NWSL | 43k coins | +25% | +12.1% | Esticada |
-| Christian Pulisic | 87 | Serie A TIM | 15.250 coins | +9.3% | +11.3% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 38k coins | +8.4% | +10.6% | Momentum moderado |
+| Sergiño Dest | 86 | Eredivisie | 33k coins | +5.5% | +71.8% | Esticada |
+| Lindsey Heaps | 91 | D1 Arkema | 59k coins | +7.8% | +58.3% | Momentum moderado |
+| Carson Pickett | 86 | NWSL | 30k coins | +2.1% | +19.2% | Entrada a observar |
+| Lily Yohannes | 84 | D1 Arkema | 38k coins | +6.6% | +7.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Madison Haley (85)** — 18.250 coins, **+39.6% em 7 dias** (+34.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sergiño Dest (86)** — 33k coins, **+71.8% em 7 dias** (+5.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (85)** — 26k coins, **+36.8% em 7 dias** (+23.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (91)** — 59k coins, **+58.3% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carson Pickett (86)** — 30k coins, **+30% em 7 dias** (+23.8% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carson Pickett (86)** — 30k coins, **+19.2% em 7 dias** (+2.1% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hinata Miyazawa (87)** — 42k coins, **+24.4% em 7 dias** (+31.1% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Tara McKeown (89)** — 22k coins, **+21.3% em 7 dias** (+15.2% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lily Yohannes (84)** — 38k coins, **+7.3% em 7 dias** (+6.6% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Madison Haley (85, Barclays WSL) lidera, com +39.6% em 7 dias a 18.250 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sergiño Dest (86, Eredivisie) lidera, com +71.8% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:33:08.000Z
+pubDatetime: 2026-07-21T22:33:07.000Z
 title: "Mercado EA FC em 21/07: Americanos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Lindsey Heaps (90, D1 Arkema), com +50% em 24h, a 92k coins no Console (PS)."
+    a: "Malik Tillman (85, Bundesliga), com +41.7% em 24h, a 30k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ashley Sanchez (87), -42.7% em 24h, a 35k coins."
+    a: "Rose Lavelle (89), -34.4% em 24h, a 48k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 33 cartas em alta contra 25 em queda (média 3.47%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 17 cartas em alta contra 29 em queda (média -5.55%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as altas dominam o dia — **33 subiram**, **25 caíram** (80+ e 5k+ coins), média de **3.47%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **pressionado** — as quedas dominam o dia — **17 subiram**, **29 caíram** (80+ e 5k+ coins), média de **-5.55%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Lindsey Heaps (90) **+50%** · 🔴 **Maior baixa:** Ashley Sanchez (87) **-42.7%**
+> 🟢 **Maior alta:** Malik Tillman (85) **+41.7%** · 🔴 **Maior baixa:** Rose Lavelle (89) **-34.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Americanos — Console (PS)](/charts/mercado-ea-fc-2026-07-21-ps.svg)
 
@@ -35,24 +35,21 @@ Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 56.9% entre as cartas que se moveram; o universo observado reúne 67 cartas.
-- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 76.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 37.0% entre as cartas que se moveram; o universo observado reúne 51 cartas.
+- **Concentração:** D1 Arkema aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 90 | D1 Arkema | 92k coins | +50% | +108.1% |
-| Sergiño Dest | 86 | Eredivisie | 36k coins | +35.7% | +102.6% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 42k coins | +31.1% | +24.4% |
-| Julie Foudy | 92 | Icons | 22k coins | +30.2% | -3.4% |
-| Malik Tillman | 85 | Bundesliga | 26k coins | +23.8% | +36.8% |
-| Carson Pickett | 86 | NWSL | 30k coins | +23.8% | +30% |
-| Brad Guzan | 84 | MLS | 62k coins | +18.1% | -30.7% |
-| Malik Tillman | 88 | Bundesliga | 153k coins | +15.7% | -6.1% |
-| Sydney Leroux | 88 | NWSL | 42k coins | +15.3% | -23.9% |
-| Tara McKeown | 89 | NWSL | 22k coins | +15.2% | +21.3% |
+| Malik Tillman | 85 | Bundesliga | 30k coins | +41.7% | +46.9% |
+| Lindsey Heaps | 90 | D1 Arkema | 80k coins | +41.7% | +94.3% |
+| Alex Morgan | 91 | Icons | 230k coins | +8.8% | -21.4% |
+| Malik Tillman | 88 | Bundesliga | 135k coins | +8.2% | -12.1% |
+| Lindsey Heaps | 91 | D1 Arkema | 59k coins | +7.8% | +58.3% |
+| Lily Yohannes | 84 | D1 Arkema | 38k coins | +6.6% | +7.3% |
+| Sergiño Dest | 86 | Eredivisie | 33k coins | +5.5% | +71.8% |
 
 
 ### Análise das altas
@@ -61,43 +58,43 @@ Hoje (**21/07/2026**, Console (PS)) o Ultimate Team está **aquecido** — as al
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lindsey Heaps (90)** subiu **+50%** em 24h, a **92k coins** (faixa do dia: 56k–107k). Está +12% acima da média de 7 dias (aquecida).
+- **Malik Tillman (85)** subiu **+41.7%** em 24h, a **30k coins** (faixa do dia: 21k–30k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Sergiño Dest (86)** subiu **+35.7%** em 24h, a **36k coins** (faixa do dia: 29k–39k). Está +41% acima da média de 7 dias (aquecida).
+- **Lindsey Heaps (90)** subiu **+41.7%** em 24h, a **80k coins** (faixa do dia: 56k–107k). Está em linha com a média de 7 dias (-3%).
 
-- **Hinata Miyazawa (87)** subiu **+31.1%** em 24h, a **42k coins** (faixa do dia: 35k–54k). Está em linha com a média de 7 dias (+3%).
+- **Alex Morgan (91)** subiu **+8.8%** em 24h, a **230k coins** (faixa do dia: 199k–261k). Está -20% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ashley Sanchez | 87 | NWSL | 35k coins | -42.7% | +7.1% |
-| DeAndre Yedlin | 86 | MLS | 21k coins | -31.4% | -39.2% |
-| Trinity Rodman | 87 | NWSL | 118k coins | -28.5% | +8.3% |
-| Rose Lavelle | 89 | NWSL | 48k coins | -23.4% | -2% |
-| Mia Hamm | 94 | Icons | 620k coins | -20.8% | -30.1% |
-| Mia Hamm | 93 | Icons | 410k coins | -18.5% | -33.1% |
-| Naomi Girma | 87 | Barclays WSL | 47k coins | -17.8% | +2.2% |
-| Kaishū Sano | 84 | Bundesliga | 35k coins | -14.1% | -9.1% |
-| Weston McKennie | 92 | Serie A TIM | 46k coins | -7.3% | +44.7% |
-| Alex Morgan | 91 | Icons | 1.32M coins | -6.7% | +52.6% |
+| Rose Lavelle | 89 | NWSL | 48k coins | -34.4% | -3.5% |
+| Trinity Rodman | 88 | NWSL | 65k coins | -31.6% | -31.9% |
+| Trinity Rodman | 87 | NWSL | 112k coins | -29.1% | +6.4% |
+| Mia Hamm | 93 | Icons | 421k coins | -25% | -33.9% |
+| Weston McKennie | 92 | Serie A TIM | 38k coins | -22.8% | +8.3% |
+| Jaedyn Shaw | 89 | NWSL | 20k coins | -16.7% | 0% |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 41k coins | -13.8% | -18.5% |
+| Alyssa Thompson | 91 | Barclays WSL | 161k coins | -13.1% | -4.1% |
+| Kaishū Sano | 84 | Bundesliga | 40k coins | -11.7% | -9.1% |
+| Korbin Shrader | 84 | D1 Arkema | 40k coins | -11.1% | -4.8% |
 
 
 ### Análise das baixas
 
-- **Ashley Sanchez (87)** caiu **-42.7%** em 24h, a **35k coins** (faixa do dia: 34k–88k). Está -40% abaixo da média de 7 dias (descontada).
+- **Rose Lavelle (89)** caiu **-34.4%** em 24h, a **48k coins** (faixa do dia: 44k–80k). Está -15% abaixo da média de 7 dias (descontada).
 
-- **DeAndre Yedlin (86)** caiu **-31.4%** em 24h, a **21k coins** (faixa do dia: 19.000–45k). Está -36% abaixo da média de 7 dias (descontada).
+- **Trinity Rodman (88)** caiu **-31.6%** em 24h, a **65k coins** (faixa do dia: 65k–148k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Trinity Rodman (87)** caiu **-28.5%** em 24h, a **118k coins** (faixa do dia: 109k–191k). Está -18% abaixo da média de 7 dias (descontada).
+- **Trinity Rodman (87)** caiu **-29.1%** em 24h, a **112k coins** (faixa do dia: 109k–191k). Está -22% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lindsey Heaps já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Malik Tillman já avançou 41.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ashley Sanchez recuou -42.7%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rose Lavelle recuou -34.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +106,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Lindsey Heaps (90, D1 Arkema), com +50% em 24h, a 92k coins no Console (PS).
+Malik Tillman (85, Bundesliga), com +41.7% em 24h, a 30k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ashley Sanchez (87), -42.7% em 24h, a 35k coins.
+Rose Lavelle (89), -34.4% em 24h, a 48k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 33 cartas em alta contra 25 em queda (média 3.47%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 17 cartas em alta contra 29 em queda (média -5.55%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
