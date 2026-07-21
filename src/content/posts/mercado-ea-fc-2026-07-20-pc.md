@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:33:17.000Z
+pubDatetime: 2026-07-21T01:33:16.000Z
 title: "Mercado EA FC em 20/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Lily Yohannes (84, D1 Arkema), com +43.9% em 24h, a 48k coins no PC."
+    a: "Alyssa Naeher (88, NWSL), com +40.4% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Weston McKennie (92), -44.9% em 24h, a 38k coins."
+    a: "Sydney Leroux (88), -41.5% em 24h, a 46k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 26 cartas em alta contra 27 em queda (média 6.15%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 28 em queda (média 7.52%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **26 valorizações** contra **27 quedas** entre as cartas relevantes, com média de **6.15%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **30 valorizações** contra **28 quedas** entre as cartas relevantes, com média de **7.52%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lily Yohannes (84) **+43.9%** · 🔴 **Maior baixa:** Weston McKennie (92) **-44.9%**
+> 🟢 **Maior alta:** Alyssa Naeher (88) **+40.4%** · 🔴 **Maior baixa:** Sydney Leroux (88) **-41.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 88.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.1% entre as cartas que se moveram; o universo observado reúne 62 cartas.
+- **Amplitude do dia:** 81.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 51.7% entre as cartas que se moveram; o universo observado reúne 66 cartas.
 - **Concentração:** NWSL aparece em 10 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +43.9% | +9.8% |
-| Trinity Rodman | 88 | NWSL | 200k coins | +33.3% | +66.7% |
+| Alyssa Naeher | 88 | NWSL | 60k coins | +40.4% | +20.6% |
+| Lindsey Heaps | 88 | D1 Arkema | 114k coins | +33.7% | +29.2% |
 | Mia Hamm | 93 | Icons | 996k coins | +32.8% | +131.6% |
-| Alex Morgan | 91 | Icons | 649k coins | +30% | +75.7% |
-| Ricardo Pepi | 87 | Eredivisie | 28k coins | +27.8% | -19.6% |
-| Rose Lavelle | 89 | NWSL | 65k coins | +22.9% | +38.1% |
+| Christian Pulisic | 86 | Serie A TIM | 55k coins | +29.4% | +20.2% |
+| Rose Lavelle | 89 | NWSL | 70k coins | +28.4% | +40% |
+| Croix Bethune | 84 | NWSL | 45k coins | +27% | +21.8% |
+| Tara McKeown | 89 | NWSL | 34k coins | +25.9% | +51.1% |
 | Trinity Rodman | 88 | NWSL | 220k coins | +22.2% | +23.6% |
-| Gisele Thompson | 90 | NWSL | 59k coins | +19.7% | +71.8% |
-| Jaedyn Shaw | 83 | NWSL | 35k coins | +15.7% | 0% |
-| Julie Foudy | 91 | Icons | 46k coins | +14.4% | +147.3% |
+| Lily Yohannes | 84 | D1 Arkema | 46k coins | +21.1% | +5.1% |
+| Malik Tillman | 85 | Bundesliga | 34k coins | +18.6% | -6.7% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **20/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lily Yohannes (84)** subiu **+43.9%** em 24h, a **48k coins** (faixa do dia: 30k–48k). Está +14% acima da média de 7 dias (aquecida).
+- **Alyssa Naeher (88)** subiu **+40.4%** em 24h, a **60k coins** (faixa do dia: 34k–60k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Trinity Rodman (88)** subiu **+33.3%** em 24h, a **200k coins** (faixa do dia: 138k–200k). Está +22% acima da média de 7 dias (aquecida).
+- **Lindsey Heaps (88)** subiu **+33.7%** em 24h, a **114k coins** (faixa do dia: 80k–129k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Mia Hamm (93)** subiu **+32.8%** em 24h, a **996k coins** (faixa do dia: 750k–1M). Está +52% acima da média de 7 dias (aquecida).
+- **Mia Hamm (93)** subiu **+32.8%** em 24h, a **996k coins** (faixa do dia: 750k–1M). Está +50% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Weston McKennie | 92 | Serie A TIM | 38k coins | -44.9% | +15.2% |
-| Sydney Leroux | 88 | NWSL | 47k coins | -40.6% | -5% |
-| Jaedyn Shaw | 89 | NWSL | 27k coins | -40% | -31.6% |
+| Sydney Leroux | 88 | NWSL | 46k coins | -41.5% | -13.1% |
+| Jaedyn Shaw | 89 | NWSL | 26k coins | -40% | -27.5% |
+| Croix Bethune | 87 | NWSL | 20k coins | -30.5% | -47.4% |
+| Weston McKennie | 92 | Serie A TIM | 35k coins | -29.9% | +2% |
+| Sergiño Dest | 86 | Eredivisie | 82k coins | -24.8% | -26.1% |
 | Ashley Sanchez | 88 | NWSL | 40k coins | -23.1% | -27.3% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 42k coins | -22.6% | -25.3% |
-| Alex Morgan | 91 | Icons | 1.49M coins | -21.4% | +6.6% |
-| Rose Lavelle | 88 | NWSL | 48k coins | -18.7% | -6.5% |
-| Lindsey Heaps | 90 | D1 Arkema | 49k coins | -16.2% | +70.4% |
-| Julie Foudy | 88 | Icons | 27k coins | -15.1% | +40.8% |
-| Riley Tiernan | 88 | NWSL | 30k coins | -14.3% | +27.7% |
+| Rose Lavelle | 88 | NWSL | 44k coins | -22.2% | -10.5% |
+| Naomi Girma | 87 | Barclays WSL | 42k coins | -21.3% | 0% |
+| Lindsey Heaps | 91 | D1 Arkema | 75k coins | -16.7% | +2.7% |
+| Lindsey Heaps | 90 | D1 Arkema | 49k coins | -16.2% | +63.3% |
 
 
 ### Análise das baixas
 
-- **Weston McKennie (92)** caiu **-44.9%** em 24h, a **38k coins** (faixa do dia: 34k–74k). Está -27% abaixo da média de 7 dias (descontada).
+- **Sydney Leroux (88)** caiu **-41.5%** em 24h, a **46k coins** (faixa do dia: 46k–80k). Está em linha com a média de 7 dias (-3%).
 
-- **Sydney Leroux (88)** caiu **-40.6%** em 24h, a **47k coins** (faixa do dia: 47k–80k). Está em linha com a média de 7 dias (-2%).
+- **Jaedyn Shaw (89)** caiu **-40%** em 24h, a **26k coins** (faixa do dia: 26k–45k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Jaedyn Shaw (89)** caiu **-40%** em 24h, a **27k coins** (faixa do dia: 27k–48k). Está -20% abaixo da média de 7 dias (descontada).
+- **Croix Bethune (87)** caiu **-30.5%** em 24h, a **20k coins** (faixa do dia: 20k–29k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lily Yohannes já avançou 43.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Alyssa Naeher já avançou 40.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Weston McKennie recuou -44.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Sydney Leroux recuou -41.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Lily Yohannes (84, D1 Arkema), com +43.9% em 24h, a 48k coins no PC.
+Alyssa Naeher (88, NWSL), com +40.4% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**
-Weston McKennie (92), -44.9% em 24h, a 38k coins.
+Sydney Leroux (88), -41.5% em 24h, a 46k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 26 cartas em alta contra 27 em queda (média 6.15%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 30 cartas em alta contra 28 em queda (média 7.52%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

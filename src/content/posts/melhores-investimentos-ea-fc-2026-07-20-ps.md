@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:33:09.000Z
+pubDatetime: 2026-07-21T01:33:08.000Z
 title: "Investimentos EA FC: Americanos em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Ashley Sanchez (88, NWSL) lidera, com +58.5% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Trinity Rodman (87, NWSL) lidera, com +50% em 7 dias a 164k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+58.5% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Trinity Rodman (87) acumula **+50% em 7 dias** a 164k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+24.1% em 24h** e **+31.2% em 7 dias**.
-- **5 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.3% em 24h** e **+24.2% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ashley Sanchez | 88 | NWSL | 70k coins | +37% | +58.5% | Esticada |
-| Trinity Rodman | 87 | NWSL | 173k coins | +22.1% | +45.5% | Esticada |
-| Rose Lavelle | 89 | NWSL | 80k coins | +40% | +31.2% | Esticada |
-| Croix Bethune | 87 | NWSL | 17.500 coins | +24.1% | +22% | Esticada |
-| Catarina Macario | 87 | Barclays WSL | 17.000 coins | +21.4% | +7.9% | Esticada |
+| Trinity Rodman | 87 | NWSL | 164k coins | +26.9% | +50% | Esticada |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 25k coins | +35.1% | +40.8% | Esticada |
+| Trinity Rodman | 85 | NWSL | 34k coins | +7.1% | +30.8% | Momentum moderado |
+| Rose Lavelle | 88 | NWSL | 50k coins | +2.6% | +17.6% | Entrada a observar |
+| Julie Foudy | 90 | Icons | 84k coins | +16.2% | +16.2% | Momentum moderado |
+| Mary Alice Vignola | 85 | NWSL | 15.750 coins | +12.5% | +8.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ashley Sanchez (88)** — 70k coins, **+58.5% em 7 dias** (+37% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 164k coins, **+50% em 7 dias** (+26.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (87)** — 173k coins, **+45.5% em 7 dias** (+22.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Timothy Weah (85)** — 25k coins, **+40.8% em 7 dias** (+35.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 80k coins, **+31.2% em 7 dias** (+40% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (85)** — 34k coins, **+30.8% em 7 dias** (+7.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (87)** — 17.500 coins, **+22% em 7 dias** (+24.1% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (88)** — 50k coins, **+17.6% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Catarina Macario (87)** — 17.000 coins, **+7.9% em 7 dias** (+21.4% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (90)** — 84k coins, **+16.2% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Ashley Sanchez (88, NWSL) lidera, com +58.5% em 7 dias a 70k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Trinity Rodman (87, NWSL) lidera, com +50% em 7 dias a 164k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

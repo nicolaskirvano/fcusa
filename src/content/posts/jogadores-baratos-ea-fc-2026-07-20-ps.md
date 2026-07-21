@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:33:10.000Z
+pubDatetime: 2026-07-21T01:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 20/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 20/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/07/2026)?"
-    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 1.700 coins no Console (PS)."
+    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 1.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sophia Wilson (88) por apenas 1.700 coins.
+> 💰 **Melhor pechincha:** Sophia Wilson (88) por apenas 1.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Americanos em 20/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-20-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 12.272 coins.
-- **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 1.700 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 10.375 coins.
+- **Posição mais frequente:** ST, com 1 cartas.
+- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,37 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sophia Wilson | 88 | ST | NWSL | 1.700 coins | +45.5% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 13.750 coins | -1.8% |
-| Michelle Cooper | 87 | RW | NWSL | 14.000 coins | +7.1% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 14.500 coins | +3.2% |
-| Landon Donovan | 86 | CAM | MLS | 13.000 coins | +3.9% |
-| Olivia Moultrie | 86 | CM | NWSL | 13.000 coins | -1.9% |
-| DaMarcus Beasley | 85 | LM | MLS | 12.750 coins | 0% |
-| Tim Howard | 85 | GK | Premier League | 13.250 coins | -11.7% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14.500 coins | +19.6% |
+| Sophia Wilson | 88 | ST | NWSL | 1.500 coins | +25% |
+| Olivia Moultrie | 86 | CM | NWSL | 13.000 coins | -10.3% |
+| Landon Donovan | 86 | CAM | MLS | 14.000 coins | +14% |
+| DaMarcus Beasley | 85 | LM | MLS | 13.000 coins | +8.3% |
 
 
 ## 📈 Destaques
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **13.750 coins**
+- **Olivia Moultrie (86, CM)** da NWSL, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Michelle Cooper (87, RW)** da NWSL, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ricardo Pepi (87, ST)** da Eredivisie, a apenas **14.500 coins**
-
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13.000 coins**
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Tim Howard (85, GK) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Olivia Moultrie (86, CM) por 13.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Christian Pulisic (87, CAM) por 13.750 coins é a referência de rating deste recorte.
-
-- **Ataque:** Sophia Wilson (88, ST) por 1.700 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Wilson (88, ST) por 1.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -89,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/07/2026)?**  
-Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 1.700 coins no Console (PS).
+Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 1.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
