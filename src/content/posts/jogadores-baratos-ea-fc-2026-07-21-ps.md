@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T22:33:10.000Z
+pubDatetime: 2026-07-22T01:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 21/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 21/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (21/07/2026)?"
-    a: "Christian Pulisic (87, Serie A TIM) aparece como melhor custo-benefício, a 14.000 coins no Console (PS)."
+    a: "Landon Donovan (86, MLS) aparece como melhor custo-benefício, a 13.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **21/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Christian Pulisic (87) por apenas 14.000 coins.
+> 💰 **Melhor pechincha:** Landon Donovan (86) por apenas 13.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Americanos em 21/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-21-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 13.600 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 12.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 12.875 coins.
+- **Posição mais frequente:** CAM, com 1 cartas.
+- **Faixa real:** 12.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,31 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14.000 coins | -10.2% |
-| Landon Donovan | 86 | CAM | MLS | 13.750 coins | +3.8% |
-| Olivia Moultrie | 86 | CM | NWSL | 14.500 coins | +11.5% |
-| Tim Howard | 85 | GK | Premier League | 12.500 coins | -8.9% |
-| DaMarcus Beasley | 85 | LM | MLS | 13.250 coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 13.500 coins | -7.5% |
+| Olivia Moultrie | 86 | CM | NWSL | 13.500 coins | +11.5% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.000 coins | -7.7% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12.500 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14.000 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13.750 coins**
+- **Olivia Moultrie (86, CM)** da NWSL, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Olivia Moultrie (86, CM)** da NWSL, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12.000 coins**
 
-- **Tim Howard (85, GK)** da Premier League, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **13.250 coins**
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **12.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Tim Howard (85, GK) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Mary Alice Vignola (85, LB) por 12.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Christian Pulisic (87, CAM) por 14.000 coins é a referência de rating deste recorte.
+- **Meio:** Landon Donovan (86, CAM) por 13.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -83,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (21/07/2026)?**  
-Christian Pulisic (87, Serie A TIM) aparece como melhor custo-benefício, a 14.000 coins no Console (PS).
+Landon Donovan (86, MLS) aparece como melhor custo-benefício, a 13.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
