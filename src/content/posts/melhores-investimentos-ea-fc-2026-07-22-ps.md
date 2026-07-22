@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:33:09.000Z
+pubDatetime: 2026-07-22T19:33:11.000Z
 title: "Investimentos EA FC: Americanos em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Diego Luna (89, MLS) lidera, com +87.3% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ashley Sanchez (88, NWSL) lidera, com +47.2% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Diego Luna (89) acumula **+87.3% em 7 dias** a 33k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+47.2% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 22/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-22-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.9% em 24h** e **+19.6% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.1% em 24h** e **+24.2% em 7 dias**.
+- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | MLS | 33k coins | +26.7% | +87.3% | Esticada |
-| Julie Foudy | 91 | Icons | 50k coins | +1.5% | +42.9% | Momentum moderado |
-| Malik Tillman | 85 | Bundesliga | 22k coins | +9.6% | +39% | Momentum moderado |
-| Alyssa Naeher | 88 | NWSL | 24k coins | +33.8% | +20.2% | Esticada |
-| Ashley Sanchez | 88 | NWSL | 60k coins | +22.1% | +19% | Esticada |
-| Trinity Rodman | 88 | NWSL | 104k coins | +3.9% | +8.1% | Entrada a observar |
-| Kaishū Sano | 84 | Bundesliga | 47k coins | +19.5% | +5.6% | Momentum moderado |
-| Trinity Rodman | 88 | NWSL | 98k coins | +12.4% | +5.1% | Momentum moderado |
+| Ashley Sanchez | 88 | NWSL | 60k coins | +39.5% | +47.2% | Esticada |
+| Lindsey Heaps | 91 | D1 Arkema | 65k coins | +8.3% | +36.1% | Momentum moderado |
+| Christian Pulisic | 86 | Serie A TIM | 56k coins | +35.7% | +28.9% | Esticada |
+| Alyssa Thompson | 91 | Barclays WSL | 200k coins | +30.7% | +25% | Esticada |
+| Julie Foudy | 90 | Icons | 84k coins | +23.5% | +23.5% | Esticada |
+| Lilly Reale | 89 | NWSL | 23k coins | +2% | +11.1% | Entrada a observar |
+| Tim Howard | 85 | Premier League | 16.000 coins | +16.7% | +8.6% | Momentum moderado |
+| Mary Alice Vignola | 85 | NWSL | 15.500 coins | +6.7% | +6.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Diego Luna (89)** — 33k coins, **+87.3% em 7 dias** (+26.7% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (88)** — 60k coins, **+47.2% em 7 dias** (+39.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julie Foudy (91)** — 50k coins, **+42.9% em 7 dias** (+1.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (91)** — 65k coins, **+36.1% em 7 dias** (+8.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (85)** — 22k coins, **+39% em 7 dias** (+9.6% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (86)** — 56k coins, **+28.9% em 7 dias** (+35.7% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alyssa Naeher (88)** — 24k coins, **+20.2% em 7 dias** (+33.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alyssa Thompson (91)** — 200k coins, **+25% em 7 dias** (+30.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Sanchez (88)** — 60k coins, **+19% em 7 dias** (+22.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (90)** — 84k coins, **+23.5% em 7 dias** (+23.5% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +81,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Diego Luna (89, MLS) lidera, com +87.3% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ashley Sanchez (88, NWSL) lidera, com +47.2% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -99,7 +99,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Americanos em 22/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-22-ps/)
 - [Mercado EA FC em 22/07: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-07-22-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
