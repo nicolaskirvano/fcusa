@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Riley Tiernan</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+89.7%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
-<rect x="285" y="153" width="257" height="28" rx="7" fill="#22c55e"/>
-<text x="552" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.1%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gisele Thompson</text>
-<rect x="285" y="211" width="235" height="28" rx="7" fill="#22c55e"/>
-<text x="530" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
-<rect x="285" y="269" width="111" height="28" rx="7" fill="#22c55e"/>
-<text x="406" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.7%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Freeman</text>
-<rect x="285" y="327" width="80" height="28" rx="7" fill="#22c55e"/>
-<text x="375" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.0%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Thompson</text>
-<rect x="285" y="385" width="56" height="28" rx="7" fill="#22c55e"/>
-<text x="351" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.5%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gisele Thompson</text>
+<rect x="285" y="153" width="302" height="28" rx="7" fill="#22c55e"/>
+<text x="597" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+46.2%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Naomi Girma</text>
+<rect x="285" y="211" width="160" height="28" rx="7" fill="#22c55e"/>
+<text x="455" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rose Lavelle</text>
+<rect x="285" y="269" width="101" height="28" rx="7" fill="#22c55e"/>
+<text x="396" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
+<rect x="285" y="327" width="91" height="28" rx="7" fill="#22c55e"/>
+<text x="386" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Caitlin Cosme</text>
+<rect x="285" y="385" width="49" height="28" rx="7" fill="#22c55e"/>
+<text x="344" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.5%</text>
 </svg>

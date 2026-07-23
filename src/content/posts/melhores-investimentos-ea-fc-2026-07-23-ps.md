@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:33:09.000Z
+pubDatetime: 2026-07-23T19:33:09.000Z
 title: "Investimentos EA FC: Americanos em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Riley Tiernan (88, NWSL) lidera, com +89.7% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Julie Foudy (90, Icons) lidera, com +73.5% em 7 dias a 114k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Riley Tiernan (88) acumula **+89.7% em 7 dias** a 38k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Julie Foudy (90) acumula **+73.5% em 7 dias** a 114k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.1% em 24h** e **+17.9% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+15.4% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Riley Tiernan | 88 | NWSL | 38k coins | +21.3% | +89.7% | Esticada |
-| Christian Pulisic | 86 | Serie A TIM | 57k coins | +3.4% | +48.1% | Momentum moderado |
-| Gisele Thompson | 90 | NWSL | 72k coins | +30.9% | +44% | Esticada |
-| Trinity Rodman | 88 | NWSL | 123k coins | +22.9% | +20.7% | Esticada |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 17.500 coins | +15% | +15% | Momentum moderado |
-| Alyssa Thompson | 91 | Barclays WSL | 190k coins | +5% | +10.5% | Entrada a observar |
-| Trinity Rodman | 85 | NWSL | 32k coins | +30.2% | +8.7% | Esticada |
-| Korbin Shrader | 84 | D1 Arkema | 40k coins | +5% | +5% | Entrada a observar |
+| Julie Foudy | 90 | Icons | 114k coins | +32.6% | +73.5% | Esticada |
+| Gisele Thompson | 90 | NWSL | 72k coins | +8.3% | +46.2% | Momentum moderado |
+| Naomi Girma | 87 | Barclays WSL | 54k coins | +12.5% | +24.5% | Momentum moderado |
+| Rose Lavelle | 88 | NWSL | 50k coins | +18.6% | +15.4% | Momentum moderado |
+| Trinity Rodman | 85 | NWSL | 35k coins | +30% | +14% | Esticada |
+| Caitlin Cosme | 88 | D1 Arkema | 17.500 coins | +9.1% | +7.5% | Momentum moderado |
+| Kaishū Sano | 84 | Bundesliga | 45k coins | +4% | +5.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Riley Tiernan (88)** — 38k coins, **+89.7% em 7 dias** (+21.3% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (90)** — 114k coins, **+73.5% em 7 dias** (+32.6% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Pulisic (86)** — 57k coins, **+48.1% em 7 dias** (+3.4% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gisele Thompson (90)** — 72k coins, **+46.2% em 7 dias** (+8.3% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 72k coins, **+44% em 7 dias** (+30.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Naomi Girma (87)** — 54k coins, **+24.5% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 123k coins, **+20.7% em 7 dias** (+22.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (88)** — 50k coins, **+15.4% em 7 dias** (+18.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alex Freeman (88)** — 17.500 coins, **+15% em 7 dias** (+15% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (85)** — 35k coins, **+14% em 7 dias** (+30% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +80,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Riley Tiernan (88, NWSL) lidera, com +89.7% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Julie Foudy (90, Icons) lidera, com +73.5% em 7 dias a 114k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
