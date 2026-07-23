@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T10:33:09.000Z
+pubDatetime: 2026-07-23T13:33:09.000Z
 title: "Investimentos EA FC: Americanos em 23/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Weston McKennie (92, Serie A TIM) lidera, com +53.8% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Rose Lavelle (89, NWSL) lidera, com +64.6% em 7 dias a 72k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Weston McKennie (92) acumula **+53.8% em 7 dias** a 55k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Rose Lavelle (89) acumula **+64.6% em 7 dias** a 72k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 23/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-23-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.2% em 24h** e **+16.2% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.6% em 24h** e **+20.2% em 7 dias**.
+- **9 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Weston McKennie | 92 | Serie A TIM | 55k coins | +10% | +53.8% | Momentum moderado |
-| Gisele Thompson | 90 | NWSL | 72k coins | +2.9% | +44% | Momentum moderado |
-| Weston McKennie | 84 | Serie A TIM | 59k coins | +35.6% | +38.8% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 49k coins | +36% | +34.2% | Esticada |
-| Trinity Rodman | 88 | NWSL | 127k coins | +13.2% | +16.2% | Momentum moderado |
-| Christian Pulisic | 87 | Serie A TIM | 15.000 coins | +15.4% | +13.2% | Momentum moderado |
-| Lindsey Heaps | 91 | D1 Arkema | 65k coins | +10.2% | +13% | Momentum moderado |
-| Kaishū Sano | 84 | Bundesliga | 46k coins | +4% | +7% | Entrada a observar |
-| Croix Bethune | 84 | NWSL | 42k coins | +1.2% | +5.6% | Entrada a observar |
+| Rose Lavelle | 89 | NWSL | 72k coins | +8% | +64.6% | Esticada |
+| Gisele Thompson | 90 | NWSL | 60k coins | +30% | +43% | Esticada |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 26k coins | +31% | +42.5% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 65k coins | +32% | +36.8% | Esticada |
+| Weston McKennie | 84 | Serie A TIM | 57k coins | +31% | +34.1% | Esticada |
+| Julie Foudy | 88 | Icons | 30k coins | +34.8% | +29.2% | Esticada |
+| Naomi Girma | 87 | Barclays WSL | 56k coins | +8.7% | +20.2% | Momentum moderado |
+| Lindsey Heaps | 91 | D1 Arkema | 65k coins | +28.7% | +13% | Esticada |
+| Rose Lavelle | 88 | NWSL | 49k coins | +25.6% | +10.2% | Esticada |
+| Haji Wright | 84 | EFL Championship | 38k coins | +12.5% | +9.5% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 129k coins | +14.4% | +7.2% | Momentum moderado |
+| Brad Guzan | 84 | MLS | 80k coins | +21.4% | +6.7% | Esticada |
+| Croix Bethune | 84 | NWSL | 38k coins | +1.2% | +5.6% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Weston McKennie (92)** — 55k coins, **+53.8% em 7 dias** (+10% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 72k coins, **+64.6% em 7 dias** (+8% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 72k coins, **+44% em 7 dias** (+2.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gisele Thompson (90)** — 60k coins, **+43% em 7 dias** (+30% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Weston McKennie (84)** — 59k coins, **+38.8% em 7 dias** (+35.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alex Freeman (88)** — 26k coins, **+42.5% em 7 dias** (+31% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (84)** — 49k coins, **+34.2% em 7 dias** (+36% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 65k coins, **+36.8% em 7 dias** (+32% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 127k coins, **+16.2% em 7 dias** (+13.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (84)** — 57k coins, **+34.1% em 7 dias** (+31% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Weston McKennie (92, Serie A TIM) lidera, com +53.8% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Rose Lavelle (89, NWSL) lidera, com +64.6% em 7 dias a 72k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

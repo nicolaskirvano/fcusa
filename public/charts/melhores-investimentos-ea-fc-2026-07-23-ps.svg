@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Rose Lavelle</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.8%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.6%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gisele Thompson</text>
-<rect x="285" y="153" width="393" height="28" rx="7" fill="#22c55e"/>
-<text x="688" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
-<rect x="285" y="211" width="346" height="28" rx="7" fill="#22c55e"/>
-<text x="641" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
-<rect x="285" y="269" width="305" height="28" rx="7" fill="#22c55e"/>
-<text x="600" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
-<rect x="285" y="327" width="145" height="28" rx="7" fill="#22c55e"/>
-<text x="440" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
-<rect x="285" y="385" width="118" height="28" rx="7" fill="#22c55e"/>
-<text x="413" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.2%</text>
+<rect x="285" y="153" width="320" height="28" rx="7" fill="#22c55e"/>
+<text x="615" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+43.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Freeman</text>
+<rect x="285" y="211" width="316" height="28" rx="7" fill="#22c55e"/>
+<text x="611" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mark McKenzie</text>
+<rect x="285" y="269" width="273" height="28" rx="7" fill="#22c55e"/>
+<text x="568" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Weston McKennie</text>
+<rect x="285" y="327" width="253" height="28" rx="7" fill="#22c55e"/>
+<text x="548" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.1%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julie Foudy</text>
+<rect x="285" y="385" width="217" height="28" rx="7" fill="#22c55e"/>
+<text x="512" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.2%</text>
 </svg>
