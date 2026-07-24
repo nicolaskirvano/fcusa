@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:33:11.000Z
+pubDatetime: 2026-07-24T01:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 23/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (23/07/2026)?"
-    a: "DaMarcus Beasley (88, MLS) aparece como melhor custo-benefício, a 14.750 coins no Console (PS)."
+    a: "Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 1.900 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **23/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** DaMarcus Beasley (88) por apenas 14.750 coins.
+> 💰 **Melhor pechincha:** Sophia Wilson (88) por apenas 1.900 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Americanos em 23/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-23-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 13.286 coins.
-- **Posição mais frequente:** LM, com 2 cartas.
-- **Faixa real:** 11.750 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 11.275 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 1.900 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,35 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| DaMarcus Beasley | 88 | LM | MLS | 14.750 coins | -9.2% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 12.500 coins | -9.1% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 13.750 coins | +21.6% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.750 coins | +6.4% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.500 coins | -5.8% |
-| Tim Howard | 85 | GK | Premier League | 13.750 coins | -11.5% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14.000 coins | +1.8% |
+| Sophia Wilson | 88 | ST | NWSL | 1.900 coins | -13.6% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 12.500 coins | -5.7% |
+| Landon Donovan | 86 | CAM | MLS | 14.000 coins | +1.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.500 coins | -3.8% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.750 coins | +2.1% |
+| Tim Howard | 85 | GK | Premier League | 14.000 coins | -6.7% |
 
 
 ## 📈 Destaques
 
-- **DaMarcus Beasley (88, LM)** da MLS, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **13.750 coins** A alta de 24h pede uma nova checagem antes da compra.
-
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11.750 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.000 coins**
 
 - **Madison Haley (85, RW)** da Barclays WSL, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Tim Howard (85, GK) por 13.750 coins é a referência de rating deste recorte.
+- **Defesa:** Tim Howard (85, GK) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** DaMarcus Beasley (88, LM) por 14.750 coins é a referência de rating deste recorte.
+- **Meio:** Catarina Macario (87, CAM) por 12.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Madison Haley (85, RW) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Wilson (88, ST) por 1.900 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -87,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (23/07/2026)?**  
-DaMarcus Beasley (88, MLS) aparece como melhor custo-benefício, a 14.750 coins no Console (PS).
+Sophia Wilson (88, NWSL) aparece como melhor custo-benefício, a 1.900 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
