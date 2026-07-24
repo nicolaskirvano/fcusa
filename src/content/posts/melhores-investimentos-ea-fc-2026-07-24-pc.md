@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:33:21.000Z
+pubDatetime: 2026-07-24T19:33:19.000Z
 title: "Investimentos EA FC: Americanos em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Ashley Sanchez (88, NWSL) lidera, com +43.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ashley Sanchez (88, NWSL) lidera, com +44.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+43.9% em 7 dias** a 100k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+44.9% em 7 dias** a 100k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.1% em 24h** e **+19.7% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.9% em 24h** e **+31.8% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Ashley Sanchez | 88 | NWSL | 100k coins | +11.1% | +43.9% | Momentum moderado |
-| Sydney Leroux | 88 | NWSL | 57k coins | +34.9% | +30.3% | Esticada |
-| Haji Wright | 84 | EFL Championship | 55k coins | +5% | +27.7% | Momentum moderado |
-| Tim Ream | 85 | MLS | 87k coins | +1% | +11.7% | Entrada a observar |
-| Diego Luna | 89 | MLS | 20k coins | +20.7% | +8.2% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 46k coins | +2.2% | +7% | Entrada a observar |
+| Ashley Sanchez | 88 | NWSL | 100k coins | +13.6% | +44.9% | Momentum moderado |
+| Sydney Leroux | 88 | NWSL | 57k coins | +37.3% | +39% | Esticada |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 56k coins | +12.3% | +32.7% | Momentum moderado |
+| Gisele Thompson | 90 | NWSL | 70k coins | +17.6% | +30.8% | Momentum moderado |
+| Lily Yohannes | 84 | D1 Arkema | 40k coins | +2.2% | +14.4% | Entrada a observar |
+| Korbin Shrader | 84 | D1 Arkema | 49k coins | +9.4% | +7.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Ashley Sanchez (88)** — 100k coins, **+43.9% em 7 dias** (+11.1% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (88)** — 100k coins, **+44.9% em 7 dias** (+13.6% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sydney Leroux (88)** — 57k coins, **+30.3% em 7 dias** (+34.9% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sydney Leroux (88)** — 57k coins, **+39% em 7 dias** (+37.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 55k coins, **+27.7% em 7 dias** (+5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mark McKenzie (90)** — 56k coins, **+32.7% em 7 dias** (+12.3% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tim Ream (85)** — 87k coins, **+11.7% em 7 dias** (+1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gisele Thompson (90)** — 70k coins, **+30.8% em 7 dias** (+17.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Luna (89)** — 20k coins, **+8.2% em 7 dias** (+20.7% em 24h). Preço -15% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lily Yohannes (84)** — 40k coins, **+14.4% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Ashley Sanchez (88, NWSL) lidera, com +43.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ashley Sanchez (88, NWSL) lidera, com +44.9% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
