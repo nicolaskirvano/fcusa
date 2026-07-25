@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T22:33:11.000Z
+pubDatetime: 2026-07-25T01:33:12.000Z
 title: "Jogadores baratos EA FC: Americanos em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 24/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (24/07/2026)?"
-    a: "Jack McGlynn (87, MLS) aparece como melhor custo-benefício, a 12.000 coins no Console (PS)."
+    a: "Olivia Moultrie (86, NWSL) aparece como melhor custo-benefício, a 12.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **24/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jack McGlynn (87) por apenas 12.000 coins.
+> 💰 **Melhor pechincha:** Olivia Moultrie (86) por apenas 12.250 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Americanos em 24/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-24-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 13.179 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 12.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 12.750 coins.
+- **Posição mais frequente:** CM, com 1 cartas.
+- **Faixa real:** 11.750 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,35 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jack McGlynn | 87 | CM | MLS | 12.000 coins | +26.9% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 12.500 coins | -9.4% |
-| Catarina Macario | 87 | CAM | Barclays WSL | 14.750 coins | +18% |
-| Olivia Moultrie | 86 | CM | NWSL | 13.750 coins | +36.7% |
-| DaMarcus Beasley | 85 | LM | MLS | 12.250 coins | +16.3% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.500 coins | 0% |
-| Tim Howard | 85 | GK | Premier League | 14.500 coins | +7.4% |
+| Olivia Moultrie | 86 | CM | NWSL | 12.250 coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 14.750 coins | -7% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.750 coins | -2.1% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.250 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Jack McGlynn (87, CM)** da MLS, a apenas **12.000 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Olivia Moultrie (86, CM)** da NWSL, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12.500 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.750 coins**
 
-- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14.750 coins**
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11.750 coins**
 
-- **Olivia Moultrie (86, CM)** da NWSL, a apenas **13.750 coins** A alta de 24h pede uma nova checagem antes da compra.
-
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12.250 coins** — já **valorizando**, sinal de procura crescente.
+- **Madison Haley (85, RW)** da Barclays WSL, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Tim Howard (85, GK) por 14.500 coins é a referência de rating deste recorte.
+- **Meio:** Olivia Moultrie (86, CM) por 12.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Jack McGlynn (87, CM) por 12.000 coins é a referência de rating deste recorte.
-
-- **Ataque:** Madison Haley (85, RW) por 12.500 coins é a referência de rating deste recorte.
+- **Ataque:** Madison Haley (85, RW) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -97,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (24/07/2026)?**  
-Jack McGlynn (87, MLS) aparece como melhor custo-benefício, a 12.000 coins no Console (PS).
+Olivia Moultrie (86, NWSL) aparece como melhor custo-benefício, a 12.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
