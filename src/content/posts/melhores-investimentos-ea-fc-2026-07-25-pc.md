@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:33:19.000Z
+pubDatetime: 2026-07-25T19:33:18.000Z
 title: "Investimentos EA FC: Americanos em 25/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.1% em 24h** e **+21.9% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.0% em 24h** e **+18.5% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,24 +44,23 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sydney Leroux | 88 | NWSL | 65k coins | +14% | +80.6% | Esticada |
-| Tara McKeown | 89 | NWSL | 24k coins | +20.9% | +31.6% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 45k coins | +3.8% | +22.6% | Entrada a observar |
-| Lindsey Heaps | 90 | D1 Arkema | 88k coins | +18% | +21.2% | Momentum moderado |
+| Julie Foudy | 91 | Icons | 38k coins | +27.5% | +42.7% | Esticada |
+| Lindsey Heaps | 90 | D1 Arkema | 85k coins | +15.3% | +18.5% | Momentum moderado |
 | Trinity Rodman | 88 | NWSL | 207k coins | +6.2% | +16.3% | Momentum moderado |
-| Daniel Munie | 84 | MLS | 34k coins | +2.7% | +5.5% | Entrada a observar |
+| Olivia Moultrie | 86 | NWSL | 21k coins | +10.4% | +11.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sydney Leroux (88)** — 65k coins, **+80.6% em 7 dias** (+14% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sydney Leroux (88)** — 65k coins, **+80.6% em 7 dias** (+14% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tara McKeown (89)** — 24k coins, **+31.6% em 7 dias** (+20.9% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (91)** — 38k coins, **+42.7% em 7 dias** (+27.5% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (84)** — 45k coins, **+22.6% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Lindsey Heaps (90)** — 88k coins, **+21.2% em 7 dias** (+18% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (90)** — 85k coins, **+18.5% em 7 dias** (+15.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Trinity Rodman (88)** — 207k coins, **+16.3% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Olivia Moultrie (86)** — 21k coins, **+11.8% em 7 dias** (+10.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,6 +96,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Americanos em 25/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-25-pc/)
 - [Mercado EA FC em 25/07: Americanos — PC](/posts/mercado-ea-fc-2026-07-25-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
