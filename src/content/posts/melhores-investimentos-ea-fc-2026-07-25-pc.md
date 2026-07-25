@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T13:33:18.000Z
+pubDatetime: 2026-07-25T16:33:19.000Z
 title: "Investimentos EA FC: Americanos em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Gisele Thompson (90, NWSL) lidera, com +29.9% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sydney Leroux (88, NWSL) lidera, com +80.6% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gisele Thompson (90) acumula **+29.9% em 7 dias** a 70k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sydney Leroux (88) acumula **+80.6% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.3% em 24h** e **+24.1% em 7 dias**.
+- A mediana é de **+10.1% em 24h** e **+21.9% em 7 dias**.
 - **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gisele Thompson | 90 | NWSL | 70k coins | +26.4% | +29.9% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +3.8% | +27.5% | Momentum moderado |
-| Carson Pickett | 86 | NWSL | 38k coins | +4% | +25% | Entrada a observar |
-| Lindsey Heaps | 90 | D1 Arkema | 90k coins | +20% | +23.3% | Esticada |
-| Taylor Flint | 88 | NWSL | 173k coins | +8.5% | +15.5% | Momentum moderado |
-| Trinity Rodman | 88 | NWSL | 207k coins | +6.2% | +15% | Momentum moderado |
+| Sydney Leroux | 88 | NWSL | 65k coins | +14% | +80.6% | Esticada |
+| Tara McKeown | 89 | NWSL | 24k coins | +20.9% | +31.6% | Esticada |
+| Lily Yohannes | 84 | D1 Arkema | 45k coins | +3.8% | +22.6% | Entrada a observar |
+| Lindsey Heaps | 90 | D1 Arkema | 88k coins | +18% | +21.2% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 207k coins | +6.2% | +16.3% | Momentum moderado |
+| Daniel Munie | 84 | MLS | 34k coins | +2.7% | +5.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Gisele Thompson (90)** — 70k coins, **+29.9% em 7 dias** (+26.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sydney Leroux (88)** — 65k coins, **+80.6% em 7 dias** (+14% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (84)** — 48k coins, **+27.5% em 7 dias** (+3.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tara McKeown (89)** — 24k coins, **+31.6% em 7 dias** (+20.9% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carson Pickett (86)** — 38k coins, **+25% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lily Yohannes (84)** — 45k coins, **+22.6% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (90)** — 90k coins, **+23.3% em 7 dias** (+20% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (90)** — 88k coins, **+21.2% em 7 dias** (+18% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Taylor Flint (88)** — 173k coins, **+15.5% em 7 dias** (+8.5% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (88)** — 207k coins, **+16.3% em 7 dias** (+6.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Gisele Thompson (90, NWSL) lidera, com +29.9% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sydney Leroux (88, NWSL) lidera, com +80.6% em 7 dias a 65k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
