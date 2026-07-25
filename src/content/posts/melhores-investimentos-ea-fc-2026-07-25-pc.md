@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:33:18.000Z
+pubDatetime: 2026-07-25T13:33:18.000Z
 title: "Investimentos EA FC: Americanos em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Carson Pickett (86, NWSL) lidera, com +34.7% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gisele Thompson (90, NWSL) lidera, com +29.9% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Carson Pickett (86) acumula **+34.7% em 7 dias** a 41k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Gisele Thompson (90) acumula **+29.9% em 7 dias** a 70k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.8% em 24h** e **+19.9% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.3% em 24h** e **+24.1% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Carson Pickett | 86 | NWSL | 41k coins | +9.2% | +34.7% | Momentum moderado |
-| Gisele Thompson | 90 | NWSL | 70k coins | +26.4% | +21.9% | Esticada |
-| Trinity Rodman | 88 | NWSL | 210k coins | +7.7% | +18% | Momentum moderado |
-| Lindsey Heaps | 91 | D1 Arkema | 94k coins | +10.5% | +6.2% | Momentum moderado |
+| Gisele Thompson | 90 | NWSL | 70k coins | +26.4% | +29.9% | Esticada |
+| Lily Yohannes | 84 | D1 Arkema | 48k coins | +3.8% | +27.5% | Momentum moderado |
+| Carson Pickett | 86 | NWSL | 38k coins | +4% | +25% | Entrada a observar |
+| Lindsey Heaps | 90 | D1 Arkema | 90k coins | +20% | +23.3% | Esticada |
+| Taylor Flint | 88 | NWSL | 173k coins | +8.5% | +15.5% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 207k coins | +6.2% | +15% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Carson Pickett (86)** — 41k coins, **+34.7% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gisele Thompson (90)** — 70k coins, **+29.9% em 7 dias** (+26.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 70k coins, **+21.9% em 7 dias** (+26.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lily Yohannes (84)** — 48k coins, **+27.5% em 7 dias** (+3.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 210k coins, **+18% em 7 dias** (+7.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carson Pickett (86)** — 38k coins, **+25% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (91)** — 94k coins, **+6.2% em 7 dias** (+10.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (90)** — 90k coins, **+23.3% em 7 dias** (+20% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Taylor Flint (88)** — 173k coins, **+15.5% em 7 dias** (+8.5% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +79,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Carson Pickett (86, NWSL) lidera, com +34.7% em 7 dias a 41k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gisele Thompson (90, NWSL) lidera, com +29.9% em 7 dias a 70k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

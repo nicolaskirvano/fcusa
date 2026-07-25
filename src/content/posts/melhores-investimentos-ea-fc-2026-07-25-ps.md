@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:33:09.000Z
+pubDatetime: 2026-07-25T13:33:09.000Z
 title: "Investimentos EA FC: Americanos em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Sergiño Dest (86, Eredivisie) lidera, com +81.9% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "DeAndre Yedlin (86, MLS) lidera, com +57% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sergiño Dest (86) acumula **+81.9% em 7 dias** a 33k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** DeAndre Yedlin (86) acumula **+57% em 7 dias** a 39k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.2% em 24h** e **+17.7% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.9% em 24h** e **+20.2% em 7 dias**.
+- **5 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **MLS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sergiño Dest | 86 | Eredivisie | 33k coins | +22.4% | +81.9% | Esticada |
-| Weston McKennie | 92 | Serie A TIM | 60k coins | +2.1% | +34.7% | Momentum moderado |
-| Christian Pulisic | 86 | Serie A TIM | 52k coins | +7.8% | +22.4% | Momentum moderado |
-| Daniel Munie | 84 | MLS | 42k coins | +13.3% | +18.1% | Momentum moderado |
-| Korbin Shrader | 84 | D1 Arkema | 46k coins | +9.6% | +17.3% | Momentum moderado |
-| Olivia Moultrie | 86 | NWSL | 18.750 coins | +36.4% | +11.9% | Esticada |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 35k coins | +15.2% | +10.6% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 42k coins | +18.9% | +6.2% | Momentum moderado |
+| DeAndre Yedlin | 86 | MLS | 39k coins | +25.6% | +57% | Esticada |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 26k coins | +30% | +55.2% | Esticada |
+| Brad Guzan | 84 | MLS | 79k coins | +28.5% | +32.8% | Esticada |
+| Weston McKennie | 84 | Serie A TIM | 46k coins | +20.9% | +27.9% | Esticada |
+| Christian Pulisic | 86 | Serie A TIM | 50k coins | +15.6% | +25.3% | Momentum moderado |
+| Croix Bethune | 84 | NWSL | 44k coins | +12.9% | +15.1% | Momentum moderado |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 41k coins | +17.5% | +11.3% | Momentum moderado |
+| Kaishū Sano | 84 | Bundesliga | 46k coins | +20.4% | +8.9% | Esticada |
+| Haji Wright | 84 | EFL Championship | 38k coins | +11.8% | +6.2% | Momentum moderado |
+| Daniel Munie | 84 | MLS | 38k coins | +2% | +6.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Sergiño Dest (86)** — 33k coins, **+81.9% em 7 dias** (+22.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **DeAndre Yedlin (86)** — 39k coins, **+57% em 7 dias** (+25.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Weston McKennie (92)** — 60k coins, **+34.7% em 7 dias** (+2.1% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Timothy Weah (85)** — 26k coins, **+55.2% em 7 dias** (+30% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Pulisic (86)** — 52k coins, **+22.4% em 7 dias** (+7.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Brad Guzan (84)** — 79k coins, **+32.8% em 7 dias** (+28.5% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Daniel Munie (84)** — 42k coins, **+18.1% em 7 dias** (+13.3% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (84)** — 46k coins, **+27.9% em 7 dias** (+20.9% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Korbin Shrader (84)** — 46k coins, **+17.3% em 7 dias** (+9.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (86)** — 50k coins, **+25.3% em 7 dias** (+15.6% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +83,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Sergiño Dest (86, Eredivisie) lidera, com +81.9% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+DeAndre Yedlin (86, MLS) lidera, com +57% em 7 dias a 39k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
