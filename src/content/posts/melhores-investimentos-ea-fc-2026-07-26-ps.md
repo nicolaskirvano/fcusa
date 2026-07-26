@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:33:09.000Z
+pubDatetime: 2026-07-26T19:33:10.000Z
 title: "Investimentos EA FC: Americanos em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Christian Pulisic (86, Serie A TIM) lidera, com +60.8% em 7 dias a 62k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lindsey Heaps (88, D1 Arkema) lidera, com +62.7% em 7 dias a 156k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Christian Pulisic (86) acumula **+60.8% em 7 dias** a 62k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lindsey Heaps (88) acumula **+62.7% em 7 dias** a 156k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.8% em 24h** e **+33.3% em 7 dias**.
-- **1 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.8% em 24h** e **+35.5% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Christian Pulisic | 86 | Serie A TIM | 62k coins | +18.3% | +60.8% | Esticada |
-| Ashley Sanchez | 88 | NWSL | 82k coins | +18% | +51.9% | Momentum moderado |
-| Rose Lavelle | 89 | NWSL | 73k coins | +7.1% | +42.9% | Momentum moderado |
-| Brad Guzan | 84 | MLS | 78k coins | +2% | +40.9% | Momentum moderado |
-| Rose Lavelle | 88 | NWSL | 52k coins | +4.8% | +25.7% | Momentum moderado |
-| Haji Wright | 84 | EFL Championship | 44k coins | +15.6% | +17.1% | Momentum moderado |
-| Trinity Rodman | 87 | NWSL | 107k coins | +8.6% | +14.4% | Momentum moderado |
-| Trinity Rodman | 88 | NWSL | 120k coins | +2.9% | +7.7% | Entrada a observar |
+| Lindsey Heaps | 88 | D1 Arkema | 156k coins | +12.9% | +62.7% | Esticada |
+| Olivia Moultrie | 86 | NWSL | 18.500 coins | +1.1% | +50% | Momentum moderado |
+| Christian Pulisic | 86 | Serie A TIM | 64k coins | +11.5% | +45% | Momentum moderado |
+| Mary Alice Vignola | 85 | NWSL | 17.000 coins | +28.3% | +25.9% | Esticada |
+| Haji Wright | 84 | EFL Championship | 42k coins | +4.7% | +25.4% | Momentum moderado |
+| Carson Pickett | 86 | NWSL | 40k coins | +6% | +20.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Christian Pulisic (86)** — 62k coins, **+60.8% em 7 dias** (+18.3% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (88)** — 156k coins, **+62.7% em 7 dias** (+12.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ashley Sanchez (88)** — 82k coins, **+51.9% em 7 dias** (+18% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Moultrie (86)** — 18.500 coins, **+50% em 7 dias** (+1.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (89)** — 73k coins, **+42.9% em 7 dias** (+7.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (86)** — 64k coins, **+45% em 7 dias** (+11.5% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Brad Guzan (84)** — 78k coins, **+40.9% em 7 dias** (+2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mary Alice Vignola (85)** — 17.000 coins, **+25.9% em 7 dias** (+28.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (88)** — 52k coins, **+25.7% em 7 dias** (+4.8% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Haji Wright (84)** — 42k coins, **+25.4% em 7 dias** (+4.7% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Christian Pulisic (86, Serie A TIM) lidera, com +60.8% em 7 dias a 62k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lindsey Heaps (88, D1 Arkema) lidera, com +62.7% em 7 dias a 156k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

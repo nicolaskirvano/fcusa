@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:33:20.000Z
+pubDatetime: 2026-07-26T19:33:21.000Z
 title: "Jogadores baratos EA FC: Americanos em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.600 coins.
-- **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 10.750 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 9.875 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 2.000 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 11.750 coins | -11.1% |
-| DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | -2.3% |
-| Tim Howard | 85 | GK | Premier League | 12.750 coins | -2.1% |
+| Landon Donovan | 86 | CAM | MLS | 10.750 coins | 0% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.000 coins | +2.3% |
+| Tim Howard | 85 | GK | Premier League | 12.750 coins | 0% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -53,9 +54,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Tim Howard (85, GK)** da Premier League, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
