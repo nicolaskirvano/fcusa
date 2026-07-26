@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:33:10.000Z
+pubDatetime: 2026-07-26T13:33:09.000Z
 title: "Investimentos EA FC: Americanos em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Croix Bethune (87, NWSL) lidera, com +83.3% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ashley Sanchez (88, NWSL) lidera, com +50.9% em 7 dias a 83k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Croix Bethune (87) acumula **+83.3% em 7 dias** a 25k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ashley Sanchez (88) acumula **+50.9% em 7 dias** a 83k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+26.2% em 24h** e **+23.8% em 7 dias**.
-- **8 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.6% em 24h** e **+20.8% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Croix Bethune | 87 | NWSL | 25k coins | +26.9% | +83.3% | Esticada |
-| Christian Pulisic | 86 | Serie A TIM | 68k coins | +31.7% | +73.4% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 65k coins | +26.2% | +63.5% | Esticada |
-| Trinity Rodman | 87 | NWSL | 170k coins | +3.7% | +29.8% | Momentum moderado |
-| Mary Alice Vignola | 85 | NWSL | 17.250 coins | +38% | +25.5% | Esticada |
-| Tim Howard | 85 | Premier League | 16.500 coins | +37.5% | +24.5% | Esticada |
-| Trinity Rodman | 88 | NWSL | 125k coins | +16.8% | +23.8% | Momentum moderado |
-| Kaishū Sano | 84 | Bundesliga | 48k coins | +6.7% | +21.8% | Momentum moderado |
-| Alyssa Thompson | 91 | Barclays WSL | 210k coins | +7.7% | +18% | Momentum moderado |
-| Croix Bethune | 84 | NWSL | 46k coins | +6.3% | +17% | Momentum moderado |
-| Carson Pickett | 86 | NWSL | 40k coins | +34.5% | +8.8% | Esticada |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 25k coins | +20.7% | +8.8% | Esticada |
-| Rose Lavelle | 89 | NWSL | 80k coins | +33.3% | +6.7% | Esticada |
+| Ashley Sanchez | 88 | NWSL | 83k coins | +3.8% | +50.9% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 122k coins | +14% | +25.8% | Momentum moderado |
+| Trinity Rodman | 87 | NWSL | 160k coins | +15.1% | +21.2% | Momentum moderado |
+| Rose Lavelle | 89 | NWSL | 77k coins | +28.3% | +20.3% | Esticada |
+| Croix Bethune | 84 | NWSL | 43k coins | +16.2% | +17% | Momentum moderado |
+| Daniel Munie | 84 | MLS | 42k coins | +11.1% | +9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Croix Bethune (87)** — 25k coins, **+83.3% em 7 dias** (+26.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (88)** — 83k coins, **+50.9% em 7 dias** (+3.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Pulisic (86)** — 68k coins, **+73.4% em 7 dias** (+31.7% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (88)** — 122k coins, **+25.8% em 7 dias** (+14% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (84)** — 65k coins, **+63.5% em 7 dias** (+26.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 160k coins, **+21.2% em 7 dias** (+15.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (87)** — 170k coins, **+29.8% em 7 dias** (+3.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 77k coins, **+20.3% em 7 dias** (+28.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mary Alice Vignola (85)** — 17.250 coins, **+25.5% em 7 dias** (+38% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Croix Bethune (84)** — 43k coins, **+17% em 7 dias** (+16.2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Croix Bethune (87, NWSL) lidera, com +83.3% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ashley Sanchez (88, NWSL) lidera, com +50.9% em 7 dias a 83k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

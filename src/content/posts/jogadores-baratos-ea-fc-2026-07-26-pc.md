@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:33:20.000Z
+pubDatetime: 2026-07-26T13:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 26/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 7.770 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 1.900 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 10.386 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 2.200 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,7 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 1.900 coins | +18.8% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 11.000 coins | -4.3% |
+| Landon Donovan | 86 | CAM | MLS | 14.000 coins | -9.1% |
+| DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | -2.3% |
 | Tim Howard | 85 | GK | Premier League | 12.000 coins | 0% |
 | Catarina Macario | 83 | CAM | Barclays WSL | 2.200 coins | 0% |
 
@@ -53,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tim Howard (85, GK)** da Premier League, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **2.200 coins** — já **valorizando**, sinal de procura crescente.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:33:11.000Z
+pubDatetime: 2026-07-26T13:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 11.383 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 3.700 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 13.125 coins.
+- **Posição mais frequente:** LM, com 2 cartas.
+- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,13 +42,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
+| Tara McKeown | 89 | CB | NWSL | 13.750 coins | -12.1% |
 | Diego Luna | 89 | LM | MLS | 14.500 coins | +1.8% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 11.750 coins | 0% |
-| Jack McGlynn | 87 | CM | MLS | 14.250 coins | -13.6% |
-| Landon Donovan | 86 | CAM | MLS | 12.500 coins | 0% |
-| DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | -8.5% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.250 coins | +2.1% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 3.700 coins | -5.1% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 12.250 coins | +8.9% |
+| Landon Donovan | 86 | CAM | MLS | 13.750 coins | +5.8% |
+| Tim Howard | 85 | GK | Premier League | 14.000 coins | +27.1% |
+| DaMarcus Beasley | 85 | LM | MLS | 14.000 coins | +2.1% |
 
 
 ## 📈 Destaques
@@ -57,11 +56,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Tara McKeown (89, CB)** da NWSL, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Diego Luna (89, LM)** da MLS, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Jack McGlynn (87, CM)** da MLS, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -69,8 +68,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Madison Haley (85, RW) por 12.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
