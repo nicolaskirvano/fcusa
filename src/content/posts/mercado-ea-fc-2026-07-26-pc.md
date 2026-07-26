@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T13:33:17.000Z
+pubDatetime: 2026-07-26T16:33:17.000Z
 title: "Mercado EA FC em 26/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Malik Tillman (88, Bundesliga), com +53.7% em 24h, a 245k coins no PC."
+    a: "Malik Tillman (88, Bundesliga), com +46.3% em 24h, a 237k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Weston McKennie (92), -34.6% em 24h, a 56k coins."
+    a: "Julie Foudy (91), -48% em 24h, a 25k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 31 em queda (média -2.65%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 26 cartas em alta contra 34 em queda (média 0.8%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **16 subiram**, **31 caíram** (80+ e 5k+ coins), média de **-2.65%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**26/07/2026**, PC) o Ultimate Team está **de lado** — altas e quedas se equilibram — **26 subiram**, **34 caíram** (80+ e 5k+ coins), média de **0.8%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Malik Tillman (88) **+53.7%** · 🔴 **Maior baixa:** Weston McKennie (92) **-34.6%**
+> 🟢 **Maior alta:** Malik Tillman (88) **+46.3%** · 🔴 **Maior baixa:** Julie Foudy (91) **-48%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 88.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 34.0% entre as cartas que se moveram; o universo observado reúne 60 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.3% entre as cartas que se moveram; o universo observado reúne 71 cartas.
+- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Malik Tillman | 88 | Bundesliga | 245k coins | +53.7% | +132.7% |
-| Alex Pfeiffer | 90 | NWSL | 179k coins | +31.7% | -12.4% |
-| Sergiño Dest | 86 | Eredivisie | 104k coins | +29.1% | +39.7% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 46k coins | +27.1% | +8.9% |
-| Korbin Shrader | 84 | D1 Arkema | 45k coins | +26.8% | 0% |
-| Caitlin Cosme | 88 | D1 Arkema | 22k coins | +26.4% | +23% |
-| Mia Hamm | 93 | Icons | 820k coins | +20.6% | +9.3% |
-| Carson Pickett | 86 | NWSL | 45k coins | +19.2% | +73.1% |
-| Alex Morgan | 93 | Icons | 588k coins | +18.1% | -8.7% |
-| Mia Hamm | 94 | Icons | 1.03M coins | +18% | -20.4% |
+| Malik Tillman | 88 | Bundesliga | 237k coins | +46.3% | +121.5% |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +40.8% | +8.7% |
+| Tim Ream | 85 | MLS | 79k coins | +39.8% | -21% |
+| Taylor Flint | 88 | NWSL | 225k coins | +32.9% | +4.5% |
+| Rose Lavelle | 88 | NWSL | 51k coins | +31.6% | +12.1% |
+| Daniel Munie | 84 | MLS | 45k coins | +31.4% | +4% |
+| Sergiño Dest | 86 | Eredivisie | 97k coins | +29.3% | +32.9% |
+| Lindsey Heaps | 88 | D1 Arkema | 136k coins | +22.5% | +23.6% |
+| Alex Pfeiffer | 90 | NWSL | 170k coins | +20% | -31.8% |
+| Carson Pickett | 86 | NWSL | 45k coins | +19.2% | +78.2% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**26/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Malik Tillman (88)** subiu **+53.7%** em 24h, a **245k coins** (faixa do dia: 146k–250k). Está +33% acima da média de 7 dias (aquecida).
+- **Malik Tillman (88)** subiu **+46.3%** em 24h, a **237k coins** (faixa do dia: 146k–250k). Está +27% acima da média de 7 dias (aquecida).
 
-- **Alex Pfeiffer (90)** subiu **+31.7%** em 24h, a **179k coins** (faixa do dia: 110k–216k). Está -9% abaixo da média de 7 dias (descontada).
+- **Korbin Shrader (84)** subiu **+40.8%** em 24h, a **50k coins** (faixa do dia: 40k–50k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Sergiño Dest (86)** subiu **+29.1%** em 24h, a **104k coins** (faixa do dia: 69k–108k). Está em linha com a média de 7 dias (-3%).
+- **Tim Ream (85)** subiu **+39.8%** em 24h, a **79k coins** (faixa do dia: 55k–100k). Está em linha com a média de 7 dias (-0%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Weston McKennie | 92 | Serie A TIM | 56k coins | -34.6% | +4.9% |
-| Clint Dempsey | 89 | Premier League | 113k coins | -28.6% | -47.4% |
-| Alex Morgan | 91 | Icons | 900k coins | -25% | -50% |
-| Ashley Sanchez | 87 | NWSL | 28k coins | -22.3% | -54.4% |
-| Daniel Munie | 84 | MLS | 45k coins | -21.4% | -29.7% |
-| Alex Morgan | 91 | Icons | 310k coins | -8.8% | -38% |
-| Trinity Rodman | 88 | NWSL | 181k coins | -8.7% | +5% |
-| Haji Wright | 84 | EFL Championship | 50k coins | -5.2% | -0.5% |
-| Tim Ream | 85 | MLS | 79k coins | -3.6% | -19% |
-| Christian Pulisic | 86 | Serie A TIM | 46k coins | -3.6% | -5.9% |
+| Julie Foudy | 91 | Icons | 25k coins | -48% | -33.8% |
+| Brad Guzan | 84 | MLS | 51k coins | -32% | +29.9% |
+| Trinity Rodman | 88 | NWSL | 143k coins | -30% | -19.4% |
+| Ashley Sanchez | 87 | NWSL | 26k coins | -24.3% | -59.1% |
+| Alex Morgan | 91 | Icons | 297k coins | -23.8% | -34% |
+| Alex Morgan | 91 | Icons | 900k coins | -16.7% | -50% |
+| Haji Wright | 84 | EFL Championship | 44k coins | -16.2% | -12% |
+| Christian Pulisic | 86 | Serie A TIM | 44k coins | -11.7% | -11.7% |
+| Weston McKennie | 92 | Serie A TIM | 50k coins | -11.2% | +13.8% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 44k coins | -10% | -4.8% |
 
 
 ### Análise das baixas
 
-- **Weston McKennie (92)** caiu **-34.6%** em 24h, a **56k coins** (faixa do dia: 48k–90k). Está em linha com a média de 7 dias (+4%).
+- **Julie Foudy (91)** caiu **-48%** em 24h, a **25k coins** (faixa do dia: 14.000–51k). Está -46% abaixo da média de 7 dias (descontada).
 
-- **Clint Dempsey (89)** caiu **-28.6%** em 24h, a **113k coins** (faixa do dia: 96k–160k). Está -29% abaixo da média de 7 dias (descontada).
+- **Brad Guzan (84)** caiu **-32%** em 24h, a **51k coins** (faixa do dia: 51k–74k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Alex Morgan (91)** caiu **-25%** em 24h, a **900k coins** (faixa do dia: 900k–1.20M). Está -37% abaixo da média de 7 dias (descontada).
+- **Trinity Rodman (88)** caiu **-30%** em 24h, a **143k coins** (faixa do dia: 131k–217k). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Malik Tillman já avançou 53.7% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Malik Tillman já avançou 46.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Weston McKennie recuou -34.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Julie Foudy recuou -48%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Malik Tillman (88, Bundesliga), com +53.7% em 24h, a 245k coins no PC.
+Malik Tillman (88, Bundesliga), com +46.3% em 24h, a 237k coins no PC.
 
 **E a maior queda do dia?**
-Weston McKennie (92), -34.6% em 24h, a 56k coins.
+Julie Foudy (91), -48% em 24h, a 25k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 31 em queda (média -2.65%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 26 cartas em alta contra 34 em queda (média 0.8%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
