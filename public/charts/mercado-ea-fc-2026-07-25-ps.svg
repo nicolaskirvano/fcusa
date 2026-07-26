@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tim Ream</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Croix Bethune</text>
-<rect x="285" y="153" width="400" height="28" rx="7" fill="#22c55e"/>
-<text x="695" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Clint Dempsey</text>
-<rect x="285" y="211" width="339" height="28" rx="7" fill="#22c55e"/>
-<text x="634" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Trinity Rodman</text>
-<rect x="285" y="269" width="317" height="28" rx="7" fill="#22c55e"/>
-<text x="612" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Brad Guzan</text>
-<rect x="285" y="327" width="233" height="28" rx="7" fill="#22c55e"/>
-<text x="528" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+17.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Carson Pickett</text>
-<rect x="285" y="385" width="207" height="28" rx="7" fill="#22c55e"/>
-<text x="502" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+15.3%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+59.4%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lily Yohannes</text>
+<rect x="285" y="153" width="457" height="28" rx="7" fill="#22c55e"/>
+<text x="752" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Michelle Cooper</text>
+<rect x="285" y="211" width="411" height="28" rx="7" fill="#22c55e"/>
+<text x="706" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Luna</text>
+<rect x="285" y="269" width="382" height="28" rx="7" fill="#22c55e"/>
+<text x="677" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+47.3%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
+<rect x="285" y="327" width="337" height="28" rx="7" fill="#22c55e"/>
+<text x="632" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+41.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
+<rect x="285" y="385" width="217" height="28" rx="7" fill="#22c55e"/>
+<text x="512" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.9%</text>
 </svg>
