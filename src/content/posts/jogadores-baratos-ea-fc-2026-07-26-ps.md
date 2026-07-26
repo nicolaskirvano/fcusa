@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T19:33:11.000Z
+pubDatetime: 2026-07-26T22:33:12.000Z
 title: "Jogadores baratos EA FC: Americanos em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 12.607 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 12.393 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,11 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Diego Luna | 89 | LM | MLS | 13.750 coins | -1.8% |
-| Julie Foudy | 88 | CM | Icons | 11.000 coins | -14.8% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 12.750 coins | -5.4% |
-| Alex Freeman | 88 | RB | LALIGA EA SPORTS | 14.000 coins | -11.3% |
-| Landon Donovan | 86 | CAM | MLS | 14.000 coins | +7.7% |
+| Julie Foudy | 88 | CM | Icons | 12.500 coins | +13.6% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 11.750 coins | 0% |
+| Jack McGlynn | 87 | CM | MLS | 14.250 coins | +17.3% |
+| Landon Donovan | 86 | CAM | MLS | 12.750 coins | +16% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.750 coins | +23.4% |
 
 
 ## 📈 Destaques
@@ -55,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Luna (89, LM)** da MLS, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (88, CM)** da Icons, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jack McGlynn (87, CM)** da MLS, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
