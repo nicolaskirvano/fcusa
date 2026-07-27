@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:33:21.000Z
+pubDatetime: 2026-07-27T13:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.250 coins.
+- **Preço médio das 6 opções:** 9.683 coins.
 - **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 10.750 a 12.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.100 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,8 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 12.000 coins | -4% |
-| Tim Howard | 85 | GK | Premier League | 10.750 coins | -10.4% |
+| Sophia Wilson | 88 | ST | NWSL | 2.100 coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 11.750 coins | -6% |
+| Tim Howard | 85 | GK | Premier League | 10.750 coins | -2.1% |
 | DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | 0% |
 
 
@@ -53,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **2.100 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Landon Donovan (86, CAM)** da MLS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Tim Howard (85, GK)** da Premier League, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -65,6 +66,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
+
+- **Ataque:** Sophia Wilson (88, ST) por 2.100 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -101,6 +104,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Americanos em 27/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-27-pc/)
 - [Mercado EA FC em 27/07: Americanos — PC](/posts/mercado-ea-fc-2026-07-27-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
