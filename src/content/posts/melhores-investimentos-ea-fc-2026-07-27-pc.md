@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:33:19.000Z
+pubDatetime: 2026-07-27T19:33:20.000Z
 title: "Investimentos EA FC: Americanos em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Lindsey Heaps (88, D1 Arkema) lidera, com +81.7% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lindsey Heaps (88, D1 Arkema) lidera, com +50% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lindsey Heaps (88) acumula **+81.7% em 7 dias** a 169k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lindsey Heaps (88) acumula **+50% em 7 dias** a 120k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.8% em 24h** e **+17.9% em 7 dias**.
-- **5 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.3% em 24h** e **+32.1% em 7 dias**.
+- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 88 | D1 Arkema | 169k coins | +39% | +81.7% | Esticada |
-| Jaedyn Shaw | 89 | NWSL | 47k coins | +7.5% | +41.7% | Momentum moderado |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 58k coins | +25.7% | +36.9% | Esticada |
-| DaMarcus Beasley | 88 | MLS | 25k coins | +14.4% | +19.8% | Momentum moderado |
-| Rose Lavelle | 88 | NWSL | 60k coins | +20.2% | +19% | Esticada |
-| Diego Luna | 89 | MLS | 27k coins | +2.8% | +16.8% | Entrada a observar |
-| Weston McKennie | 84 | Serie A TIM | 44k coins | +9.9% | +14.8% | Momentum moderado |
-| Trinity Rodman | 88 | NWSL | 200k coins | +39.9% | +11.1% | Esticada |
-| Christian Pulisic | 86 | Serie A TIM | 54k coins | +23% | +10.3% | Esticada |
-| Mary Alice Vignola | 85 | NWSL | 27k coins | +15.4% | +9.4% | Momentum moderado |
+| Lindsey Heaps | 88 | D1 Arkema | 120k coins | +10.3% | +50% | Momentum moderado |
+| Jaedyn Shaw | 89 | NWSL | 43k coins | +5.9% | +35.6% | Momentum moderado |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 40k coins | +12.1% | +32.1% | Momentum moderado |
+| DeAndre Yedlin | 86 | MLS | 32k coins | +14.5% | +31.4% | Momentum moderado |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 44k coins | +2.4% | +14.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Lindsey Heaps (88)** — 169k coins, **+81.7% em 7 dias** (+39% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (88)** — 120k coins, **+50% em 7 dias** (+10.3% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jaedyn Shaw (89)** — 47k coins, **+41.7% em 7 dias** (+7.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaedyn Shaw (89)** — 43k coins, **+35.6% em 7 dias** (+5.9% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hinata Miyazawa (87)** — 58k coins, **+36.9% em 7 dias** (+25.7% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hinata Miyazawa (87)** — 40k coins, **+32.1% em 7 dias** (+12.1% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **DaMarcus Beasley (88)** — 25k coins, **+19.8% em 7 dias** (+14.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **DeAndre Yedlin (86)** — 32k coins, **+31.4% em 7 dias** (+14.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (88)** — 60k coins, **+19% em 7 dias** (+20.2% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Phallon Tullis-Joyce (86)** — 44k coins, **+14.5% em 7 dias** (+2.4% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +78,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Lindsey Heaps (88, D1 Arkema) lidera, com +81.7% em 7 dias a 169k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lindsey Heaps (88, D1 Arkema) lidera, com +50% em 7 dias a 120k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

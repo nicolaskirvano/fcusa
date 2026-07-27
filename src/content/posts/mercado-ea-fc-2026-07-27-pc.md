@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:33:18.000Z
+pubDatetime: 2026-07-27T19:33:19.000Z
 title: "Mercado EA FC em 27/07: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 27/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
-    a: "Lindsey Heaps (91, D1 Arkema), com +55.8% em 24h, a 58k coins no PC."
+    a: "Lindsey Heaps (90, D1 Arkema), com +60% em 24h, a 92k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Brad Guzan (84), -42.6% em 24h, a 29k coins."
+    a: "Brad Guzan (84), -42.5% em 24h, a 28k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 21 em queda (média 15.88%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 26 cartas em alta contra 20 em queda (média 12.92%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **30 subiram** e **21 caíram**, com variação média de **15.88%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **20 caíram**, com variação média de **12.92%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Lindsey Heaps (91) **+55.8%** · 🔴 **Maior baixa:** Brad Guzan (84) **-42.6%**
+> 🟢 **Maior alta:** Lindsey Heaps (90) **+60%** · 🔴 **Maior baixa:** Brad Guzan (84) **-42.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 27/07: Americanos — PC](/charts/mercado-ea-fc-2026-07-27-pc.svg)
 
@@ -35,24 +35,24 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 58.8% entre as cartas que se moveram; o universo observado reúne 64 cartas.
-- **Concentração:** NWSL aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 102.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 56.5% entre as cartas que se moveram; o universo observado reúne 61 cartas.
+- **Concentração:** NWSL aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 91 | D1 Arkema | 58k coins | +55.8% | -31.4% |
-| Trinity Rodman | 88 | NWSL | 200k coins | +39.9% | +11.1% |
-| Lindsey Heaps | 88 | D1 Arkema | 169k coins | +39% | +81.7% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 58k coins | +25.7% | +36.9% |
-| Alex Pfeiffer | 90 | NWSL | 185k coins | +24.5% | -3.5% |
-| Christian Pulisic | 86 | Serie A TIM | 54k coins | +23% | +10.3% |
-| Rose Lavelle | 88 | NWSL | 60k coins | +20.2% | +19% |
-| Michelle Cooper | 87 | NWSL | 20k coins | +19.4% | +3.9% |
-| Mary Alice Vignola | 85 | NWSL | 27k coins | +15.4% | +9.4% |
-| Croix Bethune | 84 | NWSL | 44k coins | +14.8% | -0.6% |
+| Lindsey Heaps | 90 | D1 Arkema | 92k coins | +60% | +80.4% |
+| Lindsey Heaps | 91 | D1 Arkema | 82k coins | +50.6% | -29.7% |
+| Alex Pfeiffer | 90 | NWSL | 210k coins | +40.4% | +3.5% |
+| Mary Alice Vignola | 85 | NWSL | 24k coins | +34.2% | -9.3% |
+| Christian Pulisic | 86 | Serie A TIM | 54k coins | +32.9% | +0.9% |
+| Croix Bethune | 84 | NWSL | 45k coins | +16.1% | +0.6% |
+| DeAndre Yedlin | 86 | MLS | 32k coins | +14.5% | +31.4% |
+| Clint Dempsey | 89 | Premier League | 172k coins | +13.8% | -17.8% |
+| Alex Morgan | 93 | Icons | 580k coins | +6.4% | -4.6% |
+| Jaedyn Shaw | 89 | NWSL | 43k coins | +5.9% | +35.6% |
 
 
 ### Análise das altas
@@ -61,41 +61,38 @@ Em **27/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Lindsey Heaps (91)** subiu **+55.8%** em 24h, a **58k coins** (faixa do dia: 33k–100k). Está -22% abaixo da média de 7 dias (descontada).
+- **Lindsey Heaps (90)** subiu **+60%** em 24h, a **92k coins** (faixa do dia: 57k–94k). Está +37% acima da média de 7 dias (aquecida).
 
-- **Trinity Rodman (88)** subiu **+39.9%** em 24h, a **200k coins** (faixa do dia: 125k–200k). Está em linha com a média de 7 dias (+0%).
+- **Lindsey Heaps (91)** subiu **+50.6%** em 24h, a **82k coins** (faixa do dia: 33k–100k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Lindsey Heaps (88)** subiu **+39%** em 24h, a **169k coins** (faixa do dia: 135k–189k). Está +24% acima da média de 7 dias (aquecida).
+- **Alex Pfeiffer (90)** subiu **+40.4%** em 24h, a **210k coins** (faixa do dia: 142k–276k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Brad Guzan | 84 | MLS | 29k coins | -42.6% | -60.3% |
-| Taylor Flint | 88 | NWSL | 112k coins | -33.3% | -25.4% |
-| Mia Hamm | 93 | Icons | 540k coins | -24.8% | -43.4% |
-| Malik Tillman | 88 | Bundesliga | 193k coins | -15.1% | -9.6% |
-| Tim Ream | 85 | MLS | 66k coins | -10.8% | +135% |
-| Korbin Shrader | 84 | D1 Arkema | 45k coins | -10% | +1.1% |
-| Alex Morgan | 93 | Icons | 490k coins | -9.6% | -18.9% |
-| Daniel Munie | 84 | MLS | 44k coins | -3.3% | +6.7% |
+| Brad Guzan | 84 | MLS | 28k coins | -42.5% | -59.5% |
+| Tim Ream | 85 | MLS | 62k coins | -29.1% | +115% |
+| Julie Foudy | 91 | Icons | 20k coins | -11.8% | -54.4% |
+| Diego Luna | 89 | MLS | 28k coins | -8.3% | +8.8% |
+| Lily Yohannes | 84 | D1 Arkema | 45k coins | -3.5% | -8.8% |
 
 
 ### Análise das baixas
 
-- **Brad Guzan (84)** caiu **-42.6%** em 24h, a **29k coins** (faixa do dia: 23k–50k). Está -53% abaixo da média de 7 dias (descontada).
+- **Brad Guzan (84)** caiu **-42.5%** em 24h, a **28k coins** (faixa do dia: 23k–50k). Está -53% abaixo da média de 7 dias (descontada).
 
-- **Taylor Flint (88)** caiu **-33.3%** em 24h, a **112k coins** (faixa do dia: 99k–270k). Está -45% abaixo da média de 7 dias (descontada).
+- **Tim Ream (85)** caiu **-29.1%** em 24h, a **62k coins** (faixa do dia: 50k–95k). Está -20% abaixo da média de 7 dias (descontada).
 
-- **Mia Hamm (93)** caiu **-24.8%** em 24h, a **540k coins** (faixa do dia: 524k–1M). Está -38% abaixo da média de 7 dias (descontada).
+- **Julie Foudy (91)** caiu **-11.8%** em 24h, a **20k coins** (faixa do dia: 11.500–22k). Está -53% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Lindsey Heaps já avançou 55.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Lindsey Heaps já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Brad Guzan recuou -42.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Brad Guzan recuou -42.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,13 +104,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (27/07/2026)?**
-Lindsey Heaps (91, D1 Arkema), com +55.8% em 24h, a 58k coins no PC.
+Lindsey Heaps (90, D1 Arkema), com +60% em 24h, a 92k coins no PC.
 
 **E a maior queda do dia?**
-Brad Guzan (84), -42.6% em 24h, a 29k coins.
+Brad Guzan (84), -42.5% em 24h, a 28k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 30 cartas em alta contra 21 em queda (média 15.88%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 26 cartas em alta contra 20 em queda (média 12.92%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
