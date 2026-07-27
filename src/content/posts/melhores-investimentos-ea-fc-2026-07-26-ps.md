@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:33:10.000Z
+pubDatetime: 2026-07-27T01:33:10.000Z
 title: "Investimentos EA FC: Americanos em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Olivia Moultrie (86, NWSL) lidera, com +58.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Michelle Cooper (87, NWSL) lidera, com +70.7% em 7 dias a 15.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Olivia Moultrie (86) acumula **+58.6% em 7 dias** a 25k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Michelle Cooper (87) acumula **+70.7% em 7 dias** a 15.500 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.0% em 24h** e **+30.2% em 7 dias**.
-- **2 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.8% em 24h** e **+34.2% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olivia Moultrie | 86 | NWSL | 25k coins | +17.9% | +58.6% | Momentum moderado |
-| Lindsey Heaps | 88 | D1 Arkema | 131k coins | +32.2% | +56.7% | Esticada |
-| Catarina Macario | 87 | Barclays WSL | 25k coins | +7.6% | +50% | Momentum moderado |
-| Rose Lavelle | 88 | NWSL | 54k coins | +10.9% | +39.4% | Momentum moderado |
-| Mary Alice Vignola | 85 | NWSL | 17.000 coins | +35.3% | +30.2% | Esticada |
-| Haji Wright | 84 | EFL Championship | 46k coins | +6.7% | +28.4% | Momentum moderado |
-| Trinity Rodman | 87 | NWSL | 158k coins | +5.2% | +22% | Momentum moderado |
-| Croix Bethune | 84 | NWSL | 50k coins | +2.9% | +10.4% | Entrada a observar |
-| Daniel Munie | 84 | MLS | 40k coins | +9% | +9% | Momentum moderado |
+| Michelle Cooper | 87 | NWSL | 15.500 coins | +23.8% | +70.7% | Esticada |
+| Catarina Macario | 87 | Barclays WSL | 23k coins | +7.6% | +50% | Momentum moderado |
+| Haji Wright | 84 | EFL Championship | 48k coins | +19.8% | +39.5% | Momentum moderado |
+| Jaedyn Shaw | 89 | NWSL | 42k coins | +34.2% | +34.2% | Esticada |
+| Croix Bethune | 84 | NWSL | 48k coins | +7.5% | +22.7% | Momentum moderado |
+| Mary Alice Vignola | 85 | NWSL | 16.250 coins | +25% | +20.4% | Esticada |
+| Daniel Munie | 84 | MLS | 42k coins | +6.9% | +9.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Olivia Moultrie (86)** — 25k coins, **+58.6% em 7 dias** (+17.9% em 24h). Preço +59% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 15.500 coins, **+70.7% em 7 dias** (+23.8% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (88)** — 131k coins, **+56.7% em 7 dias** (+32.2% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Catarina Macario (87)** — 23k coins, **+50% em 7 dias** (+7.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Catarina Macario (87)** — 25k coins, **+50% em 7 dias** (+7.6% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Haji Wright (84)** — 48k coins, **+39.5% em 7 dias** (+19.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (88)** — 54k coins, **+39.4% em 7 dias** (+10.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaedyn Shaw (89)** — 42k coins, **+34.2% em 7 dias** (+34.2% em 24h). Preço +75% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mary Alice Vignola (85)** — 17.000 coins, **+30.2% em 7 dias** (+35.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Croix Bethune (84)** — 48k coins, **+22.7% em 7 dias** (+7.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +80,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Olivia Moultrie (86, NWSL) lidera, com +58.6% em 7 dias a 25k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Michelle Cooper (87, NWSL) lidera, com +70.7% em 7 dias a 15.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:33:12.000Z
+pubDatetime: 2026-07-27T01:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 12.393 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 12.250 coins.
+- **Posição mais frequente:** CM, com 2 cartas.
+- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,11 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 12.500 coins | +13.6% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 11.750 coins | 0% |
-| Jack McGlynn | 87 | CM | MLS | 14.250 coins | +17.3% |
-| Landon Donovan | 86 | CAM | MLS | 12.750 coins | +16% |
-| DaMarcus Beasley | 85 | LM | MLS | 12.750 coins | +23.4% |
+| Jack McGlynn | 87 | CM | MLS | 12.000 coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 14.000 coins | +21.3% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.500 coins | +35.6% |
 
 
 ## 📈 Destaques
@@ -55,11 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jack McGlynn (87, CM)** da MLS, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.000 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Jack McGlynn (87, CM)** da MLS, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
