@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:33:12.000Z
+pubDatetime: 2026-07-27T22:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 9.930 coins.
-- **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 2.400 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 10.156 coins.
+- **Posição mais frequente:** LB, com 2 cartas.
+- **Faixa real:** 1.900 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 2.400 coins | +28.6% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 11.000 coins | -6.4% |
-| Timothy Weah | 85 | RB | Ligue 1 McDonald's | 13.500 coins | -13.7% |
+| Sophia Wilson | 88 | ST | NWSL | 2.000 coins | +42.9% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 12.500 coins | +9.1% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 12.500 coins | +36.2% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.500 coins | +1.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 13.250 coins | -9.5% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14.000 coins | -11.8% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 1.900 coins | +11.1% |
 
 
 ## 📈 Destaques
@@ -53,11 +57,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Sophia Wilson (88, ST)** da NWSL, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Timothy Weah (85, RB)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
@@ -66,7 +70,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sophia Wilson (88, ST) por 2.400 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Wilson (88, ST) por 2.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

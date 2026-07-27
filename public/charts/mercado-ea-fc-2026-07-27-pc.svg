@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 24h</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sydney Leroux</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.2%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
-<rect x="285" y="153" width="405" height="28" rx="7" fill="#22c55e"/>
-<text x="700" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+50.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Pfeiffer</text>
-<rect x="285" y="211" width="323" height="28" rx="7" fill="#22c55e"/>
-<text x="618" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+40.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mary Alice Vignola</text>
-<rect x="285" y="269" width="274" height="28" rx="7" fill="#22c55e"/>
-<text x="569" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
-<rect x="285" y="327" width="263" height="28" rx="7" fill="#22c55e"/>
-<text x="558" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Croix Bethune</text>
-<rect x="285" y="385" width="129" height="28" rx="7" fill="#22c55e"/>
-<text x="424" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.1%</text>
+<rect x="285" y="153" width="431" height="28" rx="7" fill="#22c55e"/>
+<text x="726" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.6%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mary Alice Vignola</text>
+<rect x="285" y="211" width="318" height="28" rx="7" fill="#22c55e"/>
+<text x="613" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.3%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alex Pfeiffer</text>
+<rect x="285" y="269" width="265" height="28" rx="7" fill="#22c55e"/>
+<text x="560" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.4%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Catarina Macario</text>
+<rect x="285" y="327" width="176" height="28" rx="7" fill="#22c55e"/>
+<text x="471" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Naomi Girma</text>
+<rect x="285" y="385" width="106" height="28" rx="7" fill="#22c55e"/>
+<text x="401" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.8%</text>
 </svg>
