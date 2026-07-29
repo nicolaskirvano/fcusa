@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:33:11.000Z
+pubDatetime: 2026-07-29T22:33:12.000Z
 title: "Jogadores baratos EA FC: Americanos em 29/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.750 coins.
+- **Preço médio das 7 opções:** 10.921 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 2.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.200 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 12.500 coins | -5.7% |
-| Landon Donovan | 86 | CAM | MLS | 13.750 coins | -9.4% |
+| Catarina Macario | 87 | CAM | Barclays WSL | 14.000 coins | +27.7% |
+| Landon Donovan | 86 | CAM | MLS | 12.250 coins | -9.4% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | +9.1% |
 | Madison Haley | 85 | RW | Barclays WSL | 13.000 coins | +13% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.500 coins | -10.7% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 3.200 coins | +14.3% |
 
 
 ## 📈 Destaques
@@ -54,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **12.500 coins**
+- **Catarina Macario (87, CAM)** da Barclays WSL, a apenas **14.000 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **12.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **13.000 coins**
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca

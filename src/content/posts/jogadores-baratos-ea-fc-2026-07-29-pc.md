@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:33:20.000Z
+pubDatetime: 2026-07-29T22:33:21.000Z
 title: "Jogadores baratos EA FC: Americanos em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 8.388 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 2.700 a 12.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 10.979 coins.
+- **Posição mais frequente:** CM, com 2 cartas.
+- **Faixa real:** 3.100 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,12 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 3.100 coins | +55.6% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 12.500 coins | +22.7% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 2.800 coins | +25.9% |
-| Landon Donovan | 86 | CAM | MLS | 12.250 coins | 0% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.000 coins | -2.1% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.700 coins | +16.7% |
+| Julie Foudy | 88 | CM | Icons | 11.750 coins | +4.4% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 13.500 coins | +22.7% |
+| Landon Donovan | 86 | CAM | MLS | 14.250 coins | +6.1% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | -2.1% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 3.100 coins | +25% |
 
 
 ## 📈 Destaques
@@ -56,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **3.100 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Julie Foudy (88, CM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.250 coins**
 
 
 ## Como distribuir a banca
@@ -68,8 +67,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Sophia Wilson (88, ST) por 3.100 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
