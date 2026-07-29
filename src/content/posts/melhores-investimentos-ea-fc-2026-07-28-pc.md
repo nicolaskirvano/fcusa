@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T22:33:21.000Z
+pubDatetime: 2026-07-29T01:33:18.000Z
 title: "Investimentos EA FC: Americanos em 28/07 — PC"
 draft: false
 featured: true
