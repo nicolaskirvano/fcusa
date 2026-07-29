@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T10:33:10.000Z
+pubDatetime: 2026-07-29T13:33:08.000Z
 title: "Mercado EA FC em 29/07: Americanos — Console (PS)"
 draft: false
 featured: true
