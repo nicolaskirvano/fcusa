@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:33:21.000Z
+pubDatetime: 2026-07-30T01:33:23.000Z
 title: "Jogadores baratos EA FC: Americanos em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.979 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 3.100 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 10.383 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 3.300 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,11 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Julie Foudy | 88 | CM | Icons | 11.750 coins | +4.4% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 13.500 coins | +22.7% |
-| Landon Donovan | 86 | CAM | MLS | 14.250 coins | +6.1% |
+| Jack McGlynn | 87 | CM | MLS | 11.750 coins | +15.9% |
+| Lindsey Horan | 86 | CM | Arkema PL | 3.300 coins | -7.4% |
+| Landon Donovan | 86 | CAM | MLS | 13.000 coins | +24.5% |
 | DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | -2.1% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 3.100 coins | +25% |
 
 
 ## 📈 Destaques
@@ -55,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julie Foudy (88, CM)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jack McGlynn (87, CM)** da MLS, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Lindsey Horan (86, CM)** da Arkema PL, a apenas **3.300 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **14.250 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
