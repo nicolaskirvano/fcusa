@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:33:11.000Z
+pubDatetime: 2026-07-30T22:33:12.000Z
 title: "Jogadores baratos EA FC: Americanos em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 11.625 coins.
+- **Preço médio das 6 opções:** 12.333 coins.
 - **Posição mais frequente:** LB, com 2 cartas.
-- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,12 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14.500 coins | +24.5% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | -11.5% |
-| Malik Tillman | 85 | CAM | Bundesliga | 14.000 coins | +23.5% |
-| Mary Alice Vignola | 85 | LB | NWSL | 14.000 coins | +11.1% |
-| DaMarcus Beasley | 85 | LM | MLS | 14.250 coins | +3.6% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.000 coins | -10.7% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 11.250 coins | +4.3% |
+| Landon Donovan | 86 | CAM | MLS | 14.250 coins | +9.6% |
+| Mary Alice Vignola | 85 | LB | NWSL | 11.500 coins | -8% |
+| DaMarcus Beasley | 85 | LM | MLS | 14.250 coins | +9.6% |
 
 
 ## 📈 Destaques
@@ -56,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.250 coins**
 
-- **Malik Tillman (85, CAM)** da Bundesliga, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -68,8 +66,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Madison Haley (85, RW) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

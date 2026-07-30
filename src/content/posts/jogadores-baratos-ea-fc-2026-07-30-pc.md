@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:33:20.000Z
+pubDatetime: 2026-07-30T22:33:21.000Z
 title: "Jogadores baratos EA FC: Americanos em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.650 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 10.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 12.500 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 11.250 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,9 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 14.750 coins | +20.4% |
-| DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | -4.3% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 10.000 coins | -6.7% |
+| Julie Foudy | 88 | CM | Icons | 12.250 coins | +12.8% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14.000 coins | +17.9% |
+| Jack McGlynn | 87 | CM | MLS | 14.500 coins | +5.1% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -53,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Julie Foudy (88, CM)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **10.750 coins**
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Jack McGlynn (87, CM)** da MLS, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
