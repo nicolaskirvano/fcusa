@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:33:22.000Z
+pubDatetime: 2026-07-30T13:33:20.000Z
 title: "Investimentos EA FC: Americanos em 30/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+20.0% em 7 dias**.
-- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+7.2% em 24h** e **+26.5% em 7 dias**.
+- **5 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **NWSL** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,28 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rose Lavelle | 89 | NWSL | 70k coins | +35.9% | +86.7% | Esticada |
-| Rose Lavelle | 88 | NWSL | 62k coins | +1.6% | +68.9% | Esticada |
-| Christian Pulisic | 87 | Serie A TIM | 22k coins | +35.9% | +35.9% | Esticada |
-| Croix Bethune | 87 | NWSL | 44k coins | +35.7% | +34.3% | Esticada |
-| Sergiño Dest | 86 | Eredivisie | 141k coins | +5.9% | +20% | Momentum moderado |
-| Korbin Shrader | 84 | D1 Arkema | 50k coins | +10.5% | +14.9% | Momentum moderado |
-| Ashley Sanchez | 88 | NWSL | 100k coins | +8.2% | +10.6% | Momentum moderado |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +13.1% | +6.1% | Momentum moderado |
-| Catarina Macario | 87 | Barclays WSL | 24k coins | +4.3% | +5.5% | Entrada a observar |
+| Rose Lavelle | 89 | NWSL | 70k coins | +6.9% | +86.7% | Esticada |
+| Michelle Cooper | 87 | NWSL | 32k coins | +22.6% | +80.6% | Esticada |
+| Olivia Moultrie | 86 | NWSL | 31k coins | +5% | +73.6% | Esticada |
+| Lindsey Heaps | 90 | D1 Arkema | 64k coins | +5.7% | +26.5% | Momentum moderado |
+| Trinity Rodman | 87 | NWSL | 175k coins | +40% | +16.7% | Esticada |
+| Jack McGlynn | 87 | MLS | 32k coins | +7.2% | +15.5% | Momentum moderado |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 20k coins | +36.5% | +14.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Rose Lavelle (89)** — 70k coins, **+86.7% em 7 dias** (+35.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 70k coins, **+86.7% em 7 dias** (+6.9% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (88)** — 62k coins, **+68.9% em 7 dias** (+1.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 32k coins, **+80.6% em 7 dias** (+22.6% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Pulisic (87)** — 22k coins, **+35.9% em 7 dias** (+35.9% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Moultrie (86)** — 31k coins, **+73.6% em 7 dias** (+5% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Croix Bethune (87)** — 44k coins, **+34.3% em 7 dias** (+35.7% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (90)** — 64k coins, **+26.5% em 7 dias** (+5.7% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sergiño Dest (86)** — 141k coins, **+20% em 7 dias** (+5.9% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 175k coins, **+16.7% em 7 dias** (+40% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
