@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:33:19.000Z
+pubDatetime: 2026-07-30T19:33:19.000Z
 title: "Investimentos EA FC: Americanos em 30/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Rose Lavelle (89, NWSL) lidera, com +76% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Michelle Cooper (87, NWSL) lidera, com +84.3% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Rose Lavelle (89) acumula **+76% em 7 dias** a 64k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Michelle Cooper (87) acumula **+84.3% em 7 dias** a 32k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 30/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-30-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.4% em 24h** e **+23.4% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+5.7% em 24h** e **+33.5% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,27 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Rose Lavelle | 89 | NWSL | 64k coins | +7.3% | +76% | Esticada |
-| Malik Tillman | 88 | Bundesliga | 200k coins | +1.5% | +61.9% | Esticada |
-| Gisele Thompson | 90 | NWSL | 90k coins | +4.7% | +31.6% | Momentum moderado |
-| Olivia Moultrie | 86 | NWSL | 28k coins | +1.7% | +30% | Momentum moderado |
-| Trinity Rodman | 87 | NWSL | 175k coins | +40% | +16.7% | Esticada |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 22k coins | +36.5% | +14.7% | Esticada |
-| Alex Pfeiffer | 90 | NWSL | 210k coins | +14.5% | +9.6% | Momentum moderado |
-| Jack McGlynn | 87 | MLS | 25k coins | +9.5% | +9.5% | Momentum moderado |
+| Michelle Cooper | 87 | NWSL | 32k coins | +21.7% | +84.3% | Esticada |
+| Rose Lavelle | 89 | NWSL | 56k coins | +4.3% | +60% | Esticada |
+| Malik Tillman | 88 | Bundesliga | 188k coins | +3.8% | +52.4% | Momentum moderado |
+| Jaelin Howell | 89 | NWSL | 50k coins | +25% | +41.8% | Esticada |
+| Malik Tillman | 85 | Bundesliga | 30k coins | +13.8% | +25.3% | Momentum moderado |
+| Catarina Macario | 87 | Barclays WSL | 25k coins | +4.2% | +19% | Entrada a observar |
+| Olivia Moultrie | 86 | NWSL | 25k coins | +7.1% | +18% | Momentum moderado |
+| Croix Bethune | 87 | NWSL | 46k coins | +2.2% | +14.8% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Rose Lavelle (89)** — 64k coins, **+76% em 7 dias** (+7.3% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Michelle Cooper (87)** — 32k coins, **+84.3% em 7 dias** (+21.7% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (88)** — 200k coins, **+61.9% em 7 dias** (+1.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (89)** — 56k coins, **+60% em 7 dias** (+4.3% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gisele Thompson (90)** — 90k coins, **+31.6% em 7 dias** (+4.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malik Tillman (88)** — 188k coins, **+52.4% em 7 dias** (+3.8% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Olivia Moultrie (86)** — 28k coins, **+30% em 7 dias** (+1.7% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaelin Howell (89)** — 50k coins, **+41.8% em 7 dias** (+25% em 24h). Preço +63% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (87)** — 175k coins, **+16.7% em 7 dias** (+40% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malik Tillman (85)** — 30k coins, **+25.3% em 7 dias** (+13.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +81,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Rose Lavelle (89, NWSL) lidera, com +76% em 7 dias a 64k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Michelle Cooper (87, NWSL) lidera, com +84.3% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

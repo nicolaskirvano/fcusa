@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T16:33:20.000Z
+pubDatetime: 2026-07-30T19:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 7.200 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 11.650 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 10.000 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,12 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 1.900 coins | -3.3% |
-| Mallory Swanson | 87 | LM | NWSL | 1.700 coins | 0% |
-| Rose Lavelle | 87 | CM | NWSL | 1.700 coins | +13.3% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 3.300 coins | +6.1% |
 | Landon Donovan | 86 | CAM | MLS | 14.750 coins | +20.4% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | 0% |
+| DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | -4.3% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 10.000 coins | -6.7% |
 
 
 ## 📈 Destaques
@@ -56,11 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **1.900 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Mallory Swanson (87, LM)** da NWSL, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **10.750 coins**
 
-- **Rose Lavelle (87, CM)** da NWSL, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Catarina Macario (83, CAM)** da Barclays WSL, a apenas **10.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -68,8 +65,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Sophia Wilson (88, ST) por 1.900 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
