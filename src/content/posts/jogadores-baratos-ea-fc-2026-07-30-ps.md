@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T13:33:12.000Z
+pubDatetime: 2026-07-30T16:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 9.912 coins.
+- **Preço médio das 8 opções:** 10.356 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,12 +42,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 2.600 coins | +13% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 14.250 coins | +29.8% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 1.700 coins | +50% |
-| Landon Donovan | 86 | CAM | MLS | 14.750 coins | +10.3% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | -5.8% |
-| Malik Tillman | 85 | CAM | Bundesliga | 11.750 coins | -4.4% |
+| Sophia Wilson | 88 | ST | NWSL | 2.600 coins | +4% |
+| Julie Foudy | 88 | CM | Icons | 14.500 coins | -3.3% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 14.500 coins | +22% |
+| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | -11.5% |
+| Malik Tillman | 85 | CAM | Bundesliga | 14.500 coins | +9.8% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.500 coins | 0% |
 
 
 ## 📈 Destaques
@@ -58,9 +58,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sophia Wilson (88, ST)** da NWSL, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
+- **Julie Foudy (88, CM)** da Icons, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **14.500 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
