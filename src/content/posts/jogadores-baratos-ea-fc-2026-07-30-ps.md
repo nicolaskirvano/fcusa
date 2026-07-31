@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:33:12.000Z
+pubDatetime: 2026-07-31T01:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 12.333 coins.
-- **Posição mais frequente:** LB, com 2 cartas.
-- **Faixa real:** 11.250 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 12.792 coins.
+- **Posição mais frequente:** CM, com 2 cartas.
+- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 11.250 coins | +4.3% |
-| Landon Donovan | 86 | CAM | MLS | 14.250 coins | +9.6% |
-| Mary Alice Vignola | 85 | LB | NWSL | 11.500 coins | -8% |
+| Julie Foudy | 88 | CM | Icons | 12.000 coins | -12.1% |
+| Landon Donovan | 86 | CAM | MLS | 13.000 coins | +6.1% |
 | DaMarcus Beasley | 85 | LM | MLS | 14.250 coins | +9.6% |
+| Tim Howard | 85 | GK | Premier League | 14.750 coins | -5% |
 
 
 ## 📈 Destaques
@@ -54,11 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (88, CM)** da Icons, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **14.250 coins**
+- **Landon Donovan (86, CAM)** da MLS, a apenas **13.000 coins**
 
-- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **DaMarcus Beasley (85, LM)** da MLS, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
