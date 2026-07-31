@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T16:33:10.000Z
+pubDatetime: 2026-07-31T19:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.583 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 2.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 10.494 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,23 +42,26 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 13.750 coins | -4.9% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 11.750 coins | -13.8% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.750 coins | +10.9% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.500 coins | 0% |
+| Julie Foudy | 88 | CM | Icons | 13.500 coins | +17.4% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 1.500 coins | +60% |
+| Jack McGlynn | 87 | CM | MLS | 14.500 coins | +18.4% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.000 coins | +10.9% |
+| Mary Alice Vignola | 85 | LB | NWSL | 13.000 coins | -1.9% |
+| DaMarcus Beasley | 85 | LM | MLS | 14.500 coins | +1.8% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.700 coins | +12.5% |
 
 
 ## 📈 Destaques
 
-- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
 
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (88, CM)** da Icons, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **11.750 coins**
+- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Madison Haley (85, RW)** da Barclays WSL, a apenas **12.750 coins**
+- **Jack McGlynn (87, CM)** da MLS, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
@@ -67,7 +70,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Madison Haley (85, RW) por 12.750 coins é a referência de rating deste recorte.
+- **Ataque:** Madison Haley (85, RW) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -104,7 +107,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Americanos em 31/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-31-ps/)
 - [Mercado EA FC em 31/07: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-07-31-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
