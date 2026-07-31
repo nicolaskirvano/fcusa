@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:33:19.000Z
+pubDatetime: 2026-07-31T22:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 11.438 coins.
-- **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 10.750 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 10.058 coins.
+- **Posição mais frequente:** LB, com 2 cartas.
+- **Faixa real:** 2.600 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,8 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 12.250 coins | -6.8% |
-| DaMarcus Beasley | 85 | LM | MLS | 10.750 coins | -6.5% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 2.600 coins | -10% |
+| Landon Donovan | 86 | CAM | MLS | 12.750 coins | -13.6% |
+| Mary Alice Vignola | 85 | LB | NWSL | 11.000 coins | +13.3% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | -2.2% |
 
 
 ## 📈 Destaques
@@ -52,9 +54,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12.250 coins**
+- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **12.750 coins**
+
+- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -98,6 +102,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Americanos em 31/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-31-pc/)
 - [Mercado EA FC em 31/07: Americanos — PC](/posts/mercado-ea-fc-2026-07-31-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
