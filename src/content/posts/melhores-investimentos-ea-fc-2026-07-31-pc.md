@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:33:19.000Z
+pubDatetime: 2026-07-31T16:33:18.000Z
 title: "Investimentos EA FC: Americanos em 31/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Trinity Rodman (88, NWSL) lidera, com +67.8% em 7 dias a 220k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Malik Tillman (88, Bundesliga) lidera, com +46% em 7 dias a 231k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Trinity Rodman (88) acumula **+67.8% em 7 dias** a 220k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Malik Tillman (88) acumula **+46% em 7 dias** a 231k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 31/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-31-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.7% em 24h** e **+33.6% em 7 dias**.
-- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.3% em 24h** e **+28.7% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Trinity Rodman | 88 | NWSL | 220k coins | +7.8% | +67.8% | Esticada |
-| Malik Tillman | 88 | Bundesliga | 239k coins | +9.5% | +36% | Momentum moderado |
-| Lindsey Heaps | 90 | D1 Arkema | 98k coins | +33.1% | +31.3% | Esticada |
-| Haji Wright | 84 | EFL Championship | 52k coins | +4% | +5.5% | Entrada a observar |
+| Malik Tillman | 88 | Bundesliga | 231k coins | +17.5% | +46% | Momentum moderado |
+| Catarina Macario | 87 | Barclays WSL | 25k coins | +7.3% | +37.3% | Momentum moderado |
+| Trinity Rodman | 87 | NWSL | 193k coins | +10.3% | +28.7% | Momentum moderado |
+| Tara McKeown | 89 | NWSL | 26k coins | +7% | +17.6% | Momentum moderado |
+| Clint Dempsey | 89 | Premier League | 170k coins | +27.7% | +10.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Trinity Rodman (88)** — 220k coins, **+67.8% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malik Tillman (88)** — 231k coins, **+46% em 7 dias** (+17.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (88)** — 239k coins, **+36% em 7 dias** (+9.5% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Catarina Macario (87)** — 25k coins, **+37.3% em 7 dias** (+7.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (90)** — 98k coins, **+31.3% em 7 dias** (+33.1% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (87)** — 193k coins, **+28.7% em 7 dias** (+10.3% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 52k coins, **+5.5% em 7 dias** (+4% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tara McKeown (89)** — 26k coins, **+17.6% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Clint Dempsey (89)** — 170k coins, **+10.7% em 7 dias** (+27.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Trinity Rodman (88, NWSL) lidera, com +67.8% em 7 dias a 220k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Malik Tillman (88, Bundesliga) lidera, com +46% em 7 dias a 231k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
