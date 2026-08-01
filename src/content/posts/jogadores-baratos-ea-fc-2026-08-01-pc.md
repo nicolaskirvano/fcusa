@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:33:20.000Z
+pubDatetime: 2026-08-01T22:33:21.000Z
 title: "Jogadores baratos EA FC: Americanos em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 10.873 coins.
+- **Preço médio das 12 opções:** 10.158 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 2.600 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,9 +48,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Clint Dempsey | 89 | CAM | Premier League | 13.250 coins | 0% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
 | Trinity Rodman | 87 | RM | NWSL | 11.750 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 12.000 coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 12.500 coins | -14.3% |
+| Naomi Girma | 85 | CB | NWSL | 1.500 coins | -11.8% |
 | DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | 0% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.600 coins | +13.6% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.900 coins | +47.4% |
 
 
 ## 📈 Destaques
