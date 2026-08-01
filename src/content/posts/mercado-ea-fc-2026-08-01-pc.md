@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:33:17.000Z
+pubDatetime: 2026-08-01T16:33:18.000Z
 title: "Mercado EA FC em 01/08: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 01/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/08/2026)?"
-    a: "Jack McGlynn (87, MLS), com +58.5% em 24h, a 32k coins no PC."
+    a: "Mark McKenzie (90, Ligue 1 McDonald's), com +38.3% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lindsey Heaps (88), -42.9% em 24h, a 46k coins."
+    a: "Alex Pfeiffer (90), -50% em 24h, a 88k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 21 cartas em alta contra 26 em queda (média -7.5%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 31 em queda (média -9.53%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **26 caíram**, com variação média de **-7.5%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **vendedor** — a maioria das cartas recuou: das cartas relevantes (80+ acima de 5k coins), **16 subiram** e **31 caíram**, com variação média de **-9.53%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jack McGlynn (87) **+58.5%** · 🔴 **Maior baixa:** Lindsey Heaps (88) **-42.9%**
+> 🟢 **Maior alta:** Mark McKenzie (90) **+38.3%** · 🔴 **Maior baixa:** Alex Pfeiffer (90) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 01/08: Americanos — PC](/charts/mercado-ea-fc-2026-08-01-pc.svg)
 
@@ -35,24 +35,24 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.7% entre as cartas que se moveram; o universo observado reúne 57 cartas.
-- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 88.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 34.0% entre as cartas que se moveram; o universo observado reúne 60 cartas.
+- **Concentração:** NWSL aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jack McGlynn | 87 | MLS | 32k coins | +58.5% | +116.7% |
-| Jaedyn Shaw | 89 | NWSL | 32k coins | +42.1% | +26.7% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 48k coins | +38.3% | -2.5% |
+| Tim Howard | 85 | Premier League | 23k coins | +37.3% | +80.4% |
+| Mia Hamm | 94 | Icons | 1.60M coins | +32.7% | +6.7% |
+| Jaedyn Shaw | 89 | NWSL | 30k coins | +31.9% | +3.4% |
 | Trinity Rodman | 88 | NWSL | 240k coins | +27% | +15.9% |
-| Tara McKeown | 89 | NWSL | 28k coins | +27% | +17.7% |
-| Naomi Girma | 87 | Barclays WSL | 97k coins | +14.8% | +19.8% |
-| Trinity Rodman | 88 | NWSL | 247k coins | +12.3% | +6% |
-| Julie Foudy | 91 | Icons | 25k coins | +11.1% | -37.1% |
-| Caitlin Cosme | 88 | D1 Arkema | 29k coins | +8.4% | +61.1% |
-| Ricardo Pepi | 87 | Eredivisie | 34k coins | +6.9% | -9.7% |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +5.6% | +10.5% |
+| Naomi Girma | 87 | Barclays WSL | 95k coins | +18% | +17.3% |
+| Tara McKeown | 89 | NWSL | 28k coins | +13.1% | +16.7% |
+| Trinity Rodman | 88 | NWSL | 247k coins | +12.3% | +12.8% |
+| Christian Pulisic | 86 | Serie A TIM | 50k coins | +9.7% | +12.6% |
+| Ricardo Pepi | 87 | Eredivisie | 32k coins | +4% | -14.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **01/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jack McGlynn (87)** subiu **+58.5%** em 24h, a **32k coins** (faixa do dia: 11.000–32k). Está +58% acima da média de 7 dias (aquecida).
+- **Mark McKenzie (90)** subiu **+38.3%** em 24h, a **48k coins** (faixa do dia: 20k–94k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Jaedyn Shaw (89)** subiu **+42.1%** em 24h, a **32k coins** (faixa do dia: 21k–41k). Está em linha com a média de 7 dias (-6%).
+- **Tim Howard (85)** subiu **+37.3%** em 24h, a **23k coins** (faixa do dia: 11.500–43k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Trinity Rodman (88)** subiu **+27%** em 24h, a **240k coins** (faixa do dia: 189k–240k). Está +17% acima da média de 7 dias (aquecida).
+- **Mia Hamm (94)** subiu **+32.7%** em 24h, a **1.60M coins** (faixa do dia: 790k–1.60M). Está +67% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 88 | D1 Arkema | 46k coins | -42.9% | -57.6% |
-| Croix Bethune | 87 | NWSL | 36k coins | -15.4% | +58.8% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 43k coins | -15.1% | +25% |
+| Alex Pfeiffer | 90 | NWSL | 88k coins | -50% | -40% |
+| Lindsey Heaps | 88 | D1 Arkema | 46k coins | -42.9% | -57.2% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 41k coins | -17.2% | +9.3% |
+| Alex Morgan | 93 | Icons | 350k coins | -16.8% | -14.3% |
+| Lindsey Heaps | 91 | D1 Arkema | 40k coins | -12.2% | -44% |
 | Korbin Shrader | 84 | D1 Arkema | 45k coins | -10.5% | +9.1% |
-| Haji Wright | 84 | EFL Championship | 47k coins | -10.5% | -10.5% |
-| Alex Morgan | 91 | Icons | 360k coins | -10% | +20% |
-| Alex Morgan | 93 | Icons | 499k coins | -9.3% | -14.3% |
-| DeAndre Yedlin | 86 | MLS | 36k coins | -8.2% | +92.1% |
-| Rose Lavelle | 89 | NWSL | 42k coins | -7.2% | -40% |
-| Mia Hamm | 93 | Icons | 901k coins | -5.2% | +3.6% |
+| Malik Tillman | 85 | Bundesliga | 27k coins | -10% | +17.4% |
+| Croix Bethune | 84 | NWSL | 41k coins | -9.4% | -8.9% |
+| Jaelin Howell | 89 | NWSL | 20k coins | -9.1% | -45.6% |
+| Mia Hamm | 93 | Icons | 877k coins | -7.7% | +4.8% |
 
 
 ### Análise das baixas
 
+- **Alex Pfeiffer (90)** caiu **-50%** em 24h, a **88k coins** (faixa do dia: 52k–145k). Está -52% abaixo da média de 7 dias (descontada).
+
 - **Lindsey Heaps (88)** caiu **-42.9%** em 24h, a **46k coins** (faixa do dia: 46k–107k). Está -60% abaixo da média de 7 dias (descontada).
 
-- **Croix Bethune (87)** caiu **-15.4%** em 24h, a **36k coins** (faixa do dia: 34k–46k). Está +16% acima da média de 7 dias (aquecida).
-
-- **Hinata Miyazawa (87)** caiu **-15.1%** em 24h, a **43k coins** (faixa do dia: 35k–64k). Está -13% abaixo da média de 7 dias (descontada).
+- **Hinata Miyazawa (87)** caiu **-17.2%** em 24h, a **41k coins** (faixa do dia: 35k–64k). Está -18% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jack McGlynn já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Mark McKenzie já avançou 38.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lindsey Heaps recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alex Pfeiffer recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/08/2026)?**
-Jack McGlynn (87, MLS), com +58.5% em 24h, a 32k coins no PC.
+Mark McKenzie (90, Ligue 1 McDonald's), com +38.3% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
-Lindsey Heaps (88), -42.9% em 24h, a 46k coins.
+Alex Pfeiffer (90), -50% em 24h, a 88k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 21 cartas em alta contra 26 em queda (média -7.5%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 31 em queda (média -9.53%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

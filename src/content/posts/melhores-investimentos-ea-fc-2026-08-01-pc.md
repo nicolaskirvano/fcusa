@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:33:19.000Z
+pubDatetime: 2026-08-01T16:33:20.000Z
 title: "Investimentos EA FC: Americanos em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Caitlin Cosme (88, D1 Arkema) lidera, com +61.1% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tim Howard (85, Premier League) lidera, com +80.4% em 7 dias a 23k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Caitlin Cosme (88) acumula **+61.1% em 7 dias** a 29k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Tim Howard (85) acumula **+80.4% em 7 dias** a 23k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.4% em 24h** e **+16.8% em 7 dias**.
-- **3 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+16.7% em 7 dias**.
+- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Caitlin Cosme | 88 | D1 Arkema | 29k coins | +8.4% | +61.1% | Esticada |
-| Malik Tillman | 88 | Bundesliga | 240k coins | +3.9% | +49.1% | Momentum moderado |
-| Rose Lavelle | 88 | NWSL | 60k coins | +4.1% | +44.8% | Momentum moderado |
-| Taylor Flint | 88 | NWSL | 200k coins | +1% | +29.9% | Momentum moderado |
-| Naomi Girma | 87 | Barclays WSL | 97k coins | +14.8% | +19.8% | Momentum moderado |
-| Tara McKeown | 89 | NWSL | 28k coins | +27% | +17.7% | Esticada |
+| Tim Howard | 85 | Premier League | 23k coins | +37.3% | +80.4% | Esticada |
+| Diego Luna | 89 | MLS | 23k coins | +2.2% | +41.5% | Momentum moderado |
+| Naomi Girma | 87 | Barclays WSL | 95k coins | +18% | +17.3% | Momentum moderado |
+| Tara McKeown | 89 | NWSL | 28k coins | +13.1% | +16.7% | Momentum moderado |
 | Trinity Rodman | 88 | NWSL | 240k coins | +27% | +15.9% | Esticada |
-| Tim Ream | 85 | MLS | 100k coins | +5.3% | +11.1% | Momentum moderado |
-| Lily Yohannes | 84 | D1 Arkema | 48k coins | +5.6% | +10.5% | Momentum moderado |
-| Christian Pulisic | 86 | Serie A TIM | 54k coins | +3.9% | +10.3% | Entrada a observar |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 48k coins | +5% | +9.2% | Entrada a observar |
-| Trinity Rodman | 88 | NWSL | 247k coins | +12.3% | +6% | Momentum moderado |
+| Trinity Rodman | 88 | NWSL | 247k coins | +12.3% | +12.8% | Momentum moderado |
+| Christian Pulisic | 86 | Serie A TIM | 50k coins | +9.7% | +12.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Caitlin Cosme (88)** — 29k coins, **+61.1% em 7 dias** (+8.4% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tim Howard (85)** — 23k coins, **+80.4% em 7 dias** (+37.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Malik Tillman (88)** — 240k coins, **+49.1% em 7 dias** (+3.9% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diego Luna (89)** — 23k coins, **+41.5% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (88)** — 60k coins, **+44.8% em 7 dias** (+4.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Naomi Girma (87)** — 95k coins, **+17.3% em 7 dias** (+18% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Taylor Flint (88)** — 200k coins, **+29.9% em 7 dias** (+1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tara McKeown (89)** — 28k coins, **+16.7% em 7 dias** (+13.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Naomi Girma (87)** — 97k coins, **+19.8% em 7 dias** (+14.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Trinity Rodman (88)** — 240k coins, **+15.9% em 7 dias** (+27% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Caitlin Cosme (88, D1 Arkema) lidera, com +61.1% em 7 dias a 29k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tim Howard (85, Premier League) lidera, com +80.4% em 7 dias a 23k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
