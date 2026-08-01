@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:33:21.000Z
+pubDatetime: 2026-08-01T19:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.542 coins.
-- **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 2.500 a 11.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 10.873 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 2.600 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,33 +41,36 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Alyssa Thompson | 91 | LM | Barclays WSL | 12.500 coins | 0% |
+| Gisele Thompson | 90 | RB | NWSL | 11.250 coins | 0% |
+| Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 3.000 coins | +30.4% |
+| Clint Dempsey | 89 | CAM | Premier League | 13.250 coins | 0% |
+| DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
 | Trinity Rodman | 87 | RM | NWSL | 11.750 coins | 0% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | +2.2% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.500 coins | +13.6% |
+| Landon Donovan | 86 | CAM | MLS | 12.000 coins | 0% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | 0% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.600 coins | +13.6% |
 
 
 ## 📈 Destaques
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
+- **Alyssa Thompson (91, LM)** da Barclays WSL, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Gisele Thompson (90, RB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lindsey Heaps (90, CAM)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
-
-- **Sophia Wilson (88, ST)** da NWSL, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
-- **Trinity Rodman (87, RM)** da NWSL, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **DaMarcus Beasley (85, LM)** da MLS, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
+- **Defesa:** Gisele Thompson (90, RB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Sophia Wilson (88, ST) por 3.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:33:20.000Z
+pubDatetime: 2026-08-01T19:33:19.000Z
 title: "Investimentos EA FC: Americanos em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Tim Howard (85, Premier League) lidera, com +80.4% em 7 dias a 23k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Weston McKennie (92, Serie A TIM) lidera, com +56.1% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Tim Howard (85) acumula **+80.4% em 7 dias** a 23k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Weston McKennie (92) acumula **+56.1% em 7 dias** a 94k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.1% em 24h** e **+16.7% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **NWSL** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+17.3% em 7 dias**.
+- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Tim Howard | 85 | Premier League | 23k coins | +37.3% | +80.4% | Esticada |
-| Diego Luna | 89 | MLS | 23k coins | +2.2% | +41.5% | Momentum moderado |
-| Naomi Girma | 87 | Barclays WSL | 95k coins | +18% | +17.3% | Momentum moderado |
-| Tara McKeown | 89 | NWSL | 28k coins | +13.1% | +16.7% | Momentum moderado |
-| Trinity Rodman | 88 | NWSL | 240k coins | +27% | +15.9% | Esticada |
-| Trinity Rodman | 88 | NWSL | 247k coins | +12.3% | +12.8% | Momentum moderado |
-| Christian Pulisic | 86 | Serie A TIM | 50k coins | +9.7% | +12.6% | Momentum moderado |
+| Weston McKennie | 92 | Serie A TIM | 94k coins | +4.3% | +56.1% | Momentum moderado |
+| Riley Tiernan | 88 | NWSL | 31k coins | +26.2% | +42.1% | Esticada |
+| Malik Tillman | 85 | Bundesliga | 26k coins | +5.6% | +37.3% | Momentum moderado |
+| Naomi Girma | 87 | Barclays WSL | 95k coins | +21.8% | +17.3% | Esticada |
+| Tim Ream | 85 | MLS | 100k coins | +5.3% | +13.6% | Momentum moderado |
+| Christian Pulisic | 86 | Serie A TIM | 54k coins | +22.3% | +8.6% | Esticada |
+| Tara McKeown | 89 | NWSL | 28k coins | +13.1% | +7.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Tim Howard (85)** — 23k coins, **+80.4% em 7 dias** (+37.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (92)** — 94k coins, **+56.1% em 7 dias** (+4.3% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Diego Luna (89)** — 23k coins, **+41.5% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Riley Tiernan (88)** — 31k coins, **+42.1% em 7 dias** (+26.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Naomi Girma (87)** — 95k coins, **+17.3% em 7 dias** (+18% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malik Tillman (85)** — 26k coins, **+37.3% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tara McKeown (89)** — 28k coins, **+16.7% em 7 dias** (+13.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Naomi Girma (87)** — 95k coins, **+17.3% em 7 dias** (+21.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Trinity Rodman (88)** — 240k coins, **+15.9% em 7 dias** (+27% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tim Ream (85)** — 100k coins, **+13.6% em 7 dias** (+5.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +80,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Tim Howard (85, Premier League) lidera, com +80.4% em 7 dias a 23k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Weston McKennie (92, Serie A TIM) lidera, com +56.1% em 7 dias a 94k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

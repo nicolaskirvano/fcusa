@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:33:12.000Z
+pubDatetime: 2026-08-01T19:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 10.709 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 1.900 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 13 opções:** 10.400 coins.
+- **Posição mais frequente:** CAM, com 5 cartas.
+- **Faixa real:** 1.700 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,34 +41,36 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
+| Alyssa Thompson | 91 | LM | Barclays WSL | 11.500 coins | 0% |
+| Gisele Thompson | 90 | RB | NWSL | 11.250 coins | 0% |
+| Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 11.750 coins | -7.3% |
-| Julie Foudy | 88 | CM | Icons | 12.750 coins | +2% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 13.500 coins | 0% |
+| Clint Dempsey | 89 | CAM | Premier League | 12.750 coins | 0% |
+| DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 1.700 coins | +6.7% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 13.000 coins | -13.3% |
 | Trinity Rodman | 87 | RM | NWSL | 14.250 coins | 0% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.750 coins | -11.8% |
-| Tim Howard | 85 | GK | Premier League | 13.000 coins | -9.7% |
-| Mary Alice Vignola | 85 | LB | NWSL | 13.750 coins | 0% |
-| Christian Pulisic | 84 | RW | Serie A Enilive | 1.900 coins | +13.3% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.400 coins | 0% |
+| Tim Howard | 85 | GK | Premier League | 11.500 coins | -11.9% |
+| Madison Haley | 85 | RW | Barclays WSL | 11.750 coins | -7.8% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.500 coins | +3.7% |
 
 
 ## 📈 Destaques
 
 - **Julie Foudy (92, CM)** da Icons, a apenas **11.500 coins**
 
+- **Alyssa Thompson (91, LM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Gisele Thompson (90, RB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lindsey Heaps (90, CAM)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
-
-- **Caitlin Cosme (88, CB)** da D1 Arkema, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Julie Foudy (88, CM)** da Icons, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Christian Pulisic (87, CAM)** da Serie A TIM, a apenas **13.500 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
+- **Defesa:** Gisele Thompson (90, RB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 

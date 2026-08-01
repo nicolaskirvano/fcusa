@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T16:33:10.000Z
+pubDatetime: 2026-08-01T19:33:09.000Z
 title: "Investimentos EA FC: Americanos em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Catarina Macario (87, Barclays WSL) lidera, com +31.2% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jaedyn Shaw (89, NWSL) lidera, com +46.8% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Catarina Macario (87) acumula **+31.2% em 7 dias** a 20k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jaedyn Shaw (89) acumula **+46.8% em 7 dias** a 29k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.6% em 24h** e **+7.2% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.1% em 24h** e **+21.9% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **NWSL** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Catarina Macario | 87 | Barclays WSL | 20k coins | +27.3% | +31.2% | Esticada |
-| Rose Lavelle | 88 | NWSL | 59k coins | +24.5% | +17.3% | Esticada |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 50k coins | +22.2% | +10% | Esticada |
-| Lindsey Heaps | 88 | D1 Arkema | 120k coins | +30.8% | +7.5% | Esticada |
-| Lily Yohannes | 84 | D1 Arkema | 61k coins | +11.5% | +7% | Momentum moderado |
-| Carson Pickett | 86 | NWSL | 39k coins | +15.1% | +6% | Momentum moderado |
-| DeAndre Yedlin | 86 | MLS | 40k coins | +13.4% | +5.9% | Momentum moderado |
-| Korbin Shrader | 84 | D1 Arkema | 40k coins | +8% | +5.6% | Momentum moderado |
+| Jaedyn Shaw | 89 | NWSL | 29k coins | +9.4% | +46.8% | Momentum moderado |
+| Olivia Moultrie | 86 | NWSL | 25k coins | +35.1% | +28.2% | Esticada |
+| Rose Lavelle | 88 | NWSL | 55k coins | +30.6% | +23.5% | Esticada |
+| Ashley Sanchez | 88 | NWSL | 98k coins | +7.1% | +23.1% | Momentum moderado |
+| Catarina Macario | 87 | Barclays WSL | 16.750 coins | +23.8% | +21.9% | Esticada |
+| Rose Lavelle | 89 | NWSL | 77k coins | +4.4% | +17.5% | Entrada a observar |
+| Croix Bethune | 84 | NWSL | 49k coins | +4.7% | +14.3% | Entrada a observar |
+| Carson Pickett | 86 | NWSL | 40k coins | +15.1% | +6% | Momentum moderado |
+| Tim Ream | 85 | MLS | 64k coins | +20.6% | +5.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Catarina Macario (87)** — 20k coins, **+31.2% em 7 dias** (+27.3% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jaedyn Shaw (89)** — 29k coins, **+46.8% em 7 dias** (+9.4% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rose Lavelle (88)** — 59k coins, **+17.3% em 7 dias** (+24.5% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Olivia Moultrie (86)** — 25k coins, **+28.2% em 7 dias** (+35.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Phallon Tullis-Joyce (86)** — 50k coins, **+10% em 7 dias** (+22.2% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rose Lavelle (88)** — 55k coins, **+23.5% em 7 dias** (+30.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (88)** — 120k coins, **+7.5% em 7 dias** (+30.8% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ashley Sanchez (88)** — 98k coins, **+23.1% em 7 dias** (+7.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lily Yohannes (84)** — 61k coins, **+7% em 7 dias** (+11.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Catarina Macario (87)** — 16.750 coins, **+21.9% em 7 dias** (+23.8% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +82,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Catarina Macario (87, Barclays WSL) lidera, com +31.2% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jaedyn Shaw (89, NWSL) lidera, com +46.8% em 7 dias a 29k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
