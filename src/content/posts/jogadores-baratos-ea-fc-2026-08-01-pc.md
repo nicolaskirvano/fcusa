@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:33:20.000Z
+pubDatetime: 2026-08-01T13:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.143 coins.
+- **Preço médio das 7 opções:** 10.957 coins.
 - **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 1.500 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.700 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,10 +43,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Julie Foudy | 88 | CM | Icons | 14.500 coins | -8.8% |
-| Landon Donovan | 86 | CAM | MLS | 13.500 coins | +22.7% |
-| Naomi Girma | 85 | CB | NWSL | 1.500 coins | +57.9% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | 0% |
-| Madison Haley | 85 | RW | Barclays WSL | 14.250 coins | -11.6% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 2.700 coins | +56.2% |
+| Landon Donovan | 86 | CAM | MLS | 10.750 coins | -14.5% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | +2.2% |
+| Tim Howard | 85 | GK | Premier League | 14.500 coins | +43.3% |
 
 
 ## 📈 Destaques
@@ -57,9 +57,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julie Foudy (88, CM)** da Icons, a apenas **14.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **13.500 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Naomi Girma (85, CB)** da NWSL, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Landon Donovan (86, CAM)** da MLS, a apenas **10.750 coins**
 
 
 ## Como distribuir a banca
@@ -67,8 +67,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Lilly Reale (89, LB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Madison Haley (85, RW) por 14.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
