@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:33:20.000Z
+pubDatetime: 2026-08-01T01:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.058 coins.
-- **Posição mais frequente:** LB, com 2 cartas.
-- **Faixa real:** 2.600 a 12.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 10.094 coins.
+- **Posição mais frequente:** CM, com 2 cartas.
+- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,12 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 2.600 coins | -10% |
-| Landon Donovan | 86 | CAM | MLS | 12.750 coins | -13.6% |
-| Mary Alice Vignola | 85 | LB | NWSL | 11.000 coins | +13.3% |
+| Julie Foudy | 88 | CM | Icons | 14.750 coins | +43.2% |
+| Mallory Swanson | 87 | LM | NWSL | 1.700 coins | +7.1% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 2.800 coins | -6.7% |
+| Landon Donovan | 86 | CAM | MLS | 14.750 coins | +13.6% |
 | DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | -2.2% |
+| Mary Alice Vignola | 85 | LB | NWSL | 12.750 coins | +13.3% |
 
 
 ## 📈 Destaques
@@ -54,11 +56,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
 
-- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **2.600 coins** — já **valorizando**, sinal de procura crescente.
+- **Julie Foudy (88, CM)** da Icons, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Landon Donovan (86, CAM)** da MLS, a apenas **12.750 coins**
+- **Mallory Swanson (87, LM)** da NWSL, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mary Alice Vignola (85, LB)** da NWSL, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lindsey Heaps (87, CAM)** da Arkema PL, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
