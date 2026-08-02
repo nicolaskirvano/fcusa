@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:33:11.000Z
+pubDatetime: 2026-08-02T01:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.327 coins.
-- **Posição mais frequente:** CAM, com 5 cartas.
-- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.133 coins.
+- **Posição mais frequente:** CAM, com 4 cartas.
+- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Clint Dempsey | 89 | CAM | Premier League | 12.750 coins | 0% |
-| Tara McKeown | 89 | CB | NWSL | 13.000 coins | +15.6% |
-| Sophia Wilson | 88 | ST | NWSL | 2.000 coins | -5% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
-| Alex Freeman | 88 | RB | LALIGA EA SPORTS | 12.500 coins | -7% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 2.000 coins | +6.2% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 12.000 coins | +2% |
+| Julie Foudy | 88 | CM | Icons | 13.750 coins | +17% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 1.800 coins | 0% |
+| Jack McGlynn | 87 | CM | MLS | 14.000 coins | -3.4% |
 | Trinity Rodman | 87 | RM | NWSL | 14.250 coins | 0% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 14.500 coins | -13.3% |
-| Madison Haley | 85 | RW | Barclays WSL | 13.250 coins | +6% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.900 coins | +11.1% |
+| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | +6% |
+| Emily Sonnett | 83 | CB | NWSL | 1.500 coins | +50% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.700 coins | +7.7% |
 
 
 ## 📈 Destaques
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sophia Wilson (88, ST) por 2.000 coins é a referência de rating deste recorte.
+- **Ataque:** Madison Haley (85, RW) por 11.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -113,6 +113,7 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Americanos em 01/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-01-ps/)
 - [Mercado EA FC em 01/08: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-08-01-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
