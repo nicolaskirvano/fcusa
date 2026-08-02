@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:33:09.000Z
+pubDatetime: 2026-08-02T16:33:08.000Z
 title: "Mercado EA FC em 02/08: Americanos — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
     a: "Tim Ream (85, MLS), com +41.7% em 24h, a 85k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Brad Guzan (84), -44.9% em 24h, a 38k coins."
+    a: "Brad Guzan (84), -46% em 24h, a 37k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 24 cartas em alta contra 14 em queda (média 7.7%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 25 cartas em alta contra 22 em queda (média 4.34%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **02/08/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **24 em alta** e **14 em queda**, média de **7.7%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **25 em alta** e **22 em queda**, média de **4.34%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tim Ream (85) **+41.7%** · 🔴 **Maior baixa:** Brad Guzan (84) **-44.9%**
+> 🟢 **Maior alta:** Tim Ream (85) **+41.7%** · 🔴 **Maior baixa:** Brad Guzan (84) **-46%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Americanos — Console (PS)](/charts/mercado-ea-fc-2026-08-02-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 86.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 63.2% entre as cartas que se moveram; o universo observado reúne 51 cartas.
-- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 87.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.2% entre as cartas que se moveram; o universo observado reúne 60 cartas.
+- **Concentração:** NWSL aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tim Ream | 85 | MLS | 85k coins | +41.7% | +15.6% |
-| Ashley Sanchez | 87 | NWSL | 84k coins | +39.2% | +195.6% |
-| Alex Freeman | 88 | LALIGA EA SPORTS | 20k coins | +37.9% | +25% |
-| Malik Tillman | 88 | Bundesliga | 160k coins | +32.3% | +124.8% |
+| Tim Ream | 85 | MLS | 85k coins | +41.7% | +34.9% |
+| Malik Tillman | 88 | Bundesliga | 177k coins | +35.1% | +156.5% |
+| Ricardo Pepi | 87 | Eredivisie | 20k coins | +31.5% | -12.3% |
+| Alyssa Naeher | 88 | NWSL | 25k coins | +26.8% | +92.6% |
 | Folarin Balogun | 85 | Ligue 1 McDonald's | 32k coins | +26.2% | 0% |
-| Croix Bethune | 84 | NWSL | 50k coins | +21% | +5.4% |
-| Julie Foudy | 90 | Icons | 76k coins | +19.1% | -44.1% |
-| Christian Pulisic | 86 | Serie A TIM | 58k coins | +17.1% | +3.2% |
-| Alyssa Naeher | 88 | NWSL | 27k coins | +9.2% | +87.7% |
-| Weston McKennie | 84 | Serie A TIM | 54k coins | +9% | +21.1% |
+| Alex Morgan | 91 | Icons | 187k coins | +21.3% | +5% |
+| Mia Hamm | 93 | Icons | 664k coins | +18.9% | +33.2% |
+| Christian Pulisic | 86 | Serie A TIM | 62k coins | +18.9% | +2.4% |
+| Croix Bethune | 84 | NWSL | 50k coins | +12.3% | -2.2% |
+| Julie Foudy | 90 | Icons | 74k coins | +11% | -50.7% |
 
 
 ### Análise das altas
@@ -63,37 +63,40 @@ Panorama de **02/08/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 - **Tim Ream (85)** subiu **+41.7%** em 24h, a **85k coins** (faixa do dia: 56k–85k). Está +45% acima da média de 7 dias (aquecida).
 
-- **Ashley Sanchez (87)** subiu **+39.2%** em 24h, a **84k coins** (faixa do dia: 54k–116k). Está +46% acima da média de 7 dias (aquecida).
+- **Malik Tillman (88)** subiu **+35.1%** em 24h, a **177k coins** (faixa do dia: 124k–180k). Está +76% acima da média de 7 dias (aquecida).
 
-- **Alex Freeman (88)** subiu **+37.9%** em 24h, a **20k coins** (faixa do dia: 12.500–25k). Está em linha com a média de 7 dias (+2%).
+- **Ricardo Pepi (87)** subiu **+31.5%** em 24h, a **20k coins** (faixa do dia: 13.500–20k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Brad Guzan | 84 | MLS | 38k coins | -44.9% | -51% |
-| Ashley Sanchez | 88 | NWSL | 55k coins | -27.2% | -18.2% |
-| Trinity Rodman | 88 | NWSL | 71k coins | -20.7% | -1.4% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 49k coins | -14.9% | +2.3% |
-| Mia Hamm | 94 | Icons | 950k coins | -7.3% | +24.2% |
-| Jaelin Howell | 89 | NWSL | 32k coins | -5.2% | +77.8% |
+| Brad Guzan | 84 | MLS | 37k coins | -46% | -51.6% |
+| Timothy Weah | 85 | Ligue 1 McDonald's | 21k coins | -40.1% | +71.7% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 64k coins | -35.7% | -20.6% |
+| Ashley Sanchez | 88 | NWSL | 65k coins | -34% | -23.5% |
+| Lindsey Heaps | 88 | D1 Arkema | 137k coins | -31.4% | -37% |
+| Lindsey Heaps | 91 | D1 Arkema | 32k coins | -29.8% | -38.9% |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 52k coins | -14.5% | +11.9% |
+| Jaelin Howell | 89 | NWSL | 29k coins | -9.1% | +71.4% |
+| Lily Yohannes | 84 | D1 Arkema | 52k coins | -8.4% | -3.9% |
 
 
 ### Análise das baixas
 
-- **Brad Guzan (84)** caiu **-44.9%** em 24h, a **38k coins** (faixa do dia: 38k–79k). Está -42% abaixo da média de 7 dias (descontada).
+- **Brad Guzan (84)** caiu **-46%** em 24h, a **37k coins** (faixa do dia: 37k–79k). Está -44% abaixo da média de 7 dias (descontada).
 
-- **Ashley Sanchez (88)** caiu **-27.2%** em 24h, a **55k coins** (faixa do dia: 55k–130k). Está -29% abaixo da média de 7 dias (descontada).
+- **Timothy Weah (85)** caiu **-40.1%** em 24h, a **21k coins** (faixa do dia: 21k–60k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Trinity Rodman (88)** caiu **-20.7%** em 24h, a **71k coins** (faixa do dia: 48k–130k). Está -29% abaixo da média de 7 dias (descontada).
+- **Mark McKenzie (90)** caiu **-35.7%** em 24h, a **64k coins** (faixa do dia: 19.250–64k). Está +56% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Tim Ream já avançou 41.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Brad Guzan recuou -44.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Brad Guzan recuou -46%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -108,10 +111,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Tim Ream (85, MLS), com +41.7% em 24h, a 85k coins no Console (PS).
 
 **E a maior queda do dia?**
-Brad Guzan (84), -44.9% em 24h, a 38k coins.
+Brad Guzan (84), -46% em 24h, a 37k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 24 cartas em alta contra 14 em queda (média 7.7%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 25 cartas em alta contra 22 em queda (média 4.34%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
