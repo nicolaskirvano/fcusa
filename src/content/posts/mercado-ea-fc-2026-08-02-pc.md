@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:49.000Z
+pubDatetime: 2026-08-02T10:33:17.000Z
 title: "Mercado EA FC em 02/08: Americanos — PC"
 draft: false
 featured: true

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:43.000Z
+pubDatetime: 2026-08-02T10:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 02/08 — Console (PS)"
 draft: false
 featured: false

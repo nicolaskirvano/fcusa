@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:31:41.000Z
+pubDatetime: 2026-08-02T10:33:09.000Z
 title: "Investimentos EA FC: Americanos em 02/08 — Console (PS)"
 draft: false
 featured: true
