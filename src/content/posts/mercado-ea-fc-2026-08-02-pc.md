@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:33:17.000Z
+pubDatetime: 2026-08-02T19:33:20.000Z
 title: "Mercado EA FC em 02/08: Americanos — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
     a: "Malik Tillman (88, Bundesliga), com +58.9% em 24h, a 205k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lindsey Heaps (88), -14.6% em 24h, a 40k coins."
+    a: "Jaelin Howell (89), -44.7% em 24h, a 21k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 29 cartas em alta contra 13 em queda (média 21.47%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 24 cartas em alta contra 20 em queda (média 16.57%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **29 em alta** e **13 em queda**, média de **21.47%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **24 em alta** e **20 em queda**, média de **16.57%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Malik Tillman (88) **+58.9%** · 🔴 **Maior baixa:** Lindsey Heaps (88) **-14.6%**
+> 🟢 **Maior alta:** Malik Tillman (88) **+58.9%** · 🔴 **Maior baixa:** Jaelin Howell (89) **-44.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Americanos — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 73.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 69.0% entre as cartas que se moveram; o universo observado reúne 58 cartas.
-- **Concentração:** NWSL aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 63 cartas.
+- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Malik Tillman | 88 | Bundesliga | 205k coins | +58.9% | -9.7% |
-| Alex Morgan | 91 | Icons | 470k coins | +34.3% | +51.6% |
-| Jaedyn Shaw | 89 | NWSL | 40k coins | +32.5% | +28.2% |
-| Alex Morgan | 93 | Icons | 499k coins | +25.1% | -15.1% |
-| Michelle Cooper | 87 | NWSL | 27k coins | +24% | +61% |
-| Taylor Flint | 88 | NWSL | 212k coins | +13.7% | -6.5% |
-| Korbin Shrader | 84 | D1 Arkema | 40k coins | +11.1% | +8.7% |
-| Mia Hamm | 93 | Icons | 950k coins | +8.3% | +17.3% |
-| Croix Bethune | 84 | NWSL | 44k coins | +8% | +8% |
-| DeAndre Yedlin | 86 | MLS | 37k coins | +7.7% | +43% |
+| Malik Tillman | 88 | Bundesliga | 205k coins | +58.9% | -7.7% |
+| Christian Pulisic | 86 | Serie A TIM | 54k coins | +33.8% | 0% |
+| Ricardo Pepi | 87 | Eredivisie | 36k coins | +33.6% | -14.9% |
+| Haji Wright | 84 | EFL Championship | 46k coins | +11.4% | -7% |
+| Jack McGlynn | 87 | MLS | 25k coins | +9.4% | +1.9% |
+| Jaedyn Shaw | 89 | NWSL | 42k coins | +7.9% | +21.8% |
+| Folarin Balogun | 85 | Ligue 1 McDonald's | 30k coins | +7.1% | 0% |
+| Lily Yohannes | 84 | D1 Arkema | 45k coins | +5.6% | +1.6% |
+| Alex Morgan | 91 | Icons | 950k coins | +5.6% | +5.6% |
+| DeAndre Yedlin | 86 | MLS | 34k coins | +5.2% | +20.5% |
 
 
 ### Análise das altas
@@ -63,39 +63,41 @@ Panorama de **02/08/2026** (PC): mercado **aquecido** — as altas dominam o dia
 
 - **Malik Tillman (88)** subiu **+58.9%** em 24h, a **205k coins** (faixa do dia: 129k–240k). Está em linha com a média de 7 dias (+4%).
 
-- **Alex Morgan (91)** subiu **+34.3%** em 24h, a **470k coins** (faixa do dia: 349k–470k). Está +21% acima da média de 7 dias (aquecida).
+- **Christian Pulisic (86)** subiu **+33.8%** em 24h, a **54k coins** (faixa do dia: 40k–54k). Está em linha com a média de 7 dias (+4%).
 
-- **Jaedyn Shaw (89)** subiu **+32.5%** em 24h, a **40k coins** (faixa do dia: 28k–42k). Está +11% acima da média de 7 dias (aquecida).
+- **Ricardo Pepi (87)** subiu **+33.6%** em 24h, a **36k coins** (faixa do dia: 16.000–42k). Está +25% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 88 | D1 Arkema | 40k coins | -14.6% | -71% |
-| Rose Lavelle | 88 | NWSL | 48k coins | -12.5% | +14% |
-| Weston McKennie | 92 | Serie A TIM | 84k coins | -10.4% | +80.1% |
-| Tim Ream | 85 | MLS | 90k coins | -9.5% | -0.5% |
-| Christian Pulisic | 86 | Serie A TIM | 50k coins | -7% | -7% |
-| Mary Alice Vignola | 85 | NWSL | 28k coins | -6.7% | -2.6% |
-| Trinity Rodman | 88 | NWSL | 229k coins | -4.6% | +34.7% |
-| Crystal Dunn | 85 | D1 Arkema | 63k coins | -3.1% | -23.6% |
+| Jaelin Howell | 89 | NWSL | 21k coins | -44.7% | -10.6% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 59k coins | -31.4% | -8.3% |
+| Riley Tiernan | 88 | NWSL | 26k coins | -23% | +44.4% |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 37k coins | -21.6% | -14.4% |
+| Michelle Cooper | 87 | NWSL | 24k coins | -13% | +29.9% |
+| Taylor Flint | 88 | NWSL | 165k coins | -11.1% | -26.5% |
+| Tim Ream | 85 | MLS | 90k coins | -9.5% | +0.6% |
+| Korbin Shrader | 84 | D1 Arkema | 40k coins | -9.5% | -19% |
+| Rose Lavelle | 88 | NWSL | 45k coins | -8% | +17.9% |
+| Diego Luna | 89 | MLS | 30k coins | -7.9% | +35.8% |
 
 
 ### Análise das baixas
 
-- **Lindsey Heaps (88)** caiu **-14.6%** em 24h, a **40k coins** (faixa do dia: 40k–180k). Está -64% abaixo da média de 7 dias (descontada).
+- **Jaelin Howell (89)** caiu **-44.7%** em 24h, a **21k coins** (faixa do dia: 17.000–38k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Rose Lavelle (88)** caiu **-12.5%** em 24h, a **48k coins** (faixa do dia: 48k–54k). Está -18% abaixo da média de 7 dias (descontada).
+- **Hinata Miyazawa (87)** caiu **-31.4%** em 24h, a **59k coins** (faixa do dia: 38k–64k). Está +17% acima da média de 7 dias (aquecida).
 
-- **Weston McKennie (92)** caiu **-10.4%** em 24h, a **84k coins** (faixa do dia: 71k–96k). Está +29% acima da média de 7 dias (aquecida).
+- **Riley Tiernan (88)** caiu **-23%** em 24h, a **26k coins** (faixa do dia: 15.000–38k). Está em linha com a média de 7 dias (+4%).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Malik Tillman já avançou 58.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lindsey Heaps recuou -14.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Jaelin Howell recuou -44.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -110,10 +112,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Malik Tillman (88, Bundesliga), com +58.9% em 24h, a 205k coins no PC.
 
 **E a maior queda do dia?**
-Lindsey Heaps (88), -14.6% em 24h, a 40k coins.
+Jaelin Howell (89), -44.7% em 24h, a 21k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 29 cartas em alta contra 13 em queda (média 21.47%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 24 cartas em alta contra 20 em queda (média 16.57%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -129,6 +131,5 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Americanos em 02/08 — PC](/posts/jogadores-baratos-ea-fc-2026-08-02-pc/)
-- [Investimentos EA FC: Americanos em 02/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-02-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

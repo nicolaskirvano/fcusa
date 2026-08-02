@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T16:33:10.000Z
+pubDatetime: 2026-08-02T19:33:12.000Z
 title: "Jogadores baratos EA FC: Americanos em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.387 coins.
+- **Preço médio das 15 opções:** 11.967 coins.
 - **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,15 +46,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Clint Dempsey | 89 | CAM | Premier League | 12.750 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 1.800 coins | 0% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
-| Caitlin Cosme | 88 | CB | D1 Arkema | 12.000 coins | -5.9% |
-| Alex Freeman | 88 | RB | LALIGA EA SPORTS | 13.250 coins | -10% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 12.750 coins | -13.5% |
+| Jack McGlynn | 87 | CM | MLS | 11.000 coins | -6.2% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 11.000 coins | -13.5% |
 | Trinity Rodman | 87 | RM | NWSL | 14.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 12.000 coins | -4.3% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | +2.1% |
-| Madison Haley | 85 | RW | Barclays WSL | 12.750 coins | +10.9% |
+| Landon Donovan | 86 | CAM | MLS | 12.500 coins | +6.4% |
+| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | +4.5% |
+| Madison Haley | 85 | RW | Barclays WSL | 12.000 coins | +4.3% |
+| Tim Howard | 85 | GK | Premier League | 12.500 coins | -5.4% |
+| Mary Alice Vignola | 85 | LB | NWSL | 14.250 coins | +5.5% |
 
 
 ## 📈 Destaques
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sophia Wilson (88, ST) por 1.800 coins é a referência de rating deste recorte.
+- **Ataque:** Madison Haley (85, RW) por 12.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
