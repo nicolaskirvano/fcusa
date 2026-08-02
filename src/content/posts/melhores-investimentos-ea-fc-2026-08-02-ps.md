@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:33:09.000Z
+pubDatetime: 2026-08-02T13:33:11.000Z
 title: "Investimentos EA FC: Americanos em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Taylor Flint (88, NWSL) lidera, com +63.3% em 7 dias a 120k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Alyssa Naeher (88, NWSL) lidera, com +87.7% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Taylor Flint (88) acumula **+63.3% em 7 dias** a 120k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Alyssa Naeher (88) acumula **+87.7% em 7 dias** a 27k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.8% em 24h** e **+22.4% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.1% em 24h** e **+23.1% em 7 dias**.
+- **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **NWSL** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,26 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Taylor Flint | 88 | NWSL | 120k coins | +23.5% | +63.3% | Esticada |
-| Madison Haley | 85 | Barclays WSL | 16.000 coins | +20.8% | +30.6% | Esticada |
-| Haji Wright | 84 | EFL Championship | 55k coins | +19.6% | +29.4% | Momentum moderado |
-| Christian Pulisic | 87 | Serie A TIM | 16.750 coins | +11.1% | +22.4% | Momentum moderado |
-| Alex Morgan | 91 | Icons | 204k coins | +33.5% | +17.9% | Esticada |
-| Tim Ream | 85 | MLS | 85k coins | +31.8% | +15.6% | Esticada |
-| Croix Bethune | 84 | NWSL | 50k coins | +2.6% | +7.5% | Entrada a observar |
+| Alyssa Naeher | 88 | NWSL | 27k coins | +9.2% | +87.7% | Esticada |
+| Christian Pulisic | 87 | Serie A TIM | 16.750 coins | +28.8% | +36.7% | Esticada |
+| Alex Freeman | 88 | LALIGA EA SPORTS | 20k coins | +37.9% | +25% | Esticada |
+| Weston McKennie | 84 | Serie A TIM | 54k coins | +9% | +21.1% | Momentum moderado |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +4.7% | +18.5% | Entrada a observar |
+| Croix Bethune | 84 | NWSL | 50k coins | +21% | +5.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Taylor Flint (88)** — 120k coins, **+63.3% em 7 dias** (+23.5% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alyssa Naeher (88)** — 27k coins, **+87.7% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Madison Haley (85)** — 16.000 coins, **+30.6% em 7 dias** (+20.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Christian Pulisic (87)** — 16.750 coins, **+36.7% em 7 dias** (+28.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Haji Wright (84)** — 55k coins, **+29.4% em 7 dias** (+19.6% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Alex Freeman (88)** — 20k coins, **+25% em 7 dias** (+37.9% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Christian Pulisic (87)** — 16.750 coins, **+22.4% em 7 dias** (+11.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Weston McKennie (84)** — 54k coins, **+21.1% em 7 dias** (+9% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Alex Morgan (91)** — 204k coins, **+17.9% em 7 dias** (+33.5% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Korbin Shrader (84)** — 50k coins, **+18.5% em 7 dias** (+4.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +79,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Taylor Flint (88, NWSL) lidera, com +63.3% em 7 dias a 120k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Alyssa Naeher (88, NWSL) lidera, com +87.7% em 7 dias a 27k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
