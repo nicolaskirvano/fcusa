@@ -16,10 +16,10 @@
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
 <rect x="285" y="269" width="470" height="28" rx="7" fill="#38bdf8"/>
 <text x="765" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.250</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
-<rect x="285" y="327" width="470" height="28" rx="7" fill="#38bdf8"/>
-<text x="765" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.250</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">DaMarcus Beasley</text>
-<rect x="285" y="385" width="459" height="28" rx="7" fill="#38bdf8"/>
-<text x="754" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.000</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Sophia Smith</text>
+<rect x="285" y="327" width="150" height="28" rx="7" fill="#38bdf8"/>
+<text x="445" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">3.600</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lilly Reale</text>
+<rect x="285" y="385" width="470" height="28" rx="7" fill="#38bdf8"/>
+<text x="765" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">11.250</text>
 </svg>
