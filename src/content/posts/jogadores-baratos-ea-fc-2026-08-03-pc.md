@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:33:20.000Z
+pubDatetime: 2026-08-03T16:33:21.000Z
 title: "Jogadores baratos EA FC: Americanos em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 9.669 coins.
-- **Posição mais frequente:** LM, com 4 cartas.
-- **Faixa real:** 1.800 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 10.818 coins.
+- **Posição mais frequente:** LM, com 3 cartas.
+- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,13 +46,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
-| Alex Freeman | 88 | RB | LALIGA EA SPORTS | 14.750 coins | +8.6% |
-| Mallory Swanson | 87 | LM | NWSL | 1.800 coins | +33.3% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 3.300 coins | 0% |
+| Alex Freeman | 88 | RB | LALIGA EA SPORTS | 14.750 coins | +9.3% |
+| Lindsey Heaps | 87 | CAM | Arkema PL | 1.500 coins | -3.1% |
 | Trinity Rodman | 87 | RM | NWSL | 11.750 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 12.000 coins | +4.3% |
+| Landon Donovan | 86 | CAM | MLS | 12.000 coins | -9.3% |
 | DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | 0% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 3.100 coins | +10.7% |
 
 
 ## 📈 Destaques

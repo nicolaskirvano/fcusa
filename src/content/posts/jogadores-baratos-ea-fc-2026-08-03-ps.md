@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:33:11.000Z
+pubDatetime: 2026-08-03T16:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.563 coins.
+- **Preço médio das 15 opções:** 11.800 coins.
 - **Posição mais frequente:** CAM, com 5 cartas.
-- **Faixa real:** 1.800 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Alyssa Thompson | 91 | LM | Barclays WSL | 11.500 coins | 0% |
-| Gisele Thompson | 90 | RB | NWSL | 11.250 coins | 0% |
+| Julie Foudy | 91 | CM | Icons | 12.250 coins | -8.3% |
 | Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
-| Jaedyn Shaw | 89 | CAM | NWSL | 11.250 coins | -6.2% |
+| Gisele Thompson | 90 | RB | NWSL | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Clint Dempsey | 89 | CAM | Premier League | 11.500 coins | -9.8% |
-| Sophia Wilson | 88 | ST | NWSL | 2.900 coins | +50% |
-| DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
-| Lindsey Heaps | 87 | CAM | Arkema PL | 1.800 coins | +17.6% |
+| Jaedyn Shaw | 89 | CAM | NWSL | 12.000 coins | +1.9% |
+| Tara McKeown | 89 | CB | NWSL | 14.500 coins | +7.4% |
+| Sophia Wilson | 88 | ST | NWSL | 2.500 coins | +36.8% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 14.750 coins | +22.9% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 12.000 coins | -8.3% |
+| Michelle Cooper | 87 | RW | NWSL | 12.250 coins | 0% |
 | Trinity Rodman | 87 | RM | NWSL | 14.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 11.500 coins | +2.2% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.750 coins | -11.3% |
-| Tim Howard | 85 | GK | Premier League | 12.500 coins | -12.3% |
-| Mary Alice Vignola | 85 | LB | NWSL | 13.250 coins | 0% |
+| Landon Donovan | 86 | CAM | MLS | 14.250 coins | +22% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alyssa Thompson (91, LM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Gisele Thompson (90, RB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julie Foudy (91, CM)** da Icons, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lindsey Heaps (90, CAM)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jaedyn Shaw (89, CAM)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Gisele Thompson (90, RB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sophia Wilson (88, ST) por 2.900 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Wilson (88, ST) por 2.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -93,7 +93,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Americanos em 03/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-03-ps/)
 - [Mercado EA FC em 03/08: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-08-03-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
