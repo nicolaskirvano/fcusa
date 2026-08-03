@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:33:20.000Z
+pubDatetime: 2026-08-03T01:33:20.000Z
 title: "Jogadores baratos EA FC: Americanos em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 10.671 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 2.900 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 11.664 coins.
+- **Posição mais frequente:** LM, com 3 cartas.
+- **Faixa real:** 9.800 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -46,14 +46,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Clint Dempsey | 89 | CAM | Premier League | 13.250 coins | 0% |
-| Sophia Wilson | 88 | ST | NWSL | 5.200 coins | +14.3% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
-| Alex Freeman | 88 | RB | LALIGA EA SPORTS | 13.000 coins | +16.7% |
 | Trinity Rodman | 87 | RM | NWSL | 11.750 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 13.500 coins | +12.5% |
+| Landon Donovan | 86 | CAM | MLS | 13.500 coins | +8% |
 | Trinity Rodman | 85 | RM | NWSL | 9.800 coins | -4.8% |
 | DaMarcus Beasley | 85 | LM | MLS | 11.250 coins | 0% |
-| Catarina Macario | 83 | CAM | Barclays WSL | 2.900 coins | +3.6% |
 
 
 ## 📈 Destaques
@@ -74,8 +71,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 - **Defesa:** Gisele Thompson (90, RB) por 11.250 coins é a referência de rating deste recorte.
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
-
-- **Ataque:** Sophia Wilson (88, ST) por 5.200 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -112,7 +107,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Americanos em 02/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-02-pc/)
 - [Mercado EA FC em 02/08: Americanos — PC](/posts/mercado-ea-fc-2026-08-02-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

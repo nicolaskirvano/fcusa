@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T22:33:11.000Z
+pubDatetime: 2026-08-03T01:33:11.000Z
 title: "Jogadores baratos EA FC: Americanos em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.263 coins.
-- **Posição mais frequente:** LM, com 4 cartas.
-- **Faixa real:** 1.700 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.700 coins.
+- **Posição mais frequente:** CAM, com 5 cartas.
+- **Faixa real:** 2.300 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Julie Foudy | 92 | CM | Icons | 11.500 coins | 0% |
 | Alyssa Thompson | 91 | LM | Barclays WSL | 11.500 coins | 0% |
-| Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Gisele Thompson | 90 | RB | NWSL | 11.250 coins | 0% |
+| Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Clint Dempsey | 89 | CAM | Premier League | 12.750 coins | 0% |
+| Sophia Wilson | 88 | ST | NWSL | 2.300 coins | +20% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
-| Mallory Swanson | 87 | LM | NWSL | 1.700 coins | +18.2% |
-| Christian Pulisic | 87 | CAM | Serie A TIM | 11.000 coins | -12% |
-| Ricardo Pepi | 87 | ST | Eredivisie | 13.250 coins | -3% |
+| Caitlin Cosme | 88 | CB | D1 Arkema | 12.000 coins | -12% |
+| Christian Pulisic | 87 | CAM | Serie A TIM | 11.000 coins | -8.3% |
 | Trinity Rodman | 87 | RM | NWSL | 14.250 coins | 0% |
-| Landon Donovan | 86 | CAM | MLS | 12.750 coins | +8.5% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | -13.2% |
-| DaMarcus Beasley | 85 | LM | MLS | 11.500 coins | +4.5% |
-| Mary Alice Vignola | 85 | LB | NWSL | 12.500 coins | +11.8% |
+| Landon Donovan | 86 | CAM | MLS | 13.250 coins | +12.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 11.500 coins | -11.3% |
+| Mary Alice Vignola | 85 | LB | NWSL | 13.000 coins | +18% |
+| Catarina Macario | 83 | CAM | Barclays WSL | 2.700 coins | -3.6% |
 
 
 ## 📈 Destaques
@@ -63,9 +63,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alyssa Thompson (91, LM)** da Barclays WSL, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lindsey Heaps (90, CAM)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Gisele Thompson (90, RB)** da NWSL, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Lindsey Heaps (90, CAM)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
 
@@ -76,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Ricardo Pepi (87, ST) por 13.250 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Wilson (88, ST) por 2.300 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -113,7 +113,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Americanos em 02/08 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-08-02-ps/)
 - [Mercado EA FC em 02/08: Americanos — Console (PS)](/posts/mercado-ea-fc-2026-08-02-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
