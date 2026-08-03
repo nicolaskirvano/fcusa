@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:32:50.000Z
+pubDatetime: 2026-08-03T13:33:18.000Z
 title: "Mercado EA FC em 03/08: Americanos — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
     a: "Weston McKennie (84, Serie A TIM), com +42.9% em 24h, a 50k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Julie Foudy (91), -43.3% em 24h, a 20k coins."
+    a: "Trinity Rodman (88), -36.7% em 24h, a 145k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 16 cartas em alta contra 28 em queda (média -0.89%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 15 cartas em alta contra 31 em queda (média -4.89%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — predominam as quedas: **16 cartas subiram** e **28 caíram** (80+ acima de 5k coins), variação média de **-0.89%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — predominam as quedas: **15 cartas subiram** e **31 caíram** (80+ acima de 5k coins), variação média de **-4.89%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Weston McKennie (84) **+42.9%** · 🔴 **Maior baixa:** Julie Foudy (91) **-43.3%**
+> 🟢 **Maior alta:** Weston McKennie (84) **+42.9%** · 🔴 **Maior baixa:** Trinity Rodman (88) **-36.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Americanos — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,22 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — pr
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 86.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.4% entre as cartas que se moveram; o universo observado reúne 69 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 79.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 32.6% entre as cartas que se moveram; o universo observado reúne 71 cartas.
+- **Concentração:** NWSL aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Weston McKennie | 84 | Serie A TIM | 50k coins | +42.9% | +12.4% |
-| Alex Morgan | 93 | Icons | 585k coins | +34.5% | +8.7% |
-| Daniel Munie | 84 | MLS | 45k coins | +28.6% | +3.4% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 64k coins | +22.9% | +41% |
-| Ricardo Pepi | 87 | Eredivisie | 40k coins | +18.1% | +35.8% |
-| Mary Alice Vignola | 85 | NWSL | 30k coins | +16.5% | +11.1% |
-| Haji Wright | 84 | EFL Championship | 52k coins | +15.2% | +6% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 44k coins | +12.5% | +3.4% |
-| Jack McGlynn | 87 | MLS | 29k coins | +12.3% | +83.1% |
-| Alex Morgan | 91 | Icons | 950k coins | +5.6% | +5.6% |
+| Alex Pfeiffer | 90 | NWSL | 80k coins | +35% | -58.9% |
+| Ricardo Pepi | 87 | Eredivisie | 42k coins | +29.2% | +40.9% |
+| Alex Morgan | 93 | Icons | 585k coins | +17.2% | +12.1% |
+| Diego Luna | 89 | MLS | 24k coins | +16.9% | +1% |
+| Korbin Shrader | 84 | D1 Arkema | 50k coins | +11.1% | +0.5% |
+| Rose Lavelle | 88 | NWSL | 50k coins | +4% | -12.6% |
+| Haji Wright | 84 | EFL Championship | 46k coins | +3.8% | -9% |
 
 
 ### Análise das altas
@@ -61,43 +59,43 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — pr
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Weston McKennie (84)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +10% acima da média de 7 dias (aquecida).
+- **Weston McKennie (84)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 30k–50k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Alex Morgan (93)** subiu **+34.5%** em 24h, a **585k coins** (faixa do dia: 200k–650k). Está +12% acima da média de 7 dias (aquecida).
+- **Alex Pfeiffer (90)** subiu **+35%** em 24h, a **80k coins** (faixa do dia: 52k–90k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Daniel Munie (84)** subiu **+28.6%** em 24h, a **45k coins** (faixa do dia: 35k–45k). Está em linha com a média de 7 dias (+5%).
+- **Ricardo Pepi (87)** subiu **+29.2%** em 24h, a **42k coins** (faixa do dia: 29k–42k). Está +45% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julie Foudy | 91 | Icons | 20k coins | -43.3% | -2.4% |
-| Jaedyn Shaw | 89 | NWSL | 25k coins | -30.9% | -43.9% |
-| Alex Morgan | 91 | Icons | 320k coins | -25.4% | -27.1% |
-| Alyssa Naeher | 88 | NWSL | 21k coins | -22.7% | -27.4% |
-| Mia Hamm | 93 | Icons | 789k coins | -16.9% | +29.3% |
-| Sergiño Dest | 86 | Eredivisie | 150k coins | -16.7% | -11.8% |
+| Trinity Rodman | 88 | NWSL | 145k coins | -36.7% | -17.1% |
+| Lindsey Heaps | 91 | D1 Arkema | 67k coins | -34.6% | 0% |
+| Jaedyn Shaw | 89 | NWSL | 25k coins | -34% | -49.5% |
+| Ashley Sanchez | 88 | NWSL | 62k coins | -33.9% | -36.2% |
+| Alex Morgan | 91 | Icons | 320k coins | -31.9% | -20% |
+| Alyssa Naeher | 88 | NWSL | 21k coins | -24.1% | -27.4% |
+| Trinity Rodman | 88 | NWSL | 203k coins | -17.1% | +5.7% |
+| Sergiño Dest | 86 | Eredivisie | 90k coins | -17.1% | -12.3% |
+| Mia Hamm | 93 | Icons | 789k coins | -16.9% | +31.5% |
 | Carson Pickett | 86 | NWSL | 32k coins | -16.1% | -27% |
-| Malik Tillman | 88 | Bundesliga | 205k coins | -14.6% | 0% |
-| Trinity Rodman | 88 | NWSL | 203k coins | -13.6% | +5.7% |
-| Tim Ream | 85 | MLS | 79k coins | -12.7% | -12.2% |
 
 
 ### Análise das baixas
 
-- **Julie Foudy (91)** caiu **-43.3%** em 24h, a **20k coins** (faixa do dia: 16.500–36k). Está -11% abaixo da média de 7 dias (descontada).
+- **Trinity Rodman (88)** caiu **-36.7%** em 24h, a **145k coins** (faixa do dia: 145k–239k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Jaedyn Shaw (89)** caiu **-30.9%** em 24h, a **25k coins** (faixa do dia: 25k–42k). Está -27% abaixo da média de 7 dias (descontada).
+- **Lindsey Heaps (91)** caiu **-34.6%** em 24h, a **67k coins** (faixa do dia: 67k–112k). Está em linha com a média de 7 dias (+1%).
 
-- **Alex Morgan (91)** caiu **-25.4%** em 24h, a **320k coins** (faixa do dia: 320k–470k). Está -16% abaixo da média de 7 dias (descontada).
+- **Jaedyn Shaw (89)** caiu **-34%** em 24h, a **25k coins** (faixa do dia: 25k–42k). Está -26% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Weston McKennie já avançou 42.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Julie Foudy recuou -43.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Trinity Rodman recuou -36.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -108,7 +106,6 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — pr
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Americanos em 03/08 — PC](/posts/jogadores-baratos-ea-fc-2026-08-03-pc/)
-- [Investimentos EA FC: Americanos em 03/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-03-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -122,10 +119,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Weston McKennie (84, Serie A TIM), com +42.9% em 24h, a 50k coins no PC.
 
 **E a maior queda do dia?**
-Julie Foudy (91), -43.3% em 24h, a 20k coins.
+Trinity Rodman (88), -36.7% em 24h, a 145k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 16 cartas em alta contra 28 em queda (média -0.89%).
+Hoje o mercado está em baixa — predominam as quedas, com 15 cartas em alta contra 31 em queda (média -4.89%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
