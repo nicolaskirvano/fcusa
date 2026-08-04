@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:33:17.000Z
+pubDatetime: 2026-08-04T01:33:17.000Z
 title: "Mercado EA FC em 03/08: Americanos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Alyssa Naeher (88, NWSL), com +53.2% em 24h, a 42k coins no PC."
+    a: "Alyssa Naeher (88, NWSL), com +48.6% em 24h, a 40k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Lindsey Heaps (91), -39.9% em 24h, a 60k coins."
+    a: "Hinata Miyazawa (87), -30.2% em 24h, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 11 cartas em alta contra 25 em queda (média -4.98%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 19 cartas em alta contra 21 em queda (média -0.73%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — predominam as quedas: **11 cartas subiram** e **25 caíram** (80+ acima de 5k coins), variação média de **-4.98%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+O mercado do **EA FC** abre **03/08/2026** no PC com mercado **lateral** — sem direção clara: **19 cartas subiram** e **21 caíram** (80+ acima de 5k coins), variação média de **-0.73%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Alyssa Naeher (88) **+53.2%** · 🔴 **Maior baixa:** Lindsey Heaps (91) **-39.9%**
+> 🟢 **Maior alta:** Alyssa Naeher (88) **+48.6%** · 🔴 **Maior baixa:** Hinata Miyazawa (87) **-30.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Americanos — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,20 +35,21 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — pr
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 30.6% entre as cartas que se moveram; o universo observado reúne 58 cartas.
-- **Concentração:** NWSL aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 78.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.5% entre as cartas que se moveram; o universo observado reúne 61 cartas.
+- **Concentração:** NWSL aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alyssa Naeher | 88 | NWSL | 42k coins | +53.2% | +45.3% |
-| Tara McKeown | 89 | NWSL | 35k coins | +25% | +91.8% |
-| Korbin Shrader | 84 | D1 Arkema | 50k coins | +23.5% | +10.5% |
-| Ricardo Pepi | 87 | Eredivisie | 40k coins | +14.4% | +71% |
-| Haji Wright | 84 | EFL Championship | 52k coins | +12.9% | 0% |
-| Taylor Flint | 88 | NWSL | 162k coins | +11.1% | +12.5% |
+| Alyssa Naeher | 88 | NWSL | 40k coins | +48.6% | +41% |
+| Taylor Flint | 88 | NWSL | 192k coins | +29.7% | +20% |
+| Korbin Shrader | 84 | D1 Arkema | 45k coins | +14.6% | -0.6% |
+| Lindsey Heaps | 91 | D1 Arkema | 100k coins | +10.5% | +42.9% |
+| Christian Pulisic | 86 | Serie A TIM | 54k coins | +7.5% | 0% |
+| Phallon Tullis-Joyce | 86 | Barclays WSL | 44k coins | +6% | +2.3% |
+| Julie Foudy | 91 | Icons | 20k coins | +5.3% | 0% |
 
 
 ### Análise das altas
@@ -57,43 +58,40 @@ O mercado do **EA FC** abre **03/08/2026** no PC com mercado **em baixa** — pr
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alyssa Naeher (88)** subiu **+53.2%** em 24h, a **42k coins** (faixa do dia: 21k–42k). Está +57% acima da média de 7 dias (aquecida).
+- **Alyssa Naeher (88)** subiu **+48.6%** em 24h, a **40k coins** (faixa do dia: 21k–42k). Está +48% acima da média de 7 dias (aquecida).
 
-- **Tara McKeown (89)** subiu **+25%** em 24h, a **35k coins** (faixa do dia: 16.250–42k). Está +33% acima da média de 7 dias (aquecida).
+- **Taylor Flint (88)** subiu **+29.7%** em 24h, a **192k coins** (faixa do dia: 130k–230k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Korbin Shrader (84)** subiu **+23.5%** em 24h, a **50k coins** (faixa do dia: 39k–50k). Está +8% acima da média de 7 dias (aquecida).
+- **Korbin Shrader (84)** subiu **+14.6%** em 24h, a **45k coins** (faixa do dia: 39k–50k). Está em linha com a média de 7 dias (-3%).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lindsey Heaps | 91 | D1 Arkema | 60k coins | -39.9% | -21.4% |
-| Alex Morgan | 93 | Icons | 650k coins | -39.2% | -21% |
-| Hinata Miyazawa | 87 | Barclays Women’s Super League | 46k coins | -28.7% | +6.4% |
-| DeAndre Yedlin | 86 | MLS | 75k coins | -16% | +5.4% |
-| Sergiño Dest | 86 | Eredivisie | 91k coins | -15.5% | -8.8% |
-| Clint Dempsey | 85 | MLS | 33k coins | -12.2% | -31.5% |
-| Mary Alice Vignola | 85 | NWSL | 24k coins | -12.1% | +3% |
-| Rose Lavelle | 88 | NWSL | 43k coins | -10.7% | -32.3% |
-| Jaedyn Shaw | 89 | NWSL | 40k coins | -6.9% | -28.8% |
-| Lily Yohannes | 84 | D1 Arkema | 45k coins | -5.3% | -1.6% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 45k coins | -30.2% | +7.1% |
+| Mary Alice Vignola | 85 | NWSL | 22k coins | -19.6% | -8.2% |
+| Alex Morgan | 91 | Icons | 320k coins | -19% | -27.1% |
+| Alex Morgan | 93 | Icons | 545k coins | -15.2% | +10.2% |
+| Sergiño Dest | 86 | Eredivisie | 88k coins | -14.4% | -12.7% |
+| Malik Tillman | 85 | Bundesliga | 26k coins | -13.3% | -5.5% |
+| DeAndre Yedlin | 86 | MLS | 37k coins | -5.1% | +13.8% |
 
 
 ### Análise das baixas
 
-- **Lindsey Heaps (91)** caiu **-39.9%** em 24h, a **60k coins** (faixa do dia: 60k–104k). Está -9% abaixo da média de 7 dias (descontada).
+- **Hinata Miyazawa (87)** caiu **-30.2%** em 24h, a **45k coins** (faixa do dia: 44k–64k). Está -14% abaixo da média de 7 dias (descontada).
 
-- **Alex Morgan (93)** caiu **-39.2%** em 24h, a **650k coins** (faixa do dia: 200k–650k). Está +23% acima da média de 7 dias (aquecida).
+- **Mary Alice Vignola (85)** caiu **-19.6%** em 24h, a **22k coins** (faixa do dia: 22k–30k). Está +14% acima da média de 7 dias (aquecida).
 
-- **Hinata Miyazawa (87)** caiu **-28.7%** em 24h, a **46k coins** (faixa do dia: 44k–64k). Está -12% abaixo da média de 7 dias (descontada).
+- **Alex Morgan (91)** caiu **-19%** em 24h, a **320k coins** (faixa do dia: 320k–395k). Está -14% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alyssa Naeher já avançou 53.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Alyssa Naeher já avançou 48.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Lindsey Heaps recuou -39.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Hinata Miyazawa recuou -30.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -114,13 +112,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Alyssa Naeher (88, NWSL), com +53.2% em 24h, a 42k coins no PC.
+Alyssa Naeher (88, NWSL), com +48.6% em 24h, a 40k coins no PC.
 
 **E a maior queda do dia?**
-Lindsey Heaps (91), -39.9% em 24h, a 60k coins.
+Hinata Miyazawa (87), -30.2% em 24h, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 11 cartas em alta contra 25 em queda (média -4.98%).
+Hoje o mercado está lateral — sem direção clara, com 19 cartas em alta contra 21 em queda (média -0.73%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

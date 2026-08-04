@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Alyssa Naeher</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+53.2%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tara McKeown</text>
-<rect x="285" y="153" width="226" height="28" rx="7" fill="#22c55e"/>
-<text x="521" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+48.6%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Taylor Flint</text>
+<rect x="285" y="153" width="293" height="28" rx="7" fill="#22c55e"/>
+<text x="588" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.7%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Korbin Shrader</text>
-<rect x="285" y="211" width="212" height="28" rx="7" fill="#22c55e"/>
-<text x="507" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ricardo Pepi</text>
-<rect x="285" y="269" width="130" height="28" rx="7" fill="#22c55e"/>
-<text x="425" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Haji Wright</text>
-<rect x="285" y="327" width="116" height="28" rx="7" fill="#22c55e"/>
-<text x="411" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.9%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Taylor Flint</text>
-<rect x="285" y="385" width="100" height="28" rx="7" fill="#22c55e"/>
-<text x="395" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+11.1%</text>
+<rect x="285" y="211" width="144" height="28" rx="7" fill="#22c55e"/>
+<text x="439" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lindsey Heaps</text>
+<rect x="285" y="269" width="104" height="28" rx="7" fill="#22c55e"/>
+<text x="399" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+10.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Christian Pulisic</text>
+<rect x="285" y="327" width="74" height="28" rx="7" fill="#22c55e"/>
+<text x="369" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+7.5%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Phallon Tullis-Joyce</text>
+<rect x="285" y="385" width="59" height="28" rx="7" fill="#22c55e"/>
+<text x="354" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+6.0%</text>
 </svg>

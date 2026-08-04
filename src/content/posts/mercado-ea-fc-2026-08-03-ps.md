@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:33:08.000Z
+pubDatetime: 2026-08-04T01:33:07.000Z
 title: "Mercado EA FC em 03/08: Americanos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Tara McKeown (89, NWSL), com +57.8% em 24h, a 21k coins no Console (PS)."
+    a: "Rose Lavelle (89, NWSL), com +40.9% em 24h, a 77k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Alyssa Naeher (88), -34.5% em 24h, a 38k coins."
+    a: "Rose Lavelle (88), -23.4% em 24h, a 54k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 21 em queda (média 6.56%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 23 cartas em alta contra 21 em queda (média 7.14%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **20 cartas subiram** e **21 caíram** (80+ acima de 5k coins), variação média de **6.56%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta** — predominam as valorizações: **23 cartas subiram** e **21 caíram** (80+ acima de 5k coins), variação média de **7.14%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tara McKeown (89) **+57.8%** · 🔴 **Maior baixa:** Alyssa Naeher (88) **-34.5%**
+> 🟢 **Maior alta:** Rose Lavelle (89) **+40.9%** · 🔴 **Maior baixa:** Rose Lavelle (88) **-23.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Americanos — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 92.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.8% entre as cartas que se moveram; o universo observado reúne 56 cartas.
-- **Concentração:** NWSL aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 64.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.3% entre as cartas que se moveram; o universo observado reúne 59 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tara McKeown | 89 | NWSL | 21k coins | +57.8% | -26.8% |
-| Olivia Moultrie | 86 | NWSL | 20k coins | +42.9% | -9.1% |
-| Malik Tillman | 85 | Bundesliga | 36k coins | +42% | +108.8% |
-| Alex Morgan | 93 | Icons | 270k coins | +35.1% | -16.7% |
-| Lindsey Heaps | 88 | D1 Arkema | 213k coins | +34% | +43% |
-| Brad Guzan | 84 | MLS | 40k coins | +21.4% | -46.6% |
-| Taylor Flint | 88 | NWSL | 150k coins | +18.3% | +77.1% |
-| Naomi Girma | 87 | Barclays WSL | 100k coins | +13.6% | +142.4% |
-| Diego Luna | 89 | MLS | 33k coins | +10.8% | +79.7% |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 55k coins | +10% | +11.1% |
+| Rose Lavelle | 89 | NWSL | 77k coins | +40.9% | +5.4% |
+| Taylor Flint | 88 | NWSL | 179k coins | +36.6% | +104.6% |
+| Lindsey Heaps | 88 | D1 Arkema | 203k coins | +34% | +43% |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 72k coins | +30.4% | +62.2% |
+| Brad Guzan | 84 | MLS | 38k coins | +27.3% | -48.3% |
+| Julie Foudy | 91 | Icons | 24k coins | +25% | +11.8% |
+| Julie Foudy | 90 | Icons | 76k coins | +12.5% | -47.2% |
+| Naomi Girma | 87 | Barclays WSL | 97k coins | +10.2% | -3% |
+| Weston McKennie | 84 | Serie A TIM | 50k coins | +10% | 0% |
+| Alex Morgan | 93 | Icons | 280k coins | +9.4% | -15.4% |
 
 
 ### Análise das altas
@@ -61,42 +61,40 @@ O mercado do **EA FC** abre **03/08/2026** no Console (PS) com mercado **em alta
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tara McKeown (89)** subiu **+57.8%** em 24h, a **21k coins** (faixa do dia: 11.250–48k). Está +10% acima da média de 7 dias (aquecida).
+- **Rose Lavelle (89)** subiu **+40.9%** em 24h, a **77k coins** (faixa do dia: 50k–79k). Está +8% acima da média de 7 dias (aquecida).
 
-- **Olivia Moultrie (86)** subiu **+42.9%** em 24h, a **20k coins** (faixa do dia: 10.750–25k). Está em linha com a média de 7 dias (-8%).
+- **Taylor Flint (88)** subiu **+36.6%** em 24h, a **179k coins** (faixa do dia: 100k–186k). Está +76% acima da média de 7 dias (aquecida).
 
-- **Malik Tillman (85)** subiu **+42%** em 24h, a **36k coins** (faixa do dia: 16.250–37k). Está +73% acima da média de 7 dias (aquecida).
+- **Lindsey Heaps (88)** subiu **+34%** em 24h, a **203k coins** (faixa do dia: 149k–214k). Está +39% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alyssa Naeher | 88 | NWSL | 38k coins | -34.5% | -21.6% |
-| Weston McKennie | 92 | Serie A TIM | 60k coins | -26.5% | +10.9% |
-| Sergiño Dest | 86 | Eredivisie | 25k coins | -23.7% | +60.9% |
-| Catarina Macario | 87 | Barclays WSL | 22k coins | -15.9% | -7.5% |
-| Riley Tiernan | 88 | NWSL | 20k coins | -13.7% | -13.7% |
-| Ashley Sanchez | 88 | NWSL | 52k coins | -10.8% | -34.4% |
-| Mary Alice Vignola | 85 | NWSL | 26k coins | -10.5% | -26.1% |
-| Mia Hamm | 94 | Icons | 818k coins | -4.9% | +19.3% |
-| Mark McKenzie | 90 | Ligue 1 McDonald's | 28k coins | -3.3% | -12.1% |
+| Rose Lavelle | 88 | NWSL | 54k coins | -23.4% | +3.8% |
+| Mia Hamm | 94 | Icons | 790k coins | -16.8% | +12.9% |
+| Lily Yohannes | 84 | D1 Arkema | 45k coins | -13.5% | -10% |
+| Sergiño Dest | 86 | Eredivisie | 24k coins | -13.4% | +47% |
+| Alex Morgan | 91 | Icons | 1M coins | -11% | -6.8% |
+| Mark McKenzie | 90 | Ligue 1 McDonald's | 24k coins | -7.5% | -15.9% |
+| Malik Tillman | 85 | Bundesliga | 36k coins | -4.7% | +107.4% |
 
 
 ### Análise das baixas
 
-- **Alyssa Naeher (88)** caiu **-34.5%** em 24h, a **38k coins** (faixa do dia: 26k–46k). Está +26% acima da média de 7 dias (aquecida).
+- **Rose Lavelle (88)** caiu **-23.4%** em 24h, a **54k coins** (faixa do dia: 45k–88k). Está -11% abaixo da média de 7 dias (descontada).
 
-- **Weston McKennie (92)** caiu **-26.5%** em 24h, a **60k coins** (faixa do dia: 30k–94k). Está em linha com a média de 7 dias (+6%).
+- **Mia Hamm (94)** caiu **-16.8%** em 24h, a **790k coins** (faixa do dia: 778k–1.30M). Está em linha com a média de 7 dias (-8%).
 
-- **Sergiño Dest (86)** caiu **-23.7%** em 24h, a **25k coins** (faixa do dia: 24k–47k). Está -45% abaixo da média de 7 dias (descontada).
+- **Lily Yohannes (84)** caiu **-13.5%** em 24h, a **45k coins** (faixa do dia: 44k–65k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tara McKeown já avançou 57.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Rose Lavelle já avançou 40.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Alyssa Naeher recuou -34.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rose Lavelle recuou -23.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -118,13 +116,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Tara McKeown (89, NWSL), com +57.8% em 24h, a 21k coins no Console (PS).
+Rose Lavelle (89, NWSL), com +40.9% em 24h, a 77k coins no Console (PS).
 
 **E a maior queda do dia?**
-Alyssa Naeher (88), -34.5% em 24h, a 38k coins.
+Rose Lavelle (88), -23.4% em 24h, a 54k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 21 em queda (média 6.56%).
+Hoje o mercado está em alta — predominam as valorizações, com 23 cartas em alta contra 21 em queda (média 7.14%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

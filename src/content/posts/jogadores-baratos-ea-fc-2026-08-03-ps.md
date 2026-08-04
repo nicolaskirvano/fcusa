@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:33:10.000Z
+pubDatetime: 2026-08-04T01:33:10.000Z
 title: "Jogadores baratos EA FC: Americanos em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 10.350 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
+- **Preço médio das 15 opções:** 10.843 coins.
+- **Posição mais frequente:** LM, com 3 cartas.
 - **Faixa real:** 2.400 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -44,15 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Alyssa Thompson | 91 | LM | Barclays WSL | 11.500 coins | 0% |
 | Gisele Thompson | 90 | RB | NWSL | 11.250 coins | 0% |
 | Lindsey Heaps | 90 | CAM | D1 Arkema | 11.250 coins | 0% |
+| Sophia Smith | 89 | ST | NWSL | 2.400 coins | 0% |
 | Lilly Reale | 89 | LB | NWSL | 11.250 coins | 0% |
 | Clint Dempsey | 89 | CAM | Premier League | 11.500 coins | -9.8% |
+| Tara McKeown | 89 | CB | NWSL | 14.000 coins | -3.2% |
 | DaMarcus Beasley | 88 | LM | MLS | 11.000 coins | 0% |
 | Trinity Rodman | 87 | RM | NWSL | 14.250 coins | 0% |
-| Lindsey Horan | 86 | CM | Arkema PL | 2.400 coins | +15% |
-| Landon Donovan | 86 | CAM | MLS | 12.250 coins | -8% |
-| Madison Haley | 85 | RW | Barclays WSL | 11.750 coins | 0% |
-| Tim Howard | 85 | GK | Premier League | 12.250 coins | -2% |
-| Catarina Macario | 84 | CAM | Barclays WSL | 2.400 coins | -11.1% |
+| Lindsey Horan | 86 | CM | Arkema PL | 2.500 coins | -4.3% |
+| Landon Donovan | 86 | CAM | MLS | 12.500 coins | -9.8% |
+| Madison Haley | 85 | RW | Barclays WSL | 11.750 coins | +2.2% |
+| DaMarcus Beasley | 85 | LM | MLS | 12.750 coins | -4.3% |
+| Tim Howard | 85 | GK | Premier League | 13.250 coins | +6% |
 
 
 ## 📈 Destaques
@@ -65,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Lindsey Heaps (90, CAM)** da D1 Arkema, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lilly Reale (89, LB)** da NWSL, a apenas **11.250 coins**
+- **Sophia Smith (89, ST)** da NWSL, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -74,7 +76,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Julie Foudy (92, CM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Madison Haley (85, RW) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Sophia Smith (89, ST) por 2.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 

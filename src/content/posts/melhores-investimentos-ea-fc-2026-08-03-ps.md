@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:33:09.000Z
+pubDatetime: 2026-08-04T01:33:09.000Z
 title: "Investimentos EA FC: Americanos em 03/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Diego Luna (89, MLS) lidera, com +79.7% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jack McGlynn (87, MLS) lidera, com +63.6% em 7 dias a 17.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Diego Luna (89) acumula **+79.7% em 7 dias** a 33k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jack McGlynn (87) acumula **+63.6% em 7 dias** a 17.500 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Americanos em 03/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-03-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.0% em 24h** e **+43.0% em 7 dias**.
-- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.0% em 24h** e **+43.0% em 7 dias**.
+- **4 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **MLS** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Diego Luna | 89 | MLS | 33k coins | +10.8% | +79.7% | Esticada |
-| Taylor Flint | 88 | NWSL | 150k coins | +18.3% | +77.1% | Esticada |
-| Timothy Weah | 85 | Ligue 1 McDonald's | 20k coins | +5.3% | +53.8% | Momentum moderado |
-| Lindsey Heaps | 88 | D1 Arkema | 213k coins | +34% | +43% | Esticada |
-| Kaishū Sano | 84 | Bundesliga | 48k coins | +2.2% | +39.7% | Momentum moderado |
-| Korbin Shrader | 84 | D1 Arkema | 50k coins | +4.2% | +19% | Entrada a observar |
-| Phallon Tullis-Joyce | 86 | Barclays WSL | 55k coins | +10% | +11.1% | Momentum moderado |
+| Jack McGlynn | 87 | MLS | 17.500 coins | +12.5% | +63.6% | Esticada |
+| Hinata Miyazawa | 87 | Barclays Women’s Super League | 72k coins | +30.4% | +62.2% | Esticada |
+| Lindsey Heaps | 88 | D1 Arkema | 203k coins | +34% | +43% | Esticada |
+| Kaishū Sano | 84 | Bundesliga | 48k coins | +2.2% | +19.5% | Entrada a observar |
+| Julie Foudy | 91 | Icons | 24k coins | +25% | +11.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Diego Luna (89)** — 33k coins, **+79.7% em 7 dias** (+10.8% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jack McGlynn (87)** — 17.500 coins, **+63.6% em 7 dias** (+12.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Taylor Flint (88)** — 150k coins, **+77.1% em 7 dias** (+18.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hinata Miyazawa (87)** — 72k coins, **+62.2% em 7 dias** (+30.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Timothy Weah (85)** — 20k coins, **+53.8% em 7 dias** (+5.3% em 24h). Preço -42% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lindsey Heaps (88)** — 203k coins, **+43% em 7 dias** (+34% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lindsey Heaps (88)** — 213k coins, **+43% em 7 dias** (+34% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kaishū Sano (84)** — 48k coins, **+19.5% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kaishū Sano (84)** — 48k coins, **+39.7% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julie Foudy (91)** — 24k coins, **+11.8% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Diego Luna (89, MLS) lidera, com +79.7% em 7 dias a 33k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jack McGlynn (87, MLS) lidera, com +63.6% em 7 dias a 17.500 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
